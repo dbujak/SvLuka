@@ -38,8 +38,8 @@ namespace SvLuka.Login
 				try
 				{
 
-					properIT.Public.ValidateUser objBus = new properIT.Public.ValidateUser();
-					strEnc = objBus.GetUser( privateKey, publicKey, strEnc );
+                    //properIT.Public.ValidateUser objBus = new properIT.Public.ValidateUser();
+                    //strEnc = objBus.GetUser( privateKey, publicKey, strEnc );
 
 					Session["userID"] = strEnc;
 					Session["boolLogged"] = true;

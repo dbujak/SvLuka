@@ -46,7 +46,7 @@
 						<p>In case of doubt, the guidance of one's confessor or pastor should be sought.</p>
 						</asp:Label>
 						
-
+                        <asp:Label ID="lblCalendars" runat="server"></asp:Label>
 					</TD>
 					<TD vAlign="top"></TD>
 					<TD vAlign="top"><uc1:right id="Right1" runat="server" Visible="false"></uc1:right></TD>
