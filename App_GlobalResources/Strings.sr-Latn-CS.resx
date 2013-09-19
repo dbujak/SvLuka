@@ -1,0 +1,1954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="1_title" xml:space="preserve">
+    <value>Srpska pravoslavna crkva Sv Luke</value>
+  </data>
+  <data name="2_home_religius" xml:space="preserve">
+    <value>
+      Tropar Glas 3:&lt;br&gt;
+      Apostole sveti i evandjeliste Luka,&lt;br&gt;
+      moli milostivog Boga, da oprostaj&lt;br&gt;
+      grehova daruje dusama nasim.
+    </value>
+  </data>
+  <data name="3_introduction" xml:space="preserve">
+    <value>Crkva Sv Luke</value>
+  </data>
+  <data name="4_home" xml:space="preserve">
+    <value>Kampanja za Crkvu</value>
+  </data>
+  <data name="5_whatsnew" xml:space="preserve">
+    <value>Novosti</value>
+  </data>
+  <data name="6_schedules" xml:space="preserve">
+    <value>Kalendar</value>
+  </data>
+  <data name="7_home_page_title" xml:space="preserve">
+    <value>Dobro nam dosli</value>
+  </data>
+  <data name="8_home_text" xml:space="preserve">
+    <value>&lt;h3&gt;
+    Kаmpаnjа zа Srpsku Prаvoslаvnu Crkvu Sveti Lukа
+    &lt;br /&gt;
+    &lt;span style="font-size: 9pt"&gt;“Svаki po volji svog srcа, а ne sа žаlošću ili od nevolje.”
+        2. Korinćаnimа, 9:7а &lt;/span&gt;
+&lt;/h3&gt;
+Drаgi prijаtelji i pаrohijаne Srpske Prаvoslаvne Crkve Svetog Luke,
+&lt;br /&gt;
+&lt;br /&gt;
+Iznаd nаvedene reči svetog Pаvlа u pismu Korinćаnimа su od posebnog znаčаjа u nаšem
+nаstojаnju dа uspešаn zаvršetаk Kаmpаnje zа Srpsku Prаvoslаvnu Crkvu Sveti Lukа. Moždа
+ste nedаvno videli PoverPoint prezentаciju o nаšoj kаmpаnji ili neki drugi mаterijаl
+u vezi sа kаmpаnjom koji prаti ovo pismo.
+&lt;br /&gt;
+&lt;br /&gt;
+Kаo što moždа znаte, kаmpаnjа imа cilj dа se sаkupi $1,250,000. Koristi zа zаjednicu
+su sledeće:&lt;br /&gt;
+&lt;ol&gt;
+    &lt;li&gt;Održаvаnje gornjа dvа sprаtа zgrаde kаo pаrohijski i poslovni prostor. &lt;/li&gt;
+    &lt;li&gt;Potpuno renovirаnje i proširivаnje nа nižem nivou (udvostručаvаnje prostorа) koji će
+        uključi prostor zа kаpelu (kаpаcitetа 180 osobа), socijаlne sаlа (kаpаcitetа 159
+        osobа), i novu kuhinju.&lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Renovirаnje nаšeg imаnjа dа uključi novi pаrking i prilаzni put, osvetljenje, pejzаž,
+            kаo i novi sistem uprаvljаnjа vodаmа.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+Mi ponizno trаžimo smislen i lično znаčаjаn poklon, koji se može dаti u petogodišnjem
+obećаnju (five-year pledge). Nаrаvno, sаmo vi možete odlučiti štа je zа Vаs i vаšu
+porodicu požrtvovаni i smisleni doprinos. Imаjte nа umu dа ćemo biti zаhvаlni zа
+sve što Vi odlučite dа dаte. Ako niste u poziciji dа dаte, mi skromno molimo zа
+vаšu dobru volje i vаše molitve.
+&lt;br /&gt;
+&lt;br /&gt;
+Klinkinte nа linkove ispod zа više informаcijа:&lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.presentation.serbian.pdf" target=_blank&gt;Prezentаcijа Kаpitаlne Kаmpаnje
+            zа izgrаdnju srpske prаvoslаvne Crkve Sv. Lukа&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.rendering.pdf" target=_blank&gt;Kompjuterske slike buduće Crkve&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.ways.to.give.serbian.pdf" target=_blank&gt;Mogucnosti uplate u fond za kapitalnu
+            kampanju prikupljanja novca za crkvu Sv. Luke&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Donacije putem Interneta&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.faq.serbian.pdf" target=_blank&gt;Često postаvljаnа pitаnjа&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+&lt;br /&gt;
+Srdаčno, vаši u Hristu
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Otаc Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
+        &lt;td style="width: 120px"&gt;
+            &amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            Pаrohijski sveštenik&lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            Predsednik Komitetа zа Kаpitаlnu Kаmpаnju&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;</value>
+  </data>
+  <data name="9_whatsnew_page_title" xml:space="preserve">
+    <value>Novosti</value>
+  </data>
+  <data name="10_directions_page_title" xml:space="preserve">
+    <value>Uputstva za voznju</value>
+  </data>
+  <data name="11_directions_directions" xml:space="preserve">
+    <value>Uputstvo:</value>
+  </data>
+  <data name="12_directions" xml:space="preserve">
+    <value>Uputstva za voznju</value>
+  </data>
+  <data name="13_whatsnew_updated" xml:space="preserve">
+    <value>Dodano</value>
+  </data>
+  <data name="14_schedules_page_title" xml:space="preserve">
+    <value>Raspored sluzbi</value>
+  </data>
+  <data name="15_donation_page_title" xml:space="preserve">
+    <value>Donacije</value>
+  </data>
+  <data name="16_donation_instruction" xml:space="preserve">
+    <value>
+      &lt;p&gt;Na zalost bili smo prinudjeni da odkazemo donacije putem Interneta. Odaziv je bio jako slab, oko $200 mjesecno u prosjeku, a sa obzirom da se ovaj servis morao placati svakog mjeseca bez obzira na kolicinu doniranih sretstava, odlucili smo da prestanemo sa ovim vidom donacija.
+
+      &lt;p&gt;Molimo vas da nam posaljete namjerenu donaciju putem poste na nasu dole navedenu adresu.
+
+      &lt;p&gt;Hvala velika!
+
+      &lt;p&gt;10660 River Road&lt;br&gt;
+      Potomac, Maryland 20854
+    </value>
+  </data>
+  <data name="17_donation_select_amount" xml:space="preserve">
+    <value>Izaberite sumu:</value>
+  </data>
+  <data name="18_donation_missing" xml:space="preserve">
+    <value>Zaboravili ste da uneste  prilog</value>
+  </data>
+  <data name="19_donation_notvalid" xml:space="preserve">
+    <value>Niste unijeli dobar broj.</value>
+  </data>
+  <data name="20_donation_submit" xml:space="preserve">
+    <value>Posaljite donaciju</value>
+  </data>
+  <data name="21_donation_min" xml:space="preserve">
+    <value>min $5</value>
+  </data>
+  <data name="22_footer_chat" xml:space="preserve">
+    <value>
+      &lt;table height="20"&gt;
+      &lt;tr&gt;
+      &lt;td&gt;
+      &lt;span class="footerChat"&gt;
+      &lt;!-- Boldcenter Live Chat Button HTML v1.10 (Type=Web,ChatButton=- None -,ChatWindow=- None -,Website=- None -) --&gt;
+      &lt;a href="http://chat.boldcenter.com/aid/304086841263900764/bc.chat" target="_blank"
+      onClick="this.newWindow = window.open('http://chat.boldcenter.com/aid/304086841263900764/bc.chat?url=' + document.location, 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"&gt;
+      &lt;b&gt;Kliknite ovdje za pomoc uzivo!&lt;/b&gt;
+      &lt;/a&gt;
+      &lt;!-- /Boldcenter Live Chat Button HTML v1.10 --&gt;
+      &lt;/span&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </value>
+  </data>
+  <data name="24_thankyou_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Postovani/a dbujakbname,&lt;/p&gt;
+
+      &lt;p&gt;Naljepse se zahvaljujemo na vasoj velikodusnoj donacije od $dbujakamount. Jedino zajedno mozemo ostvariti nas san - da napokon izgradimo crkvu!&lt;/p&gt;
+
+      &lt;p&gt;Hvala jos jednom i molimo vas da dodjete opet!&lt;/p&gt;
+    </value>
+  </data>
+  <data name="25_thankyou_ps" xml:space="preserve">
+    <value>
+      &lt;br&gt;&lt;br&gt;
+      PS&lt;br&gt;
+      Possto je vasa donacija bila $250 ili vise, dobicete potvrdno pismo od nas o tome - tako je regulisano po US zakonima.
+    </value>
+  </data>
+  <data name="23_thinkyou_title" xml:space="preserve">
+    <value>Hvala na donaciji!</value>
+  </data>
+  <data name="24_header_donate" xml:space="preserve">
+    <value>&lt;a href="/SvLuka/Donations/donation.aspx"&gt;&lt;font size=4&gt;&lt;b&gt;Internet Donacije&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;</value>
+  </data>
+  <data name="25_sorrypage_title" xml:space="preserve">
+    <value>Izvnjavamo se...</value>
+  </data>
+  <data name="26_sorry_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Hvala sto ste voljni da donirate novac. Na zalost postoji neki problem i sistem ne prihvata vasu kredidnu karticu.&lt;/p&gt;
+
+      &lt;p&gt;Mozete opet probati polije, ili nas kontaktirati putem telefona, e-maila ili uzivo cata na dnu svake stranice.&lt;p&gt;
+
+      &lt;p&gt;Izvinjavamo se zbog ove neprijatnosti.&lt;/p&gt;
+    </value>
+  </data>
+  <data name="27_donations" xml:space="preserve">
+    <value>Donacije</value>
+  </data>
+  <data name="28_other" xml:space="preserve">
+    <value>Ostalo</value>
+  </data>
+  <data name="29_contactus" xml:space="preserve">
+    <value>Kontakt informacije</value>
+  </data>
+  <data name="30_photos" xml:space="preserve">
+    <value>Slike i video</value>
+  </data>
+  <data name="31_newsletter" xml:space="preserve">
+    <value>Publikacije</value>
+  </data>
+  <data name="32_teenpage" xml:space="preserve">
+    <value>Skola za djecu</value>
+  </data>
+  <data name="33_teenhome" xml:space="preserve">
+    <value>Glavna</value>
+  </data>
+  <data name="34_teenyouthgroup" xml:space="preserve">
+    <value>Grupa za mlade</value>
+  </data>
+  <data name="36_teenpage_text" xml:space="preserve">
+    <value>&lt;p&gt;Nedeljnja skola pocinje odmah nakon Pricesca na Svetoj Liturgiji&lt;/P&gt;
+
+
+      &lt;p&gt;
+      Wayside Elementary School&lt;br&gt;
+
+10011 Glen Road&lt;br&gt;
+Potomac MD 20854&lt;br&gt;&lt;/p&gt;
+
+
+
+      &lt;p&gt;Naravno, djeca svih uzrasta su dobrodosla! &lt;/p&gt;
+
+      &lt;p&gt;Za dodatne informacije obratite se Beki Kesic na tel: 703-421-1254 ili e-mail: &lt;a href="mailto:Kesic.becky@verizon.net"&gt;Kesic.becky@verizon.net&lt;/a&gt;.&lt;/p&gt;
+
+      &lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;p&gt;Dragi tinejdzeri, &lt;/p&gt;
+
+
+
+      &lt;p&gt;     Drago nam je da imamo ovu specijalnu skeciju na nasem crkvenom sajtu da mozemo da objasnimo neke stvari koje vas interesuju, ili sa kojima cete se susresti u toku zivota.
+
+
+      &lt;p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/YouthGroup.aspx"&gt;Grupa za mlade&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/East.aspx"&gt;Zasto se okrecemo na istok kad se molimo?&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/Tattoing.aspx"&gt;Da li je tetovaza i busenje tijela zaista lose?!!&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/PrayerRopes.aspx"&gt;Vise o brojanicama&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;/p&gt;</value>
+  </data>
+  <data name="35_teenpage_title" xml:space="preserve">
+    <value>Stranica za mlade</value>
+  </data>
+  <data name="37_youthgroup_title" xml:space="preserve">
+    <value>Grupa za mlade</value>
+  </data>
+  <data name="38_youthgroup_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Izvinjavamo se sto stranica nije prevedena. Ako imate vremena da prevedete molimo vas da nas kontaktirate na &lt;a href="mailto:webmaster2006@svluka.org"&gt;email&lt;/a&gt;&lt;/p&gt;
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;&lt;FONT size=5&gt;&lt;STRONG&gt;Teen Youth Group&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;ARE YOU . . . . &lt;/P&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Between the ages of 13 – 18? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Looking for opportunities to develop friendships with other Orthodox
+      Christians, like you? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Interested in supporting your church? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Willing to volunteer your time and talents to help others? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Curious about how our faith helps teens deal with the difficult
+      issues we face each day? &lt;/DIV&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;If so, then you might be interested in joining the&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;&lt;U&gt;&lt;STRONG&gt;&lt;FONT size=5&gt;St. Luke Serbian Orthodox Youth
+      Group&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/U&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;We will meet once a month for fellowship, activities, and
+      discussions. Some possible activities may include: &lt;/P&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Attending a youth retreat with other Orthodox Christian youth or
+      other Serbian Orthodox youth. &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Going bowling with the group &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Assisting members of our parish who may need basic household projects
+      completed &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Preparing and serving food to the homeless &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Having informal discussions about issues teens face &lt;/DIV&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;For more information about the Youth Group, please contact Father Alex or Becky Kesic. &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Father Alex: &lt;A
+      href="mailto:Fathermicich@yahoo.com"&gt;Fathermicich@yahoo.com&lt;/A&gt; or 301-299-2704
+      &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Becky Kesic: &lt;A
+      href="mailto:Kesic.becky@verizon.net"&gt;Kesic.becky@verizon.net&lt;/A&gt; or
+      703-421-1254&lt;/P&gt;
+    </value>
+  </data>
+  <data name="39_eastpage_title" xml:space="preserve">
+    <value>Zasto se okrecemo na istok kad se molimo? </value>
+  </data>
+  <data name="40_eastpage_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Da li ste se ikada zapitali zasto moramo da se okrenemo na istok kad se molimo, zasto je oltar u pravoslavnim crkvama na istocnoj strani, zasto stavljamo ikone na istocni zid kuce, zasto mrtve sahranjujemo okrenute ka istoku? Ova i mnoga druga pitanja vezana za nasu veru se pojavljuju svakog dana. Svakako, zasluzuju objasnjenje.
+
+      &lt;p&gt;Nije bez razloga niti slucajno to sto svoje molitve usmeravamo na istok. Naravno, mozemo se moliti Svemogucem Bogu na bilo kom mestu i u bilo koje vreme, i Bog, koji je svuda, ce cuti nase molitve, cak i ako nismo okrenuti ka istoku. Ipak, znamo da su neke od osobina Bozijih da on jeste duhovno svetlo, ‘i prihvati da Bog jeste svetlo, i u njemu nema tame uopste’ (1 Jovan 1:5) i Isus se u Bibliji zove &lt;b&gt;Sunce pravde&lt;/b&gt; "Ali vama koji strahujete od moga imena sinuce Sunce pravde sa izlecenjem na krilima" (Mal 4:2)
+
+      &lt;p&gt; " Sunce nece vise biti tvoja svetlost po danu , niti ce ti mesecev sjaj sijati , jer ce ti GOSPOD biti vecito svetlo, i tvoj Bog ce biti tvoja slava" (Isa 60:19). Zbog toga, istok je strana sveta koja se mora dodeliti obozavanju Njegovom. Prema tome, vidimo da je Hrist to svetlo koje dolazi sa istoka.
+
+      &lt;p&gt;Svako jutro kad se probudimo i otvorimo oci, vidimo kako se sunce radja na istoku, salje na nas svetlost svojih zraka i obavija nas cudesnim sjajem, ispunjavajuci nam srca srecom. Na isti nacin, nas Gospod Isus Hrist sija nad nama svakog dana kao svetlo sveta. On je Sunce pravde koje nam sija svakog dana i obavija nas svojim blagoslovima, prosvetljujuci nasa srca. Kad jednom iskusimo zadovoljstvo koje izaziva to svetlo u nasim srcima, prepoznacemo Njega kao naseg Gospoda i Spasioca. Uvek se okrecemo ka istoku da bismo gledali prelepo lice Isusa Hrista od kojeg primamo svaki vredan poklon. On je ‘milo svetlo nebeskog Oca’ (vecernja molitva), zahvaljujuci kojem ne hodamo ovim svetom po tami.
+
+      &lt;p&gt;Rajska basta je takodje zasadjena na istoku. Kad su Adam i Eva izbaceni iz Raja, Bog im je naredio da idu dalje od Raja, sto je, jasno, ka zapadu, tako da sad obozavamo Boga trazeci i tezeci ka svojoj nekadasnjoj otadzbini, ‘izgubljenom Raju’. Takodje, Judino pleme, kao najdragocenije, je postavilo svoje satore na istoku. "I na istocnoj strani prema izlasku sunca ce vodje Judinog kampa postaviti satore" (Num 2:3).
+
+      &lt;p&gt;Stavise, Hrist, kad je razapet na krstu, je bio licem okrenut ka zapadu, i zato se molimo okrenuti istoku, neprestano tezeci ka njemu. I kad je ponovo bio primljen u Raj, uzdizao se ka istoku i zbog toga ga njegovi apostoli obozavaju. On ce ponovo doci na isti nacin na koji su ga oni videli da ide prema Raju, kao sto je i sam gospod rekao : "Kao sto svetlo dolazi sa istoka i sija jednako na zapad, takav ce biti i dolazak Sina covecijeg" (Mateja 24:27). U ocekivanju Njegovog drugog dolaska, molimo se okrenuti ka istoku; i sahranjujemo preminule okrenute ka istoku, jer se nadamo i verujemo u vaskrsnuce mrtvih i Njegov slavan dolazak sa istoka.
+
+      &lt;p&gt;Zapamtite, takodje, da , pre nego sto se neko krsti, okrene se, zajedno sa kumom, ka zapadu i odrekne se Satane kroz molitve isterivanja. Nakon sto se osoba ili kum (ako je u pitanju dete), odrekne Satane i njegovih zlih dela, mora se okrenuti ka oltaru(ili istoku), i izjaviti da je sjedinjen sa Hristom, citajuci Nikejski simbol vere.
+
+      &lt;p&gt;Sad, kad znamo zasto se hriscani stalno okrecu ka istoku, mozemo razumeti zasto se Pravoslavna crkva zove Istocna pravoslavna crkva. Ovo se, naravno, ne odnosi na geografski polozaj crkve, jer, cak  i ako zivimo u Americi (koja se smatra zapadnjackom drzavom), pripadamo Istocnoj pravoslavnoj crkvi. Pravoslavna crkva nije geografski locirana u jednoj drzavi i na jednom mestu, nego je rasirena po celom svetu: "idite zato i trazite propovednike medju svim nacijama…." (Mateja 28:19).
+
+      &lt;p&gt;Neka Sunce pravde, Isus Hrist, uvek sija nad nama da mozemo jasno da vidimo usku stazu koja vodi do Carstva nebeskog.
+    </value>
+  </data>
+  <data name="41_tattooingpage_title" xml:space="preserve">
+    <value>Da li je tetovaza i busenje tijela zaista lose?!!</value>
+  </data>
+  <data name="42_tattooingpage_text" xml:space="preserve">
+    <value>
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"
+      align=center&gt;&lt;SPAN style="FONT-SIZE: 16pt"&gt;Da li su tetovaza i busenje tela
+      zaista losi?&lt;?xml:namespace prefix = o ns =
+      "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN
+      style="mso-spacerun: yes"&gt;  &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"
+      align=center&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;“Sve mi je dozvoljeno&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"
+      align=center&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;-&lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;ali&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt"&gt;
+      &lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;mi&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt"&gt;
+      &lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;ne&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt"&gt;
+      &lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;cini&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt"&gt;
+      &lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;sve&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt"&gt;
+      &lt;/SPAN&gt;&lt;/I&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;dobro&lt;/SPAN&gt;&lt;/I&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;”&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center"
+      align=center&gt;&lt;I style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Vrlo
+      cesto u zivotu cujemo reci koje nam nase zalutalo drustvo pobedonosno izgovara :
+      ‘Hajde da se zabavljamo, hajde da probamo, koga briga, nema veze, samo napred,
+      bez straha, zaboravi to, to je kul, bolje sad nego nikad, uzivamo u tome, sledi
+      svoje nagone, iskusi, istrazi, itd.’ &lt;/SPAN&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Ovakvim i mnogim drugim porukama nam bombarduju um
+      svakog dana : u skoli, na televiziji, na radiju, na ulici, u restoranima, na
+      zurkama, dok vozimo, dok razgovaramo sa prijateljima. Vecina njih je jednostavnog
+      i bezazlenog sadrzaja, ali neke imaju vrlo mocan i, ponekad, veoma uznemiravajuc
+      sadrzaj. Mozda mislimo da nam ovakve poruke ne cine zlo i da su one samo pokusaj
+      naseg drustva da komercijalizam priblizi sto vecem broju ljudi tako sto ce im
+      dati dobar&lt;SPAN style="mso-spacerun: yes"&gt;  &lt;/SPAN&gt;nacin&lt;SPAN
+      style="mso-spacerun: yes"&gt;  &lt;/SPAN&gt;za beg od ludila ovog sveta. Mozda tako
+      izgleda, ali ja mislim da se iza prevare ovih poruka krije lucidnost &lt;I
+      style="mso-bidi-font-style: normal"&gt;najveceg prevaranta koji je ikada
+      postojao&lt;/I&gt;, djavola. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;Svakako, djavo nikad ne spava i ne prestaje da vara i obmanjuje ljude. Njegov
+      glavni cilj je da obmane sto vise ljudi moze, obecavajuci lepotu, koja se kasnije
+      u coveku pretvori u velika razocarenja, ruznocu i nesrecu. Kad obmanjena osoba
+      shvati da je svo to sakacenje bilo besmisleno, glupo i nepotrebno, onda krivi
+      sebe jer je pogresio iz neznanja, tvrdoglavosti i adolescentskog osecanja ponosa.
+      Onda ce, verovatno, tiho razmisljati o tome i reci; &lt;I
+      style="mso-bidi-font-style: normal"&gt;“Da li je ovo bilo neophodno? Mogao sam da
+      zivim i bez toga….zasto….zasto…zasto sam ovo uradio?”&lt;o:p&gt;&lt;/o:p&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;&lt;SPAN
+      style="mso-spacerun: yes"&gt;    &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Djavo ce se onda smejati naglas, uzivajuci u svom
+      remek-delu i reci; &lt;I style="mso-bidi-font-style: normal"&gt;“Naivni, jadni covece,
+      zar nisi ovo toliko zeleo…ja sam ti to ponudio, a ti si rado prihvatio…nisam ja
+      kriv…ti si to izabrao…sad cu da uzivam u tvom
+      razocarenju!”&lt;o:p&gt;&lt;/o:p&gt;&lt;/I&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/I&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Kakve ovo
+      veze ima sa tetovazom i busenjem tela?&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Prvo,
+      hajde da vidimo kako se pocini greh. &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Kao
+      sto sam objasnio ranije, djavo radi u dve smene, a cesto i prekovremeno. Za njega
+      nema predaha, i, zapravo, on nikad nema pauzu i ne ide na odmor. On dobija platu
+      svaki dan jer ima mnogo ljudi za koje je on ‘odgovoran’. Njegova nagrada je
+      zadovoljstvo koje oseti kad prevari naivne ljude. On nikad nije gladan jer se
+      hrani ponosom, i zbog toga radi vrlo marljivo. On nudi, on predlaze, on zadovoljno
+      sapuce lepe ideje, a ljudi poveruju u njegove lazi i upadnu u njegovu zamku.
+      &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;   &lt;/SPAN&gt;Prvu
+      gresku napravimo kad on pocne da nam sapuce na uvo je da &lt;B
+      style="mso-bidi-font-weight: normal"&gt;primimo&lt;/B&gt; njegove misli u svoj um. Sledecu
+      kad&lt;B style="mso-bidi-font-weight: normal"&gt; ne prepoznamo&lt;/B&gt; niti trazimo
+      obmanu koja se krije iza te ideje, vec je bez problema prihvatimo. Trecu kad &lt;B
+      style="mso-bidi-font-weight: normal"&gt;pocnemo da razmisljamo&lt;/B&gt; o toj ideji,
+      verujuci da je ona sasvim u redu. Cetvrtu gresku napravimo kad ona &lt;B
+      style="mso-bidi-font-weight: normal"&gt;pocne da nam se svidja i kad pocnemo da
+      uzivamo u njoj, &lt;/B&gt;i iskusimo zadovoljstvo&lt;B
+      style="mso-bidi-font-weight: normal"&gt; &lt;/B&gt;te gresne misli. Ako se ne zaustavimo
+      na ovoj fazi razvoja greha, preci cemo na sledeci nivo, pozudu, koja vodi u
+      gresne postupke. Nakon pozude dolazi veliki ambis iz kojeg se ne moze pobeci.
+      Kao sto vidite, pre nego pocinimo greh svi prolazimo kroz nekoliko nivoa ovog
+      ponizavajuceg procesa. Prema tome, zapamtite, uvek postoji misao koja moze preci
+      u gresno delo.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Da li su busenje tela ili tetovaza
+      gresi?&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;
+      Da, jesu! Neko moze da kaze :&lt;I style="mso-bidi-font-style: normal"&gt;“Ali zasto,
+      u tome nema nista lose!” &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Pa, to jeste
+      greh&lt;I style="mso-bidi-font-style: normal"&gt;.&lt;/I&gt; Biblija govori o svetosti
+      coveka i oneciscavanju tela. Prvi covek, Adam, je stvoren po &lt;B
+      style="mso-bidi-font-weight: normal"&gt;Bozijem liku i izgledu&lt;/B&gt;: Onda je Bog
+      rekao&lt;I style="mso-bidi-font-style: normal"&gt;: “Hajde da stvorimo coveka po nasem
+      izgledu, po nasem liku, i pustimo ga da vlada ribama u moru i pticama u vazduhu,
+      stokom, celom zemljom, i svim stvorenjima koja se krecu po zemlji.”&lt;/I&gt; (Knjiga
+      postanja, 1:26-27). Ni jedno zivo stvorenje nije bilo dovoljno vredno da bude
+      stvoreno po liku i izgledu Bozijem. Jedino covek. Njegovo celo bice je bilo
+      obavijeno tom slicnoscu, ne samo jedan Adamov deo, ne samo njegova leva ruka,
+      jedan prst, desna noga ili oci, nego citavo bice.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;   &lt;/SPAN&gt;Kao
+      sto znamo, svaki covek je stvoren kao psihicko i fizicko bice: sa &lt;I
+      style="mso-bidi-font-style: normal"&gt;dusom i telom&lt;/I&gt;. Prisustvom ova dva
+      elementa covek je potpuna osoba. Nas cilj je da oba dela cuvamo od oneciscavanja
+      pred Bogom. Kad pocinimo greh, dusa nam se povredi i potreban joj je brzi
+      oporavak do kojeg se stize pokajanjem. Kad, na bilo koji moguci nacin, nanesemo
+      stetu telu, odgovorni smo pred Bogom za skrnavljenje i oneciscavanje Njegovog
+      dela.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Da li smo mi stvoritelji samih
+      sebe? &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Nismo! Pa, zasto onda unistavamo
+      nesto sto nije nase, sto nam ne pripada? Drugim recima, kako kvarimo Bozije
+      delo? Jednostavno, to radimo tako sto stavljamo strane i nebozje stvari na svoje
+      telo, kao sto su &lt;I style="mso-bidi-font-style: normal"&gt;tetovaze, mindjuse,
+      lanci, katanci i drugi djavolji prikazi.&lt;/I&gt; Za neke ljude, ovo je ‘divno umetnicko
+      delo’; hriscani to smatraju &lt;B
+      style="mso-bidi-font-weight: normal"&gt;‘samo-unakazivanjem’. &lt;/B&gt;Radeci ovo sebi,
+      iskrivljujemo izgled i lik Bozji u sebi, i, umesto da budemo Bozja slika,
+      postajemo iskrivljena slika u koju niko ne zeli da gleda niti da je kupi. Apostol
+      Pavle je veoma jasan kad pise Korincanima, i kaze: &lt;I
+      style="mso-bidi-font-style: normal"&gt;“Da li znate da je vase telo hram Svetog
+      Duha, koji je u vama, kojeg ste primili od Boga? Vi ne pripadate sebi: vi ste
+      kupljeni po odredjenoj ceni.&lt;/I&gt; &lt;I style="mso-bidi-font-style: normal"&gt;Prema
+      tome, slavite Boga svojim telom.” &lt;/I&gt;(1 Kor 6:19-20). Apostol je u pravu. Svi
+      smo, svakako, kupljeni po velikoj ceni, krvlju Sina Bozjeg, koji je mucenicki umro
+      na krstu, za nase spasenje. On nam je dao nasu andjeosku lepotu, po kojoj se
+      prepoznajemo kao Bozja deca, a za uzvrat, On ne dobija nista drugo do ruznocu
+      nasih unakazenih tela. Zapamtite da smo mi svi deo jednog tela, tela Hristovog,
+      (&lt;I style="mso-bidi-font-style: normal"&gt;“..i u Hristu mi, kojih je mnogo, cinimo
+      jedno telo, i svaki clan pripada svima ostalima.” Rim. 12:4-6&lt;/I&gt;), i svaki put
+      kad ostetimo telo nekom novom tetovazom, ili pirsingom, ukucamo novi ekser u
+      Isusovo telo na krstu. &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Samo zamislite
+      koliko je velika Njegova milost kad dobrovoljno trpi nase
+      eksere!&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;Ponekad cak i ne znamo znacenje ili poruku tetovaze na nasem telu. Vecina
+      tetovaza potice iz raznih istocnjackih kultura, koje koriste slicne znake za
+      obozavanje svojih kultova. &lt;/SPAN&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Neki ljudi idu toliko daleko da
+      tetoviraju krst na stopalima. Ovo nisu hriscani, nego anti-hriscani, jer svakim
+      korakom koji naprave oni gaze krst; a, cineci to, pokazuju nepostovanje prema
+      Svetom Krstu Isusa Hrista.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;&lt;SPAN
+      style="mso-spacerun: yes"&gt;    &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Zasto ljudi
+      rade takve stvari? &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Da li postoji neko
+      objasnjenje za krivljenje lika Bozjeg u nama? &lt;/SPAN&gt;&lt;SPAN lang=DE
+      style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;Voleo bih da znam da li tetovaze
+      ili busenje tela cine da se ljudi osecaju drugacije? Da li time postaju ‘kul’ i ‘u
+      trendu’? Da li se osecaju posebnim nakon sto su istetovirali divljeg zmaja na
+      ramenu ili nekom tajnom mestu? Da li je osoba koja ima istetoviranog dvoglavog
+      orla na grudima veci Srbin od nekoga ko to nema? Da li su ljudi koji imaju
+      mindjuse na raznim delovima tela vredniji od onih koji ih nemaju uopste? Drugim
+      recima, da li vredi raditi sve ove besmislene stvari?&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      lang=DE style="FONT-SIZE: 11pt; mso-ansi-language: DE"&gt;&lt;SPAN
+      style="mso-spacerun: yes"&gt;   &lt;/SPAN&gt;Moj predlog je da “uvek razmislite
+      pre nego sto uradite nesto, &lt;SPAN style="mso-tab-count: 1"&gt;  &lt;/SPAN&gt;i uvek
+      promislite o recima apostola Pavla: &lt;I style="mso-bidi-font-style: normal"&gt;“Sve
+      mi je dozvoljeno, ali mi ne cini sve dobro.” &lt;/I&gt;&lt;/SPAN&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;(1 Kor 6:12)&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;Istina je da je danas sve moguce ako ne postoji strah od Boga: &lt;I
+      style="mso-bidi-font-style: normal"&gt;“Zato ne dozvoli da greh vlada u tvom
+      gresnom telu i da slusas njegove djavolske zudnje. Ne nudi delove svoga tela grehu,
+      kao orudja zla, vec bolje ponudi sebe Bogu, kao oni koji su preneti iz smrti u
+      zivot: i ponudi delove svoga tela Njemu, kao orudja pravednosti.” &lt;/I&gt;(Rim.
+      6:12-14)&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;  &lt;/SPAN&gt;Molimo se
+      Bogu, da bismo ocistili um od svake zle misli, da bismo uvek razlikovali dobro
+      od loseg, ono sto nam cini dobro i ono sto steti nasim dusama i telima, da bismo
+      mogli da stojimo uspravno pred Njegovim sudom, i cujemo reci: ‘svaka cast, moj
+      verni slugo, udji u Carstvo nebesko’.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;&lt;SPAN
+      style="mso-spacerun: yes"&gt;    &lt;/SPAN&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;B
+      style="mso-bidi-font-weight: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify"&gt;&lt;I
+      style="mso-bidi-font-style: normal"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Neka citav
+      tvoj duh, dusa i telo ostanu bezgresni do dolaska naseg Gospoda Isusa
+      Hrista&lt;/SPAN&gt;&lt;/I&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;. (1 Tes 5:23)&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;o:p&gt; &lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;&lt;SPAN style="mso-spacerun: yes"&gt;
+      &lt;/SPAN&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+    </value>
+  </data>
+  <data name="43_ropespage_title" xml:space="preserve">
+    <value>Vise o brojanicama</value>
+  </data>
+  <data name="44_ropespage_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Molitva sa brojanicom je jedan od najstarijih vidova molitve koju koriste uglavnom monasi.Brojanica ima simbolicko znacenje. U najvecem broju slucajeva se pravi u &lt;b&gt;crnoj boji&lt;/b&gt;, koja nas podseca da zivimo pokorno, u pokajanju. Izradjjuje se od &lt;b&gt;ciste vune&lt;/b&gt;, koja simbolizuje cinjenicu da smo svi razumne ovce Dobrog pastira Isusa Hrista, koji je, kao nevino jagnje Bozije, patio i umro na krstu, za nase spasenje. Male brojanice obicno imaju 33 cvora. Postoje i vece, sa 50, 100 ili 300 cvorova.
+      &lt;p&gt;&lt;i&gt;Prema starom predanju, bio je jedan monah koji je hteo da napravi brojanicu od vune da bi brojao svoje molitve. Nazalost, nije mogao da je zavrsi jer je djavo stalno dolazio i razvezivao cvorove. Jednog dana,  prikazao mu se Bozji andjeo sa uputstvima kako da napravi cvor u kojem je isprepletano sedam krstova. To je bio jedan od najkomplikovanijih cvorova, koji djavo nije mogao da razveze.&lt;/i&gt;
+
+      &lt;h4&gt;KAKO SE MOLIMO SA BROJANICOM?&lt;/h4&gt;
+
+      &lt;p&gt;Pored mnogih molitvi koje ljudi citaju u odredjeno vreme iz svojih molitvenika, nasa Crkva nam daje blagoslov da koristimo i druge molitve koje se mogu stalno ponavljati. Te molitve nam pomazu da saberemo misli, da nam ne lutaju.
+      &lt;p&gt;Prvo, skupite i ocistite sve misli, i onda uzmite cvor brojanice u levu ruku i drzite ga izmedju palca I kaziprsta.  Zatim, desnom rukom napravite znak krsta u vazduhu i tiho pocnite da se molite, brojeci svaku molitvu jednim cvorom.
+      Najuobicajenija molitva, koju koristimo kada se molimo sa brojanicom, je Molitva Isusa Hrista :
+      &lt;p&gt;&lt;b&gt;“O Boze Isuse Hriste, Sine Bozji, smiluj se na mene gresnika! ”&lt;/b&gt; . Ova molitva se moze izgovarati i u kracoj verziji: &lt;b&gt;“ Boze Isuse Hriste smiluj mi se!”.&lt;/b&gt;
+      &lt;p&gt;Isusova molitva je najvaznija molitva u zivotu svakog hriscanina. Prema pravilima nase crkve ona moze zameniti neku drugu molitvu. Ako izgovaramo ovu molitvu neprestano, osecamo da se milost Bozija spusta u nasa srca i opusta nas, ispunjavajuci nase duse neizmernim mirom. To je zato sto je sama molitva osvecena imenom Naseg Gospoda Isusa Hrista. Mnogi hriscani su naviknuti na ovu molitvu i mogu da zadrze ime Isusovo na svojim usnama i u svojim srcima, cak i kada spavaju. Ako neprestano ponavljate ovu molitvu, ona postaje navika, isto kao disanje.  Snaga ove molitve je u imenu &lt;p&gt;Isusa Hrista&lt;/b&gt;, koje izbacuje svaku sumnju i nemir iz nasih srca, donoseci nam mir i milost Bozju.
+      Pored Isusove molitve, mozemo izgovarati molitvu Najsvetijoj Majci Bozijoj, ili svecima :
+      &lt;p&gt;“O Najsvetija Majko Bozija, spasi mene – gresnika!” &lt;br&gt;
+      “O Sveti (ime sveca) moli se Bogu za mene gresnika! “ .&lt;/b&gt;
+      &lt;p&gt;Sa brojanicom se mozemo moliti za svoje rodjake, susede ili sunarodnike, drzeci prvi cvor brojanice i izgovarajuci :&lt;br&gt;
+      &lt;b&gt;“O Boze Isuse Hriste, smiluj se na Tvoje sluge (ime, ili imena)”&lt;/b&gt; , a sa ostatkom cvorova ne ponavljamo imena onih za koje smo se molili, nego kazemo : &lt;b&gt;“ O Boze Isuse Hriste smiluj se na Tvoje sluge spomenute!”.&lt;/b&gt;
+      &lt;p&gt;Na ovaj nacin se mozemo moliti i za preminule rodjake : &lt;b&gt;“O Boze Isuse Hriste, daj pocinak Tvojim slugama (imena)”&lt;/b&gt;, i onda ponovo, sa ostatkom cvorova, : &lt;b&gt;“O Boze Isuse Hriste, daj pocinak Tvojim slugama pomenutim!” .&lt;/b&gt;
+      &lt;p&gt;Kada smo sami, valja izabrati tiho mesto za molitvu, i izgovarati reci molitve tiho. Vecina hriscana se moli ispred ikona i kandila, stojeci, sa divljenjem i strahom od Boga. Ponekad, ako je osoba bolesna ili ne moze da stoji, molitve se mogu izgovarati sedeci ili lezeci. Dobro je napraviti znak krsta svaki put kad se izgovara molitva. Tako se bolje koncentrisemo na reci molitve.
+      Molitva sa brojanicom nije vezana samo za tiha i skrivena mesta. Mozemo se moliti svuda i u svakoj prilici : u autobusu ili avionu, dok setamo, na ulici punoj ljudi, dok cekamo u redu, na stadionima itd. Mnogi hrisccani lezu u krevet sa brojanicom i onda se tiho mole dok ne zaspu. Ujutru zapocnu dan molitvom koristeci brojanicu.
+      &lt;p&gt;Apostol Pavle nas uci da se &lt;b&gt;molimo bez oklevanja &lt;/b&gt;i zato je veoma korisno da posvetimo malo vremena ujutru i uvece molitvi sa brojanicom.
+      &lt;p&gt;Nasi Sveti Oci zabranjuju da nam misli lutaju tokom molitve. Moramo stalno biti usredsredjeni na reci molitve. Ovo je moguce postici samo koncentracijom i vezbom, obracajuci paznju na reci, a ne na broj izgovorenih molitvi.
+      &lt;p&gt;Ponekad se molimo brzo, ne obracajuci paznju na sadrzaj molitve. Bog cuje i uslisava samo one molitve koje se izgovaraju smireno i stalozeno. Mada, veoma je tesko smiriti misli brzo, i iz tog razloga moramo cesce izgovarati molitvu da bismo obratili paznju na nju. Najbolji nacin da se naviknemo na molitvu je da je izgovaramo neprestano, bili smireni ili ne. Ovo je slicno vodi koja kaplje na stenu, buseci rupu u njoj, kao sto nas i stalna molitva priblizava Bogu, iako nam misli lutaju.
+      &lt;p&gt;Kad ne koristimo brojanicu mozemo je nositi u dzepu, ili, ako je mala, oko ruke. Nije prikladno igrati se brojanicom. &lt;b&gt;Brojanica nije nakit, vec sredstvo za neprestanu molitvu&lt;/b&gt;. Cak se i monasi I kaludjerice mole dok izradjuju brojanice.
+      &lt;p&gt;Prema tome, draga braco I sestre, molimo se nasem Gospodu Isusu Hristu za spasenje nasih dusa I dusa nasih rodjaka, da nam udeli, u ovom zivotu, milost Svetog Duha, da zasluzimo njegovo Carstvo nebesko. Gospod je uvek sa nama I uci nas da je Carstvo Bozije u nasim srcima. Zbog toga nam je neprestana molitva potrebna u zivotu, jer kroz molitvu se priblizavamo Bogu I osecamo Njegovu veliku ljubav.
+      &lt;p&gt;Svakako, veoma je tesko steci hriscanske vrline bez milosti Bozije, a milost se zasluzuje samo iskrenom molitvom. Zbog toga, molitva je Kraljica svih vrlina, koja nas uzdize ka Bogu I povezuje sa drugim ljudima.
+
+
+    </value>
+  </data>
+  <data name="45_contactus_title" xml:space="preserve">
+    <value>Kontakt informacije </value>
+  </data>
+  <data name="46_contactus_text" xml:space="preserve">
+    <value>
+      &lt;center&gt;St. Luke Serbian Orthodox Church&lt;br&gt;
+
+      10660 River Road &lt;br&gt;
+
+      Potomac, Maryland  20854&lt;br&gt;
+
+      Telefon (301) 299-2704  &lt;br&gt;
+
+      faks (301) 576-5664&lt;br&gt;&lt;/center&gt;
+
+      &lt;br&gt;&lt;br&gt;
+
+      Otac Aleksa Micic, Svestenik&lt;br&gt;
+
+      email: &lt;a href="mailto:FatherMicich@svluka.org"&gt;FatherMicich@svluka.org&lt;/a&gt;&lt;br&gt;
+
+
+      &lt;br&gt;
+      Mark Rasevic, Predsjednik crkvenog odbora&lt;br&gt;
+
+      email: &lt;a href="mailto:President@svluka.org"&gt;President@svluka.org&lt;/a&gt;&lt;/br&gt;
+
+
+      &lt;br&gt;
+      Vebmaster&lt;br&gt;
+
+      email: &lt;a href="mailto:Webmaster2006@svluka.org"&gt;Webmaster2006@svluka.org&lt;/a&gt;
+
+    </value>
+  </data>
+  <data name="47_newsletterpage_title" xml:space="preserve">
+    <value>Crkvene publikacije</value>
+  </data>
+  <data name="48_newsletterpage_text" xml:space="preserve">
+    <value>&lt;p&gt;Morate imati program Akrobat da bi mogli čitati naše publikacije. To je besplatan program i ako ga nemate možete ga presnimiti sa ove &lt;A
+      href="http://www.adobe.com/products/acrobat/readstep2.html"
+      target=_blank&gt;adrese&lt;/A&gt;.&lt;/P&gt;</value>
+  </data>
+  <data name="49_photospage_title" xml:space="preserve">
+    <value>Slike i video</value>
+  </data>
+  <data name="50_photospage_text" xml:space="preserve">
+    <value>&lt;h4&gt;
+    2013&lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava.htm')"&gt;Sv Sava - kompilacija slika i filma&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava2.htm')"&gt;Sv Sava - atmosfera i intervjui&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava3.htm')"&gt;Sv Sava - folklor program&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.10200741251400229.2209520.1430433604&amp;type=1&amp;l=489127e5ff" target=_blank&gt;Sv Sava - slike&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
+2012&lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Easter.htm')"&gt;Vaskrs&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/HolyFriday.htm')"&gt;Veliki Petak&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.4216270291602.2182824.1430433604&amp;type=3&amp;l=f246926b73" target=_blank&gt;5. GAla - 04/21/2012&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Folklor.htm')"&gt;Crkvena Folklor grupa&lt;/a&gt; &lt;/li&gt;
+ 	      &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/SvSava-Folklor.htm')"&gt;Sv Sava - Folklor&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Bozic-Hor.htm')"&gt;Crkveni hor (Božić)&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
+2011&lt;ul&gt;
+&lt;li&gt;&lt;a 
+
+href="http://www.facebook.com/media/set/?set=a.2735897483207.2154704.1430433604&amp;type=1&amp;l=00c045b60e" 
+
+target=_blank&gt;Ručak povodom 50-to godišnjice&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a 
+
+href="http://www.facebook.com/media/set/?set=a.2735559994770.2154702.1430433604&amp;type=1&amp;l=f45e5aaaa3" 
+
+target=_blank&gt;Večera povodom 50-to godišnjice&lt;/a&gt; &lt;/li&gt;
+
+&lt;li&gt;&lt;a href="http://www.facebook.com/album.php?aid=2118930&amp;id=1430433604&amp;l=8e7ad5e31e" 
+
+target=_blank&gt;Gala&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2011/Bozic.htm')"&gt;Božić&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/h4&gt;
+
+&lt;h4&gt;2010&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2010/SvLuka.htm')"&gt;Sv Luka&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2010/Djurdjevdan.htm')"&gt;Đurđevdanski piknik&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;h4&gt;2009&lt;/h4&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt; &lt;a href="2009/mars/default.htm"&gt;Posjeta manastiru dječije škole za vjeronauku i 
+
+roditelja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2009/gala/default.htm"&gt;Gala&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2009/svsava/index.html"&gt;Sv Sava&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;2008&lt;/h4&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt; &lt;a href="2008/Gala/index.html"&gt;Prva godišnja Gala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;2007&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &lt;a href="2007/Christmas/index.html"&gt;Božić&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2007/Shadeland/index.html"&gt;Kamp za omladinu u Shadeland-u&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;2006&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt; &lt;a href="2006/Students/index.html"&gt;Pravoslavni studenti&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2006/DiocesanDays/index.html"&gt;Eparhijski dani&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2006/FrIrinej/index.html"&gt;Otac Irinej hirotisan u episkopa 
+
+Australijsko-Novozelandski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2006/Vaskrs/index.html"&gt;Vaskrs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="/SvLuka/files/vrbice.wmv"&gt;Vrbice&lt;/a&gt; (16 MB)&lt;/li&gt;
+&lt;li&gt; &lt;a href="2006/ClergyRetreat/index.html"&gt;Sastanak sveštenika&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; Bogojavljenje: &lt;a href="2006/Bogojavljanje/index.html"&gt;slike&lt;/a&gt;; video: &lt;a 
+
+href="/SvLuka/Files/Bogojavljenje 2006.wmv"&gt;mala rezolucija (1.2 MB)&lt;/a&gt; ili &lt;a 
+
+href="/SvLuka/Files/Bogojavljenje 2006Hi.wmv"&gt;veća rezolucija (7.8 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2006/SvSava/index.html"&gt;Sv Sava&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Starije&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt; &lt;a href="2006/Bozic/index.html"&gt;2005 Božić&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="2004/2004.aspx"&gt;2004 Slike&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</value>
+  </data>
+  <data name="51_2002photos_title" xml:space="preserve">
+    <value>Slike iz 2002</value>
+  </data>
+  <data name="52_2002photos_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Izvinjavamo se sto stranica nije prevedena. Ako imate vremena da prevedete molimo
+      vas da nas kontaktirate na &lt;A href="mailto:webmaster2006@svluka.org"&gt;email&lt;/A&gt;&lt;/p&gt;
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Fall
+      2002 &lt;/B&gt;- Photos from several events/occasions from the Fall of 2002.   (&lt;FONT
+      size=2&gt;&lt;B&gt;point to photo for description, &lt;/B&gt;&lt;/FONT&gt;&lt;B&gt;&lt;FONT size=2&gt;click to
+      enlarge photo&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#9b461f height=162
+      cellSpacing=0 cellPadding=2 width=358 border=4 ID="Table1"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/frzobenica1.jpg"&gt;&lt;IMG height=75
+      alt="Father Zobenica addresses the parish during his visit"
+      src="Fall2002/frzobenica1TN.GIF" width=64 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/frzobenica2.jpg"&gt;&lt;IMG height=59
+      alt="Father Zobenica, Father Miroslav &amp; parishioners"
+      src="Fall2002/frzobenica2TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/frzobenica3.jpg"&gt;&lt;IMG height=73
+      alt="Fr. Aleksa, Fr. Zobenica, Fr. Miroslav &amp; Dr. Hodjera"
+      src="Fall2002/frzobenica3TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/newsletter1.jpg"&gt;&lt;IMG height=65
+      alt="Natalie Visnick &amp; Milica Stamenich help with the parish newsletter"
+      src="Fall2002/newsletter1TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/newsletter2.jpg"&gt;&lt;IMG height=65
+      alt="Natalie Visnick, Milica Stamenich, Dejan Bujak, Danica Bogicevic &amp; Mila Costich (l-r)"
+      src="Fall2002/newsletter2TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/newsletter3.jpg"&gt;&lt;IMG height=66
+      alt="More work on the parish newsletter" src="Fall2002/newsletter3TN.GIF"
+      width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Fall2002/wedding.jpg"&gt;&lt;IMG height=62
+      alt="Wedding of Marko Jankovic &amp; Jelena Vasiljevic October 13, 2002"
+      src="Fall2002/weddingTN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"
+      height="50%"&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Visit
+      of Bishop Mitrophan &lt;/B&gt;- September 14-15, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;Bishop
+      Mitrophan served Divine Liturgy and joined our parishioners for lunch during his
+      visit.   &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;(&lt;FONT
+      size=2&gt;&lt;B&gt;point to photo for description, &lt;/B&gt;&lt;/FONT&gt;&lt;B&gt;&lt;FONT size=2&gt;click to
+      enlarge photo&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#9b461f height=177
+      cellSpacing=0 cellPadding=2 width=358 border=4 ID="Table2"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%" height=89&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/DivineLiturgy1.jpg"&gt;&lt;IMG height=75
+      alt="Bishop Mitrophan during Divine Liturgy"
+      src="Bishop%20Visit%20Sept2002/DivineLiturgy1TN.GIF" width=43
+      border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height=89&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/DivineLiturgy2.jpg"&gt;&lt;IMG height=75
+      alt="Fr. Aleksa, Bishop Mitrophan &amp; Fr. Miroslav serve Holy Communion to Anastasia Micich (with Popadija Savka)"
+      src="Bishop%20Visit%20Sept2002/DivineLiturgy2TN.GIF" width=50
+      border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height=89&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/DivineLiturgy3.jpg"&gt;&lt;IMG height=72
+      alt="Bishop Mitrophan addresses the parish after Divine Liturgy"
+      src="Bishop%20Visit%20Sept2002/DivineLiturgy3TN.GIF" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%" height=79&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/Luncheon1.jpg"&gt;&lt;IMG height=49
+      alt="Fr. Miroslav, Fr. Aleksa, Bishop Mitrophan &amp; Dusan Terzic"
+      src="Bishop%20Visit%20Sept2002/Luncheon1TN.GIF" width=75 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height=79&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/Luncheon2.jpg"&gt;&lt;IMG height=70
+      alt="Fr. Aleksa &amp; Bishop Mitrophan"
+      src="Bishop%20Visit%20Sept2002/Luncheon2TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%" height=79&gt;&lt;A
+      href="Bishop%20Visit%20Sept2002/Luncheon3.jpg"&gt;&lt;IMG height=65
+      alt="Parishioners at lunch during the Bishop's visit"
+      src="Bishop%20Visit%20Sept2002/Luncheon3TN.GIF" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;B&gt;&lt;FONT
+      face="Lucida Sans"&gt;Serbian Sisters Slava (Mala Gospojina)&lt;/FONT&gt;&lt;/B&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;- Sunday, September 22, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;
+      The Kolo of Serbian Sisters celebrated their Slava, Mala Gospojina, with a
+      luncheon at the church building.   (&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#9b461f height=250
+      cellSpacing=0 cellPadding=2 width=358 border=4 ID="Table3"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS1.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS1TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Lunch preparations&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS2.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS2TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Lunch Preparations (2)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS3.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS3TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="34%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS4.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS4TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac
+      (2)&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS5.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS5TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac
+      (3)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS6.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS6TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac
+      (4)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS7.jpg"&gt;&lt;IMG
+      height=65 src="KoloSlava/KS7TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac
+      (5)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width="34%"&gt;
+      &lt;P
+      style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;Late
+      Summer Picnic&lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;- August 11,
+      2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;Some
+      photos of parishioners and guests who attended our picnic.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT
+      face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE
+      style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor=#111111 height=192 cellSpacing=0 cellPadding=2 width=268 border=1 ID="Table4"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="LateSummerPicnic/sunday1.jpg"&gt;&lt;IMG height=65
+      src="LateSummerPicnic/sunday1TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt; &lt;/P&gt;&lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align=center&gt;&lt;A href="LateSummerPicnic/sunday2.jpg"&gt;&lt;IMG height=74
+      src="LateSummerPicnic/sunday2TN.GIF" width=55 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align=center&gt;&lt;A href="LateSummerPicnic/sunday4.jpg"&gt;&lt;IMG height=66
+      src="LateSummerPicnic/sunday4TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;P align=center&gt;&lt;A href="LateSummerPicnic/sunday3.jpg"&gt;&lt;IMG height=74
+      src="LateSummerPicnic/sunday3TN.GIF" width=40 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align=center&gt;&lt;A href="LateSummerPicnic/sunday5.jpg"&gt;&lt;IMG height=65
+      src="LateSummerPicnic/sunday5TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;B&gt;&lt;FONT
+      face="Lucida Sans"&gt;Mid-Summer Picnic&lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;
+      &lt;/B&gt;- Sunday, July 21, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt; We held a Mid-Summer Picnic at our property on River
+      Road.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE
+      style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor=#111111 height=250 cellSpacing=0 cellPadding=2 width=227 border=1 ID="Table5"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom width=109 height=125&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="MidSummerPicnic/TicketSales.jpg"&gt;&lt;IMG height=70
+      src="MidSummerPicnic/TicketSalesTN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Ticket
+      Sales&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom width=110 height=125&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="MidSummerPicnic/Bartenders.jpg"&gt;&lt;IMG height=73
+      src="MidSummerPicnic/BartendersTN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"
+      align=center&gt;Bartenders&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom width=109 height=125&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="MidSummerPicnic/Chefs1.jpg"&gt;&lt;IMG height=106
+      src="MidSummerPicnic/Chefs1TN.jpg" width=74 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Chefs (1)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom width=110 height=125&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="MidSummerPicnic/Chefs2.jpg"&gt;&lt;IMG height=70
+      src="MidSummerPicnic/Chefs2TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Chefs
+      (2)&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt;Vidovdan Picnic &lt;/B&gt;- Sunday, June 30, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;We held our annual Vidovdan Picnic at our property on River
+      Road. We were pleased to honor a guest speaker, Dusan Korac. Mr. Korac, who is a
+      Doctoral Candidate at the University of Maryland, shared information about
+      Vidovdan and the history of Kosovo.  (&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE
+      style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor=#111111 height=245 cellSpacing=0 cellPadding=2 width=252 border=1 ID="Table6"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom width=122 height=137&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="Vidovdan/FrAleksa&amp;DKorac.jpg"&gt;&lt;IMG height=109
+      src="Vidovdan/FrAleksa&amp;DKoracTN.jpg" width=74 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Fr. Aleksa &amp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Mr. Korac&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom width=122 height=137&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="Vidovdan/VidovdanPresentation1.jpg"&gt;&lt;IMG height=70
+      src="Vidovdan/VidovdanPresentation1TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Presentation
+      (1)&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=bottom width=122 height=138&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="Vidovdan/VidovdanPresentation2.jpg"&gt;&lt;IMG height=70
+      src="Vidovdan/VidovdanPresentation2TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Presentation
+      (2)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom width=122 height=138&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;A
+      href="Vidovdan/VidovdanPresentation3.jpg"&gt;&lt;IMG height=70
+      src="Vidovdan/VidovdanPresentation3TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;Presentation
+      (3)&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=middle height=407&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt;Visit by His Eminence Metropolitan Amphilohije of
+      Montenegro and the Coastlands &lt;/B&gt;&lt;FONT size=4&gt;- &lt;/FONT&gt;Tuesday, June 11,
+      2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;His Eminence Metropolitan Amphilohije of Montenegro and the
+      Coastlands was accompanied by an entourage representing the Ministry of
+      Religious Affairs of the Federal Republic of Yugoslavia. A reception was held on
+      June 11, 2002 on our property on River Road. His Eminence conducted the Divine
+      Liturgy on Ascension Day at St. Nicholas Orthodox Cathedral on June 13, 2002.
+      The photos below are from this visit. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;TABLE
+      style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor=#111111 height=192 cellSpacing=0 cellPadding=2 width=268 border=0 ID="Table7"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM: 1px solid"
+      vAlign=bottom align=middle width=86 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Metropolitan's%20June%20visit/dinner.jpg"&gt;&lt;IMG height=65
+      src="Metropolitan's%20June%20visit/dinnerTN.jpg" width=100 border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Reception&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM: 1px solid"
+      vAlign=bottom align=middle width=87 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral1.jpg"&gt;&lt;IMG
+      height=65 src="Metropolitan's%20June%20visit/cathedral1TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Cathedral (1)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=87 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral2.jpg"&gt;&lt;IMG
+      height=65 src="Metropolitan's%20June%20visit/cathedral2TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Cathedral (2)&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px"
+      vAlign=bottom align=middle width=86 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral3.jpg"&gt;&lt;IMG
+      height=65 src="Metropolitan's%20June%20visit/cathedral3TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Cathedral (3)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=87 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral4.jpg"&gt;&lt;IMG
+      height=65 src="Metropolitan's%20June%20visit/cathedral4TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Cathedral (4)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT: 1px solid"
+      vAlign=bottom align=middle width=87 height=96&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign=top align=left height=465&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;B&gt;&lt;FONT
+      face="Lucida Sans"&gt;Djurdjevdan Picnic - &lt;/FONT&gt;&lt;/B&gt;&lt;FONT
+      face="Lucida Sans"&gt;Sunday, May 12, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;FONT
+      face="Lucida Sans"&gt; We enjoyed a successful Djurdjevdan picnic at our property
+      on River Road.  (&lt;B&gt;&lt;FONT size=2&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE
+      style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor=#111111 height=319 cellSpacing=0 cellPadding=2 width=446 border=1 ID="Table8"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM: 1px solid"
+      vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/bakesale.jpg"&gt;&lt;IMG height=74
+      src="Djurdjevdan/BakesaleTN.gif" width=56 border=0&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Bake Sale&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM: 1px solid"
+      vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Djurdjevdan/Bakesale2.jpg"&gt;&lt;IMG height=66
+      src="Djurdjevdan/Bakesale2TN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Bake Sale (2)&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM: 1px solid"
+      vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Djurdjevdan/Jewelry.jpg"&gt;&lt;IMG height=108 src="Djurdjevdan/JewelryTN.GIF"
+      width=74 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Jewelry&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/DRYGOODS.JPG"&gt;&lt;IMG height=74
+      src="Djurdjevdan/DrygoodsTN.GIF" width=56 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;FONT size=2&gt;DryGoods&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px"
+      vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Djurdjevdan/jagne.jpg"&gt;&lt;IMG height=74 src="Djurdjevdan/JagneTN.GIF"
+      width=56 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Jagne&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/KoloSestare.jpg"&gt;&lt;IMG height=75
+      src="Djurdjevdan/KoloSestareTN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Kolo&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/bartenders.jpg"&gt;&lt;IMG height=75
+      src="Djurdjevdan/BartendersTN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;FONT size=2&gt;Bartenders&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT: 1px solid"
+      vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Djurdjevdan/TREE.JPG"&gt;&lt;IMG height=75 src="Djurdjevdan/TreeTN.GIF"
+      width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Guests&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD
+      style="BORDER-TOP-WIDTH: 1px; BORDER-RIGHT: 1px solid; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px"
+      vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/children.jpg"&gt;&lt;IMG height=75
+      src="Djurdjevdan/ChildrenTN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Children&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=109 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;&lt;A href="Djurdjevdan/Sarenica.jpg"&gt;&lt;IMG height=80
+      src="Djurdjevdan/SarenicaTN.GIF" width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Sarenica&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"&gt;&lt;A
+      href="Djurdjevdan/dancers.jpg"&gt;&lt;IMG height=75 src="Djurdjevdan/dancersTN.GIF"
+      width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"
+      align=center&gt;Dancers&lt;/P&gt;&lt;/TD&gt;
+      &lt;TD
+      style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-BOTTOM-WIDTH: 1px; BORDER-LEFT: 1px solid"
+      vAlign=bottom align=middle width=110 height=115&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A
+      href="Djurdjevdan/Singing.jpg"&gt;&lt;IMG height=66 src="Djurdjevdan/SingingTN.GIF"
+      width=100 border=0&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P
+      style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Singing&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+    </value>
+  </data>
+  <data name="53_2004photos_title" xml:space="preserve">
+    <value>Slike iz 2004</value>
+  </data>
+  <data name="54_2004photos_text" xml:space="preserve">
+    <value>
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; U PAROHIJI SVETOG APOSTOLA I JEVANDjELISTE LUKE OSVESTANE NOVE CRKVENE STVARI &lt;/B&gt;&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;
+      &lt;br&gt;&lt;br&gt; Crkveno-skolska opstina Svetog apostola i jevandjeliste Luke u okolini Vasingtona, posle mnogo napora i trazenja, kupila je veliki broj novih crkvenih i stvari za oltar, cime je nacinjen prvi korak u stvaranju nove kapele. Stvari, medju kojima su ciraci, petohlebnik, kutija za miro i kadionica, uvezene su iz Grcke i uglavnom su rucne izrade. Novi sto za oltar trebalo bi da stigne iz Grcke tokom sledeceg meseca. &lt;br&gt;&lt;br&gt;
+
+      Mnogi darezljivi vernici iz nase sve vece parohije nesebicno su podarili njima Bogom dana sredstva kako bismo platili obnovu svtari za nasu kapelu. U nedelju, 14. novembra 2004. godine, na praznik Svetih Kozme i Damjana, u prisustvu mnogih vernika otac Aleksa je osvestao nove crkvene stvari. &lt;br&gt;&lt;br&gt;
+
+      Dok cekamo opstinske dozvole za renoviranje nase crkvene zgrade, Liturgije nedeljom sluzimo u sali lokalne osnovne skole. Parohijani su u poslednje tri godine, koliko smo radili na zajednickom dogovoru, dobijanju saglasnosti od komsija i dozvola od opstine, pokazali veliko strpljenje. Ako Bog da, sve dozvole trebalo bi da budu dobijene na prolece, a nase skromne kapela, sala, kuhinja i ucionica gotove do jeseni.
+
+      .&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;
+
+      &lt;center&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0
+      borderColorDark=#9b461f cellPadding=2 width=400 borderColorLight=#9b461f
+      border=4 ID="Table1"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/1NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/1NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/3NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/3NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/4NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/4NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/5NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/5NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;
+
+
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;B&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;SEVEN BAPTIZED IN NEWPORT NEWS,
+      VIRGINIA&lt;BR&gt; &lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;
+      U subotu, 13. novembra 2004. godine, otac Aleksa Micic krstio je sedmoro novih vernika u gradu Njuport Njuz u drzavi Virdziniji. U srpskoj zajednici u siroj okolini grada Norfolka (poznatoj pod imenom Hempton Rouds) okupljeno je oko cetrdeset porodica, koje odlaze u crkvu Svetog cara Konstantina i carice Jelene, grcku pravoslavnu crkvu pod duhovnim vodjstvom oca Dzordza Kioriosa. Otac Dzordz uvek priredi toplu dobrodoslicu ocu Aleksi i ustupi crkvu na koriscenje. Tako je bilo i ovoga puta, kada je krsteno troje odraslih, troje dece skolskog uzrasta i jedna beba. Srpska zajednica u okolini Norfolka sastoji se uglavnom od ljudi koji su napustili bivsu Jugoslaviju u prethodnih deset godina, i aktivno se radi na tome da postanu samostalna parohija.
+
+
+      .&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt; &lt;/P&gt;
+
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0
+      borderColorDark=#9b461f cellPadding=2 width=400 borderColorLight=#9b461f
+      border=4 ID="Table2"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/2NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/1NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/1NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt;&lt;A
+      href="NNBaptisms/3NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/3NewportNewsBaptisms13Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/04NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/04NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/5NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/5NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;
+
+
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;TT&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt;
+      SUSRET MLADIH SRPSKE PRAVOSLAVNE CRKVE U SJEDINjENIM DRZAVAMA I KANADI ODRZAN U CIKAGU &lt;/B&gt;&lt;BR&gt; &lt;/FONT&gt;&lt;/TT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;TT&gt;&lt;FONT
+      face="Lucida Sans"&gt;
+      Otac Aleksa, ko-predsedavajuci odbora koji okuplja svetovne i mirovne mlade ljude pravoslavne vere iz Sjedinjenih Drzava, nedavno je prisustvovao njihovom susretu u crkvi Svetog Vaskrsenja     u Cikagu. Cilj odbora je da pronadje najbolji nacin na koji crkva moze da privuce mlade i ukljuci ih u crkveni zivot. Aktivno se radi na stalnoj stranici mesecnika Put pravoslavlja, koji izdaje Srpska pravoslavna crkva, kao i na organizovanju festivala govornistva »Sveti Nikolaj zicki i ohridski» i nacionalne konferencije mladih, koji treba da se odrze tokom ove godine. Odbor bi trebalo da preraste u Nacionalnu organizaciju mladih. Pored ovog, stalni karakter u nasoj crkvi imaju odbor za liturgijsku muziku, rad pri crkvi, srpsku kulturu i kulturno nasledje, veronauku i komunikaciju i izdavastvo. Vise informacija o svim ovim odborima mozete naci u mesecniku Put pravoslavlja.
+      .&lt;/FONT&gt;&lt;/TT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+
+    </value>
+  </data>
+  <data name="55_right_label" xml:space="preserve">
+    <value>Donirano do sada</value>
+  </data>
+  <data name="56_admin_log_in" xml:space="preserve">
+    <value>Odrzavanje</value>
+  </data>
+  <data name="57_admin_log_out" xml:space="preserve">
+    <value>Ispis</value>
+  </data>
+  <data name="58_schedule_disclamer" xml:space="preserve">
+    <value>Moguce je da dodje do promjena u rasporedu.</value>
+  </data>
+  <data name="59_donations" xml:space="preserve">
+    <value>Donacije</value>
+  </data>
+  <data name="59_donations_page_title" xml:space="preserve">
+    <value>Donacije</value>
+  </data>
+  <data name="60_donations_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Mozemo pomoci nasu crkvu na vise nacina, na primjer:&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="Prayer.aspx"&gt;Molitvom, &lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="Time.aspx"&gt;Volontiranjem&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Novcano&lt;/a&gt;&lt;/li&gt;
+    </value>
+  </data>
+  <data name="61_prayer_page_title" xml:space="preserve">
+    <value>Pomoc crkvi sa molitvom</value>
+  </data>
+  <data name="62_prayer_text" xml:space="preserve">
+    <value>&lt;p&gt;Uvijek se mozemo moliti za bolesne, ljude koji su u nevolji, siromasne ili za parohijane sa drugim potrebama ili problemima. Mozemo se moliti za nasu crkvu da bolje ispuni svoju obavezu da ispuni svoje parohijane ljubavlju i zadovoljstvom. Mozemo se moliti za naseg svecenika i ostale koji se trude bolje razumijemo Boziju volju i rijec. Mozemo se moliti za crkveni odbor da smognu snage i mudrosti da rijese sve probleme povezane za izgradlju nase nove crkve.&lt;/p&gt;</value>
+  </data>
+  <data name="63_time_page_title" xml:space="preserve">
+    <value>Pomodj crkvi sa volontiranjem</value>
+  </data>
+  <data name="64_time_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Vjerovatno ste svjesni koliko je viliki zadatak da se odzava crkva, svaki dan. Sada iznamljujemo salu za liturgije i svaki put moramo da transportujemo stvari za liturgiju do sale i naѕad. Ovaj posao uglavnom odradi samo jedan clan nase parohije. Pisma se salju na 600 adresa – zamislite potrebno vrijeme da se svaki put stave pisma u koverte, nalijepe adrese i markice. Nase imanje treba da se odrzava. Crkva uvijek treba volontere da pomognu pri organizaciji i cescenju za slave, piknike i druge prilike. Kolo srpskih sestara uvijek je u potrazi za novim clanovima, narocito mladjim. Internet stranica treba odrzavanje svakodnevno. Trebace nam mnogo ruku kada pocenmo sa renovacijom crkvene zgrade. Ova lista moze da bude jos duza...&lt;/p&gt;
+
+      &lt;p&gt;Pripremili smo &lt;a href="pledgeSr.pdf" target="_blank"&gt;dokument&lt;/a&gt; gdje mozete da nas obavijestite da mozete da donirate svoje vrijeme crkvi. Molimo vas da ga ispunite, posaljete na crkvenu adresu i mi cemo vas kontaktirati.&lt;/p&gt;
+    </value>
+  </data>
+  <data name="65_money_page_title" xml:space="preserve">
+    <value>Pomoc crkvi novcano</value>
+  </data>
+  <data name="66_money_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Nasa crkva ne moze da opstane i bez vase novcane pomoci. Crkveni godisnji budzet je skoro $200,000. Sve preko toga ide za fond za izgradnju crkve.&lt;/p&gt;
+
+      &lt;p&gt;Imamo cetiri fonda gdje mozete da donirate novac:
+      &lt;ol&gt;
+      &lt;li&gt;Fond za otplatu zajma – kao sto ime kaze, sluzi za otplatu zajma za kucu.&lt;/li&gt;
+      &lt;li&gt;Fond za gradnju – koristi se za renovaciju i izgradnju crkve&lt;/li&gt;
+      &lt;li&gt;Operativni fond – za placanje osnovnih dadzbina vezanih za crkvu&lt;/li&gt;
+      &lt;li&gt;Fond za oltar – koristi se za placanje ikona, novig oltara, i drugih slicnih stvari potrebnih za liturgiju.&lt;/li&gt;
+      &lt;/ol&gt;
+      &lt;/p&gt;
+
+      &lt;p&gt;Mozete naznaciti kako vase donacije treba da se koriste (u koje svrhe) ili mozete samo staviti da je to donacija za crkvu. Donacije treba da su za Crvku Sv. Luke (St. Luke Serbian Orthodox Church), cekove i novac mozete ubaciti u tasu za vrijeme liturgije, ili posanjite cek na crvkenu adresu.&lt;/p&gt;
+
+      &lt;p&gt;Najbolje bi bilo kad bi se opredjelili da donirate automatski. Tako necete nikada zaboraviti da pomognete crkvu, cak i ako niste u stanju da prisustvujete liturgiji.&lt;/p&gt;
+
+      &lt;p&gt;Mozete odobriti da nam saljete donacije automatski tako sto ce vam se skidati zeljena suma autamatski sa vaseg cekovnog racuna. Jednostavno, ispunite &lt;a href="ach.pdf" target="_blank"&gt;formular&lt;/a&gt; gdje nam odobravate da povucemo sretstva sa vase racuna i posaljite zajedno sa ponistenim cekom na nasu adresu.&lt;/p&gt;
+
+      &lt;p&gt;Tabela ispod ja za vasu referencu da odredite koliko bi zeljeli da donirate u odnosu na vasa godisnja primanja.&lt;/p&gt;
+
+      &lt;table border=1 width=350px&gt;
+      &lt;tr&gt;&lt;td&gt;&lt;b&gt;Salary&lt;/td&gt;&lt;td&gt;&lt;b&gt;10%&lt;/td&gt;&lt;td&gt;&lt;b&gt;5%&lt;/td&gt;&lt;td&gt;&lt;b&gt;3%&lt;/td&gt;&lt;td&gt;&lt;b&gt;2%&lt;/td&gt;&lt;td&gt;&lt;b&gt;1%&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;30,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;1,500&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;td&gt;600&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;40,000&lt;/td&gt;&lt;td&gt;4,000&lt;/td&gt;&lt;td&gt;2,000&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;50,000&lt;/td&gt;&lt;td&gt;5,000&lt;/td&gt;&lt;td&gt;2,500&lt;/td&gt;&lt;td&gt;1,500&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;60,000&lt;/td&gt;&lt;td&gt;6,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;1,800&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;td&gt;600&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;70,000&lt;/td&gt;&lt;td&gt;7,000&lt;/td&gt;&lt;td&gt;3,500&lt;/td&gt;&lt;td&gt;2,100&lt;/td&gt;&lt;td&gt;1,400&lt;/td&gt;&lt;td&gt;700&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;80,000&lt;/td&gt;&lt;td&gt;8,000&lt;/td&gt;&lt;td&gt;4,000&lt;/td&gt;&lt;td&gt;2,400&lt;/td&gt;&lt;td&gt;1,600&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;90,000&lt;/td&gt;&lt;td&gt;9,000&lt;/td&gt;&lt;td&gt;4,500&lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt;1,800&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;100,000&lt;/td&gt;&lt;td&gt;10,000&lt;/td&gt;&lt;td&gt;5,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;2,000&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;110,000&lt;/td&gt;&lt;td&gt;11,000&lt;/td&gt;&lt;td&gt;5,500&lt;/td&gt;&lt;td&gt;3,300&lt;/td&gt;&lt;td&gt;2,200&lt;/td&gt;&lt;td&gt;1,100&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;120,000&lt;/td&gt;&lt;td&gt;12,000&lt;/td&gt;&lt;td&gt;6,000&lt;/td&gt;&lt;td&gt;3,600&lt;/td&gt;&lt;td&gt;2,400&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;130,000&lt;/td&gt;&lt;td&gt;13,000&lt;/td&gt;&lt;td&gt;6,500&lt;/td&gt;&lt;td&gt;3,900&lt;/td&gt;&lt;td&gt;2,600&lt;/td&gt;&lt;td&gt;1,300&lt;/td&gt;&lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;p&gt;&lt;b&gt;Natoplije vam se zavaljujemo sto ste voljni da pomognete nasu crkvu!&lt;/b&gt;&lt;/p&gt;
+    </value>
+  </data>
+  <data name="67_construction_diary" xml:space="preserve">
+    <value>Dnevnik Renovacije</value>
+  </data>
+  <data name="68_forms" xml:space="preserve">
+    <value>Dokumenti</value>
+  </data>
+  <data name="69_yellow_pages" xml:space="preserve">
+    <value>Lokalne firme</value>
+  </data>
+  <data name="70_forms_title" xml:space="preserve">
+    <value>Dokumenti</value>
+  </data>
+  <data name="71_forms_page" xml:space="preserve">
+    <value>
+      Ovi dokumenti su na raspolaganju da ih presnimite:
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/pledgeSr.pdf" target="_blank"&gt;Dokument za predvidjene priloge&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/GivingForm_SLSOChurch.pdf" target="_blank"&gt;Donacije putem kreditne kartice ili bankovnog racuna&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/sunday school.pdf" target="_blank"&gt;Crkvena skola za djecu&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+    </value>
+  </data>
+  <data name="72_construction_title" xml:space="preserve">
+    <value>Dnevnik renovacije</value>
+  </data>
+  <data name="73_construction_page" xml:space="preserve">
+    <value>&lt;h3&gt;Uskoro...</value>
+  </data>
+  <data name="74_yellowpages_title" xml:space="preserve">
+    <value>Lokalne firme</value>
+  </data>
+  <data name="75_yellowpages_page" xml:space="preserve">
+    <value>
+      &lt;p&gt;If you'd like to place your business add here please &lt;a href="mailto:yellowpages@svluka.org"&gt;
+      email us&lt;/a&gt;.&lt;/p&gt;
+      &lt;TABLE id="Table1" cellSpacing="1" cellPadding="1" width="90%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top"&gt;
+      &lt;TABLE id="Table3" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Car Repair&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Jovan&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table4" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;&lt;STRONG&gt;Photography&lt;/STRONG&gt;&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Nenad Mladenovic&lt;BR&gt;
+      Cell: 703 505 5280&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table5" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Translations&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Ljiljana&amp;nbsp; (English/Serbian translations and classes)&lt;BR&gt;
+      Phone: 301-801-0483
+      &lt;BR&gt;
+      Email: &lt;A href="mailto:ns.magic@hotmail.com"&gt;ns.magic@hotmail.com&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table6" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Immigration&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Marc Schifanelli, attorney at law
+      &lt;BR&gt;
+      Phone: 410-263-0028&lt;A href="/files/DraganSimic.doc"&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table7" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Satellite Dish&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Dusan Babic&lt;BR&gt;
+      Phone: 703-566-0045
+      &lt;BR&gt;
+      Email: &lt;A href="mailto:dulebabic@hotmail.com"&gt;dulebabic@hotmail.com&lt;/A&gt;&lt;A href="/files/DraganSimic.doc"&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;/TD&gt;
+      &lt;TD width="20"&gt;&lt;/TD&gt;
+      &lt;TD vAlign="top"&gt;
+      &lt;TABLE id="Table9" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Construction&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Milan Veljkovic - Handyman&lt;BR&gt;
+      Phone: (301) 661-2318
+      &lt;LI&gt;
+      Jodi Longo - General Contractor in MD&lt;BR&gt;
+      Phone: 240.374.2525&lt;BR&gt;
+      Email: &lt;A href="mailto:jlongo@RenovationStudio.biz"&gt;jlongo@RenovationStudio.biz&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.RenovationStudio.biz"&gt;www.RenovationStudio.biz&lt;/A&gt;
+      &lt;/LI&gt;
+      &lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table2" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Mortgages&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Dragan Simic - Fidelity &amp;amp; Trust Mortgage, Inc.
+      &lt;BR&gt;
+      Office:703.359.4400 x 106&lt;BR&gt;
+      Cell : 571.277.0036&lt;BR&gt;
+      Email: &lt;A href="mailto:dsimic@fidelityandtrust.com"&gt;dsimic@fidelityandtrust.com&lt;/A&gt;
+      &lt;BR&gt;
+      &lt;A href="/files/DraganSimic.doc"&gt;Flyer link&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table8" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Real Estate Agents&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Zlaja Novacic (MD) Prudential Carruthers Realtors&lt;BR&gt;
+      Phone: 443/570-5680 or&amp;nbsp;443/668-7007&lt;BR&gt;
+      Email: &lt;A href="mailto:zlaks@yahoo.com"&gt;zlaks@yahoo.com&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.zlaya.novacic.pcragent.com"&gt;www.zlaya.novacic.pcragent.com&lt;/A&gt;
+      &lt;LI&gt;
+      Dejan Bujak (MD) Jobin Realty&lt;BR&gt;
+      Phone: 301.675.1682&lt;BR&gt;
+      Email: &lt;A href="mailto:dbujak@REStudio.biz"&gt;dbujak@REStudio.biz&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.REStudio.biz"&gt;www.REStudio.biz&lt;/A&gt;
+      &lt;/LI&gt;
+      &lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;P&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P&gt;&amp;nbsp;&lt;/P&gt;
+    </value>
+  </data>
+  <data name="76_uptodate" xml:space="preserve">
+    <value>Redovno odrzavanje</value>
+  </data>
+  <data name="77_letusknow_title" xml:space="preserve">
+    <value>Obavijestite nas</value>
+  </data>
+  <data name="78_letusknow_page" xml:space="preserve">
+    <value>
+      &lt;p&gt;Dragi parohijani,
+
+      &lt;p&gt;Nas glanvi cilj koji zelimo da ostvarimo sa ckrvenim novinama jeste da vas obavijestimo sta se desava u nasoj parohiji i sa nasim parohijanima!
+
+      &lt;p&gt;Najbolji i najsigurniji nacin da sazanamo novosti i tako ih objavimo je da nas Vi direktno obavijestite.
+
+      &lt;p&gt;Ako ste Vi licno, ili znate nekoga da se recimo:
+      &lt;ul&gt;
+      &lt;li&gt;vjencao&lt;/li&gt;
+      &lt;li&gt;krstio&lt;/li&gt;
+      &lt;li&gt;maturirao&lt;/li&gt;
+      &lt;li&gt;dobio bebu&lt;/li&gt;
+      &lt;li&gt;slavio godisnjicu&lt;/li&gt;
+      &lt;li&gt;preminuo&lt;/li&gt;
+      &lt;li&gt;ili bilo sta drugo&lt;/li&gt;
+      &lt;/ul&gt;
+
+      molimo vas da nam pisete na &lt;a href="mailto:newsletter@svluka.org"&gt;newsletter@svluka.org&lt;/a&gt;. Molimo vas da u pismo stavite i elektroske slike i tekst koji bi zeljeli da se objavi.
+
+      &lt;p&gt;Naljepse hvala sto nam pomazete da odrzavamo bliske veze!!!
+    </value>
+  </data>
+  <data name="79_links" xml:space="preserve">
+    <value>Linkovi</value>
+  </data>
+  <data name="80_links_title" xml:space="preserve">
+    <value>Stranica sa linkovima</value>
+  </data>
+  <data name="81_links_page" xml:space="preserve">
+    <value>Ako bi voljeli da postavimo link i od vase crkve posaljite email vebmasteru - link je na stranici za kontaktiranje.</value>
+  </data>
+  <data name="82_mailinglist_title" xml:space="preserve">
+    <value>Email lista crkve Sv Luke</value>
+  </data>
+  <data name="83_mailinglist_page" xml:space="preserve">
+    <value>Da pocnete dobijati emailove nase crkve upisite svoj email i kliknite na "prijava" dugme ispod. Ako hocete da vam saljemo i regularnu postu upisite svoje ime i adresu.</value>
+  </data>
+  <data name="84_mailinglist_email" xml:space="preserve">
+    <value>Email [obavezno]:</value>
+  </data>
+  <data name="85_mailinglist_email_error" xml:space="preserve">
+    <value>Zaboravili ste email ili email nije ispravan</value>
+  </data>
+  <data name="86_mailinglist_Fname" xml:space="preserve">
+    <value>Ime:</value>
+  </data>
+  <data name="87_mailinglist_Lname" xml:space="preserve">
+    <value>Prezime:</value>
+  </data>
+  <data name="88_mailinglist_Address" xml:space="preserve">
+    <value>Adresa:</value>
+  </data>
+  <data name="89_mailinglist_CityEtc" xml:space="preserve">
+    <value>Grad, drzava i zip:</value>
+  </data>
+  <data name="90_mailinglist_Submit" xml:space="preserve">
+    <value>Prijava</value>
+  </data>
+  <data name="91_schedules_page_page" xml:space="preserve">
+    <value>Za vise informacija o dogadjaju koji vas zanima kliknite na njegov tekst na kalendaru.</value>
+  </data>
+  <data name="91.5_schedules_page_fast" xml:space="preserve">
+    <value>&lt;p&gt;Posni dani na kalendaru su &lt;FONT style="BACKGROUND-COLOR: #C4A883" color="white"&gt;
+      &amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;oznaceni&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;&lt;/p&gt;
+      &lt;!--&lt;p&gt;Na posne dane vijerni ne konzumiraju meso, ribu, jaja, mlijeko i mlijecne proizvode, vino (bilo koji alkohol) niti ulje - ovo je oznaceno sa &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;
+      &amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Water&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;.
+      &lt;/p&gt;
+      &lt;p&gt;Na dane oznacene sa &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;&amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Oil&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;
+      dozvoljeno je konzumirati jos ulje i vino.&lt;/p&gt;
+      &lt;p&gt;Na dane oznacene sa &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;&amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Fish&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;,
+      pored vina i ulja dozvoljeno je konzumirati i ribu.&lt;/p&gt;
+      &lt;p&gt;Ako niste sigurni kako da postite obavezno se posavjetujte sa svestenikom.&lt;/p&gt;--&gt;</value>
+  </data>
+  <data name="92_folklore" xml:space="preserve">
+    <value>Folklor</value>
+  </data>
+  <data name="93_folklorehome" xml:space="preserve">
+    <value>Glavna</value>
+  </data>
+  <data name="94_folklorepage_title" xml:space="preserve">
+    <value>Folklore</value>
+  </data>
+  <data name="95_folklorepage_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;
+      Dear Parishioners (Parents/Guardians and/or Young Adults),
+      &lt;p&gt;
+      We would like to take this opportunity to introduce you to the newly formed and
+      official St. Luke Serbian Orthodox Church Folklore Ensemble. We value your
+      trust in us and the opportunity you afford us to help your child/young adult
+      learn more about the Serbian culture and traditional folklore dancing.
+      &lt;p&gt;
+      With the blessing of our Parish Priest and Bishop, coordinating this department
+      is the former "Jelek" Folklore Group choreographer and dance instructor, Mrs.
+      Drina Rajic. All children/young adults are welcome, but please be sure that
+      your child/young adult would be interested in the program before sending in
+      your registration form.
+      &lt;p&gt;
+      We are getting ready for the beginning of the school year and would greatly
+      appreciate if you could please send in your completed registration &lt;A href="Registration2009.pdf" target=_blank&gt;
+      form(s)&lt;/A&gt;
+      by Sunday, September 20th to guarantee your child’s/young adult’s place in
+      class.
+      &lt;p&gt;
+      Classes will take place every other Sunday after Divine Liturgy and Sunday
+      School, beginning Sunday, September 27, ongoing throughout the entire school
+      year. This will ensure that children/young adults get proper instruction and
+      can master basic steps and traditional dances.
+      &lt;p&gt;For more information about St. Luke Serbian Orthodox Church Folklore Ensemble,
+      please contact Mrs. Drina Rajic at 202-489-4557 or e-mail her at &lt;A href="mailto:drajic@tsmglobe.com"&gt;
+      drajic@tsmglobe.com&lt;/A&gt;
+      .
+      &lt;p&gt;You may give or email your completed registration &lt;A href="Registration2009.pdf" target=_blank&gt;form(s)&lt;/A&gt;
+      to: Drina (&lt;A href="mailto:drajic@tsmglobe.com"&gt;drajic@tsmglobe.com&lt;/A&gt;) or
+      Father Aleksa (&lt;A href="mailto:fathermicich@yahoo.com"&gt;fathermicich@yahoo.com&lt;/A&gt;
+      ).
+      &lt;p&gt;You may also mail it to:&lt;br&gt;
+      &lt;STRONG&gt;St. Luke Serbian Orthodox Church&lt;br&gt;
+      10660 River Rd.&lt;br&gt;
+      Potomac, MD 20854&lt;br&gt;
+      Attn: Folklore Ensemble&lt;br&gt;
+      &lt;/STRONG&gt;
+      &lt;/p&gt;
+    </value>
+  </data>
+  <data name="96_prevod" xml:space="preserve">
+    <value>&lt;p&gt;(Izvinjavamo se sto stranica nije prevedena, ako imate vremena molimo vas da nam pomognete tako sto cete prevesti ovu stranicu i poslati prevod na nas &lt;a href=mailto:webmaster2006@svluka.org&gt;emajl&lt;/a&gt;.)</value>
+  </data>
+  <data name="97_folklore_calendar" xml:space="preserve">
+    <value>Kalendar</value>
+  </data>
+  <data name="98_folklorecalendarpage_title" xml:space="preserve">
+    <value>Kalendar Folklora</value>
+  </data>
+  <data name="99_folkorecalendarpage_text" xml:space="preserve">
+    <value>Embeded in the page</value>
+  </data>
+  <data name="91.7_schedules_calendars" xml:space="preserve">
+    <value>&lt;p&gt;Možda ste primjetili da koristimo google kalendare za naš veb sajt. Svi kalendari su javni, što znači da ih možete povezati na svoj &lt;b&gt;mobilni telefon&lt;/b&gt;.&lt;p&gt;&lt;a href="http://support.google.com/calendar/bin/topic.py?hl=en&amp;topic=13950&amp;p=syncmobile" target="_blank"&gt;Ovdje&lt;/a&gt; su detaljne instrukcije kako da preuzmete kalendar na vaš telefon.&lt;p&gt;Kada pročitate uptstva na linku iznad, biće vam jasno šta da radite sa podacima u tebeli ispod:&lt;style type="text/css"&gt;#dejan td, #dejan th { border-bottom:1px dotted black;padding:5px; }#dejan {border:1px solid black;}&lt;/style&gt;&lt;table id="dejan"&gt;&lt;tr&gt;&lt;th&gt;Kalendar&lt;/th&gt;&lt;th&gt;Opis&lt;/th&gt;&lt;th&gt;Calendar ID&lt;/th&gt;&lt;th&gt;HTML&lt;/th&gt;&lt;th&gt;ICAL&lt;/th&gt;&lt;th&gt;XML&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Sv Luka&lt;/td&gt;&lt;td valign=top&gt;Ovdje je raspored služenja naše crkve, sastanci, probe hora i slično.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="is16q4gom1ke09s9fqfchmffcg@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'is16q4gom1ke09s9fqfchmffcg@group.calendar.google.com'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic.ics'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Kalendar Srpske Pravoslavne Crkve&lt;/td&gt;&lt;td valign=top&gt;Crveni i crni danu su označeni kao i kratak opis (engliski jezik).&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="lqdpci7b1t2rkoact8ar44jigs@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'lqdpci7b1t2rkoact8ar44jigs@group.calendar.google.com'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic.ics'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Kalendar Srpske Pravoslavne Crkve&lt;/td&gt;&lt;td valign=top&gt;Isto kao predhodni, samo na srpskom.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="l7isj43cj3k45foom4pl614fdc@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'l7isj43cj3k45foom4pl614fdc@group.calendar.google.com'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic.ics'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Posni dani&lt;/td&gt;&lt;td valign=top&gt;Kalendar sa posnim danima&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="6lne9t4ljhv8srj9s7hnd55oqg@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', '6lne9t4ljhv8srj9s7hnd55oqg@group.calendar.google.com'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com&amp;ctz=America/New_York "&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com&amp;ctz=America/New_York '); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic.ics'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Folklor&lt;/td&gt;&lt;td valign=top&gt;Raspored proba i nastupa folklor ansambla naše crkve.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="aea5db1h2ssolond3llcnpul7g@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'aea5db1h2ssolond3llcnpul7g@group.calendar.google.com'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic.ics'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic'); return false;"&gt;iskopiraj tekst&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</value>
+  </data>
+</root>

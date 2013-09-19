@@ -1,0 +1,1990 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="1_title" xml:space="preserve">
+    <value>St Luke Serbian Orthodox Church</value>
+  </data>
+  <data name="2_home_religius" xml:space="preserve">
+    <value>
+      Troparion, Tone 3:&lt;br&gt;
+      Holy Apostle Luke, intercede with&lt;br&gt;
+      God all merciful that He may grant us&lt;br&gt;
+      remission of sins.
+    </value>
+  </data>
+  <data name="3_introduction" xml:space="preserve">
+    <value>St Luke Church</value>
+  </data>
+  <data name="4_home" xml:space="preserve">
+    <value>Capital Campaign</value>
+  </data>
+  <data name="5_whatsnew" xml:space="preserve">
+    <value>What's New</value>
+  </data>
+  <data name="6_schedules" xml:space="preserve">
+    <value>Calendar</value>
+  </data>
+  <data name="7_home_page_title" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="8_home_text" xml:space="preserve">
+    <value>&lt;h3&gt;
+    The Campaign for St. Luke Serbian Orthodox Church
+    &lt;br /&gt;
+    &lt;span style="font-size: 9pt"&gt;“Let every person give according to the purposes of their
+        heart…” (II Corinthians 9:7a)&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+    Dear Friends and Parishioners of St. Luke Serbian Orthodox Church,&lt;br /&gt;
+&lt;br /&gt;
+    The above words of St. Paul in his letter to the Corinthians are particularly relevant
+    in our effort to successfully complete the Campaign for St. Luke Serbian Orthodox
+    Church. You may have recently viewed a PowerPoint presentation on our Campaign or
+    there may be materials concerning the Campaign that accompany this letter.
+&lt;br /&gt;
+&lt;br /&gt;
+    As you may know, the Campaign is to raise $1,250,000. The benefits to the community
+    are the following:&lt;ol&gt;
+    &lt;li&gt;Maintain the upper two floors of the building as a rectory, office &amp;amp; classroom
+        space.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;Completely renovate and expand the lower level (doubles the footprint) to include
+        space for a sanctuary (180 person capacity), social hall (159 person capacity),
+        and new kitchen.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Renovate our grounds to include new parking &amp;amp; driveways, lighting, landscaping,
+            and a new storm water management system.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+    We humbly request a meaningful and personally significant gift, which can be given
+    in a five-year pledge. Of course, only you can decide what a sacrificial gift from
+    your family is. Please know that we shall be grateful for whatever you may choose
+    to give. And if you are not in a position to give, we humbly ask for your good will
+    and your prayers.
+&lt;br /&gt;
+&lt;br /&gt;
+    Please click links below for more information:&lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.presentation.pdf" target=_blank&gt;PowerPoint Presentation for the Capital Campaign for St. Luke Serbian Orthodox Church
+&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.rendering.pdf" target=_blank&gt;Renderings and Plans
+&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.ways.to.give.pdf" target=_blank&gt;Ways To Give To
+            The Campaign for St. Luke Serbian Orthodox Church&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Click here to Donate&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="Construction/cc.faq.pdf" target=_blank&gt;Frequently Asked Questions
+&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+&lt;br /&gt;
+    Sincerely yours in Christ,&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Fr. Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
+        &lt;td style="width: 120px"&gt;
+            &amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            Parish Priest&lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            Capital Campaign Committee Chair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;</value>
+  </data>
+  <data name="9_whatsnew_page_title" xml:space="preserve">
+    <value>What's New</value>
+  </data>
+  <data name="10_directions_page_title" xml:space="preserve">
+    <value>Directions</value>
+  </data>
+  <data name="11_directions_directions" xml:space="preserve">
+    <value>Directions:</value>
+  </data>
+  <data name="12_directions" xml:space="preserve">
+    <value>Directions</value>
+  </data>
+  <data name="13_whatsnew_updated" xml:space="preserve">
+    <value>Updated</value>
+  </data>
+  <data name="14_schedules_page_title" xml:space="preserve">
+    <value>Schedules</value>
+  </data>
+  <data name="15_donation_page_title" xml:space="preserve">
+    <value>On-Line donations</value>
+  </data>
+  <data name="16_donation_instruction" xml:space="preserve">
+    <value>
+      &lt;p&gt;Unfortunately, we decided to cancel Internet donations. Response was very weak, ~$200 per month on average, and considering that we had to pay monthly for this service no matter how much money donated, we decided to cancel this convenient way for donations.
+
+      &lt;p&gt;Instead, please, mail us your check to the church address (bellow).
+
+      &lt;p&gt;Thank you very much!
+
+
+      &lt;p&gt;10660 River Road&lt;br&gt;
+      Potomac, Maryland 20854
+    </value>
+  </data>
+  <data name="17_donation_select_amount" xml:space="preserve">
+    <value>Please choose amount</value>
+  </data>
+  <data name="18_donation_missing" xml:space="preserve">
+    <value>You forgot to choose donation.</value>
+  </data>
+  <data name="19_donation_notvalid" xml:space="preserve">
+    <value>That is not a valid amount.</value>
+  </data>
+  <data name="20_donation_submit" xml:space="preserve">
+    <value>Donate</value>
+  </data>
+  <data name="21_donation_min" xml:space="preserve">
+    <value>min $5</value>
+  </data>
+  <data name="22_footer_chat" xml:space="preserve">
+    <value>
+      &lt;table height="20"&gt;
+      &lt;tr&gt;
+      &lt;td&gt;
+      &lt;span class="footerChat"&gt;
+      &lt;!-- Boldcenter Live Chat Button HTML v1.10 (Type=Web,ChatButton=- None -,ChatWindow=- None -,Website=- None -) --&gt;
+      &lt;a href="http://chat.boldcenter.com/aid/304086841263900764/bc.chat" target="_blank"
+      onClick="this.newWindow = window.open('http://chat.boldcenter.com/aid/304086841263900764/bc.chat?url=' + document.location, 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"&gt;
+      &lt;b&gt;You can also chat with us live!&lt;/b&gt;
+      &lt;/a&gt;
+      &lt;!-- /Boldcenter Live Chat Button HTML v1.10 --&gt;
+      &lt;/span&gt;
+      &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/table&gt;
+    </value>
+  </data>
+  <data name="24_thankyou_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Dear dbujakbname,&lt;/p&gt;
+
+      &lt;p&gt;Thank you so much for your generous donation of $dbujakamount. We can all together make our dream reality - to finally build the church!&lt;/p&gt;
+
+      &lt;p&gt;Have a great day, and please come again!&lt;/p&gt;
+    </value>
+  </data>
+  <data name="25_thankyou_ps" xml:space="preserve">
+    <value>
+      &lt;br&gt;&lt;br&gt;
+      PS&lt;br&gt;
+      Since your donation was $250 or over, you will receive latter in mail stating so, as required by the US government.
+    </value>
+  </data>
+  <data name="23_thinkyou_title" xml:space="preserve">
+    <value>Thank You for Your Donation!</value>
+  </data>
+  <data name="24_header_donate" xml:space="preserve">
+    <value>&lt;a href="/SvLuka/Donations/donation.aspx"&gt;&lt;font size=4&gt;&lt;b&gt;On-Line Donations&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;</value>
+  </data>
+  <data name="25_sorrypage_title" xml:space="preserve">
+    <value>We are sorry...</value>
+  </data>
+  <data name="26_sorry_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Thank you for trying to donate money, however, there is a problem with your credit card and the system can't accept it.&lt;/p&gt;
+
+      &lt;p&gt;You can try again latter, or contact us by phone, e-mail or live chat at the bottom of every page.&lt;/p&gt;
+
+      &lt;p&gt;We apologize for the inconvenience.&lt;/p&gt;
+    </value>
+  </data>
+  <data name="27_donations" xml:space="preserve">
+    <value>Donations</value>
+  </data>
+  <data name="28_other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="29_contactus" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="30_photos" xml:space="preserve">
+    <value>Photos &amp; Videos</value>
+  </data>
+  <data name="31_newsletter" xml:space="preserve">
+    <value>Publications</value>
+  </data>
+  <data name="32_teenpage" xml:space="preserve">
+    <value>Sunday School</value>
+  </data>
+  <data name="33_teenhome" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="34_teenyouthgroup" xml:space="preserve">
+    <value>Youth Group</value>
+  </data>
+  <data name="35_teenpage_title" xml:space="preserve">
+    <value>Teen Page Home</value>
+  </data>
+  <data name="36_teenpage_text" xml:space="preserve">
+    <value>&lt;p&gt;Sunday School classes begins immediately after Communion of the Divine Liturgy.  &lt;/P&gt;
+
+
+      &lt;p&gt;
+      Wayside Elementary School&lt;br&gt;
+
+10011 Glen Road&lt;br&gt;
+Potomac MD 20854&lt;br&gt;&lt;/p&gt;
+
+
+
+      &lt;p&gt;We welcome children from pre-school through high school. &lt;/p&gt;
+
+      &lt;p&gt;For additional information about Sunday School, please contact Becky Kesic at 703-421-1254 or &lt;a href="mailto:Kesic.becky@verizon.net"&gt;Kesic.becky@verizon.net&lt;/a&gt;.&lt;/p&gt;
+
+      &lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;p&gt;Dear Teenagers, &lt;/p&gt;
+
+
+
+      &lt;p&gt;     We are happy to add this special section to our church website to help address the issues that may matter to you, or that you may face during this time in your life. Together with your parents and family, the Church and Church community loves you. This information is provided so that you can learn more about our faith and its position on contemporary issues.&lt;/p&gt;
+
+
+
+
+
+      &lt;p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/YouthGroup.aspx"&gt;Teen Youth Group&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/East.aspx"&gt;Why Do We Face East When We Pray?&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/Tattoing.aspx"&gt;Is Tattooing Or Body Piercing Really Bad?!!&lt;/a&gt;&lt;/li&gt;
+
+      &lt;li&gt;&lt;a href="/SvLuka/Teens/PrayerRopes.aspx"&gt;About Prayer Ropes&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;/p&gt;</value>
+  </data>
+  <data name="37_youthgroup_title" xml:space="preserve">
+    <value>Youth Group</value>
+  </data>
+  <data name="38_youthgroup_text" xml:space="preserve">
+    <value>
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;&lt;FONT size=5&gt;&lt;STRONG&gt;Teen Youth Group&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;ARE YOU . . . . &lt;/P&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Between the ages of 13 – 18? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Looking for opportunities to develop friendships with other Orthodox
+      Christians, like you? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Interested in supporting your church? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Willing to volunteer your time and talents to help others? &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Curious about how our faith helps teens deal with the difficult
+      issues we face each day? &lt;/DIV&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;If so, then you might be interested in joining the&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=center&gt;&lt;U&gt;&lt;STRONG&gt;&lt;FONT size=5&gt;St. Luke Serbian Orthodox Youth
+      Group&lt;/FONT&gt;&lt;/STRONG&gt;&lt;/U&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;We will meet once a month for fellowship, activities, and
+      discussions. Some possible activities may include: &lt;/P&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Attending a youth retreat with other Orthodox Christian youth or
+      other Serbian Orthodox youth. &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Going bowling with the group &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Assisting members of our parish who may need basic household projects
+      completed &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Preparing and serving food to the homeless &lt;/DIV&gt;
+      &lt;LI&gt;
+      &lt;DIV style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Having informal discussions about issues teens face &lt;/DIV&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt; &lt;/P&gt;
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;For more information about the Youth Group, please contact Father Alex or Becky Kesic. &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Father Alex: &lt;A
+      href="mailto:Fathermicich@yahoo.com"&gt;Fathermicich@yahoo.com&lt;/A&gt; or 301-299-2704
+      &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; FONT-FAMILY: 'Kristen ITC'"
+      align=left&gt;Becky Kesic: &lt;A
+      href="mailto:Kesic.becky@verizon.net"&gt;Kesic.becky@verizon.net&lt;/A&gt; or
+      703-421-1254&lt;/P&gt;
+    </value>
+  </data>
+  <data name="39_eastpage_title" xml:space="preserve">
+    <value>WHY DO WE FACE EAST WHEN WE PRAY?</value>
+  </data>
+  <data name="40_eastpage_text" xml:space="preserve">
+    <value>
+      &lt;P class=MsoNormal&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;Have
+      you ever asked yourself why we have to turn toward the &lt;I&gt;east &lt;/I&gt;when we pray,
+      or why the altar in our Orthodox churches is placed on the east side, or why we
+      put icons on the east wall in our homes, or why do we bury people facing the
+      east? These and many other questions concerning our faith arise every day.
+      Certainly, they need an explanation.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p3 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;It is not without reason or by chance that we worship
+      toward the east. Of course, we can pray to our Almighty God everywhere and all
+      times, and God, who is everywhere, will hear our prayers, even though we are not
+      facing the east. However, we know that some of the attributes of God are that He
+      &lt;I&gt;is &lt;/I&gt;spiritual light, &lt;I&gt;“and declare unto you, that &lt;U&gt;God&lt;/U&gt; &lt;U&gt;is
+      light&lt;/U&gt;, and in him is no darkness at all’(1 &lt;/I&gt;John 1:5), and Christ is
+      called in the Scriptures &lt;B&gt;Sun of Righteousness &lt;/B&gt;&lt;I&gt;“But unto you that fear
+      my name shall &lt;U&gt;the Sun of righteousness&lt;/U&gt; arise with healing in his wings"
+      &lt;/I&gt;(Mal 4:2).&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p4 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;I&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;“The sun will no more be your light by day, nor will the
+      brightness of the moon shine on you, for the &lt;U&gt;LORD will be your everlasting
+      light&lt;/U&gt;, and your God will be your glory“ (Isa &lt;/SPAN&gt;&lt;/I&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;60:19). Therefore, the east is the direction that must
+      be assigned to His worship. &lt;U&gt;Thus, we see that Christ is that light that comes
+      from the east&lt;/U&gt;.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p5 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Every morning when we wake up and open our eyes, we see
+      how the Sun rises from the east, bestows unto us the light of its rays, and
+      adores us with splendid illumination, filling our hearts with happiness. In the
+      same way, our Lord Jesus Christ shines as the light of the world He is the. Sun
+      of Righteousness that shines upon us every day, and adore us with His blessings,
+      illuminating our hearts. Once we experience joy of that light in our hearts, we
+      will recognize Him as our Lord and Savior. We always face the east in order to
+      gaze upon the beautiful face of Jesus Christ from Whom we receive every good
+      gift. He is the &lt;I&gt;‘gladsome light of the heavenly Father' &lt;/I&gt;(a prayer from
+      Vespers), by which we do not walk in the darkness of this
+      world.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p5 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;The Garden of Eden was also planted in the east. When
+      Adam and Eve were expelled from Paradise, God made them to dwell away from
+      Paradise, which clearly is the west. &lt;U&gt;So, then, we worship God seeking and
+      striving after our old fatherland &lt;/U&gt;&lt;/SPAN&gt;&lt;U&gt;&lt;SPAN style="FONT-SIZE: 4pt"&gt;-
+      &lt;/SPAN&gt;&lt;/U&gt;&lt;I&gt;&lt;U&gt;&lt;SPAN style="FONT-SIZE: 11pt"&gt;‘the lost&lt;/SPAN&gt;&lt;/U&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt; &lt;U&gt;Paradise’&lt;/U&gt;. &lt;/SPAN&gt;&lt;/I&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Also the tribe of Judah, &lt;I&gt;as &lt;/I&gt;the most precious,
+      pitched their camp on the East: &lt;I&gt;“And on the east side toward the rising of
+      the sun shall they of the standard of the camp of Judah pitch throughout their
+      armies." &lt;/I&gt;(Num 2:3).&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p2 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Moreover Christ, when He was crucified on the Cross, had
+      His face turned toward the west, and so we worship and pray facing the east,
+      constantly striving after Him. And when He was received again into Heaven, He
+      was ascending toward the east, and thus His apostles worship Him. He will come
+      again in the way in which they beheld Him going toward Heaven, as the Lord
+      Himself said: &lt;I&gt;“As the lightning cometh out of the East and shineth even unto
+      the West, so also shall the coming of the Son of Man be” &lt;/I&gt;(Matt 24:27). In
+      expectation of His Second coming, we worship toward the &lt;I&gt;east; &lt;/I&gt;and we bury
+      our reposed ones in the ground facing the East, for we hope and believe in the
+      resurrection of the dead and His glorious coming from the
+      East.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p5 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Remember, also, that before a person is baptized, he or
+      she, together with their godfather, &lt;U&gt;is facing the west and renounces
+      Satan&lt;/U&gt; through the prayers of exorcism. After a person or the godfather (in
+      case of the baptism of a child), denies Satan and his evil works, he or she has
+      to turn toward the altar, (or the east), &lt;U&gt;and declare being united with
+      Christ. by reading the Nicene Creed&lt;/U&gt;.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p5 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Now, that we know why we Christians constantly face the
+      East, we can understand why the Orthodox Church is called the Eastern Orthodox
+      Church. This, of course, doesn’t apply to the geographical location of our
+      Church, for even if we live in America (which is considered a western country),
+      we belong to the Eastern Orthodox Church. The Orthodox Church is not
+      geographically situated in one country or one place, but is spread all over the
+      world: &lt;I&gt;“go therefore and make disciples of all the nations..." &lt;/I&gt;(Matt.
+      28:19).&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=p6 style="LINE-HEIGHT: 14.15pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;SPAN
+      style="FONT-SIZE: 11pt"&gt;Let the Sun of Righteousness, Jesus Christ always shine
+      before us so that we may clearly see the narrow path that leads to the Kingdom
+      of Heaven.&lt;/SPAN&gt;&lt;/FONT&gt;s
+    </value>
+  </data>
+  <data name="41_tattooingpage_title" xml:space="preserve">
+    <value>IS TATTOOING OR BODY PIERCING REALLY BAD?!!</value>
+  </data>
+  <data name="42_tattooingpage_text" xml:space="preserve">
+    <value>
+      &lt;P class=MsoNormal style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"
+      align=center&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;&lt;I&gt;“Everything is permissible for
+      me&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal
+      style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; TEXT-ALIGN: center"
+      align=center&gt;&lt;FONT face="Lucida Sans"&gt;&lt;I&gt;-but not everything is beneficial “(1
+      &lt;/I&gt;Cor 6: 2)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;FONT face="Lucida Sans"&gt;      Very often in our lives, we
+      hear the words that our misguided society victoriously proclaims to us:&lt;I&gt;
+      “Let’s have fun, let’s try it, who cares, whatever, just do it, no fear, forget
+      about it, it’s cool, it’s better now than never, it feels good, obey you thirst,
+      experience it, explore it, &lt;/I&gt;and etc.” These and many other messages are
+      bombarding our minds every single day: in schools, on TV, on radio, on the
+      streets, in restaurants, at parties, while driving, while talking to our
+      friends. Most of them are simple and innocent in context, but some of them have
+      such powerful, and sometimes, very disturbing images. We may think that these
+      messages do no harm to us, and that they are just an attempt by our society to
+      bring commercialism to more people, by providing them with a good solution to
+      escape the craziness of this world. It may look that way, but I think that
+      behind the scum of these messages lies the lucidity of &lt;I&gt;the biggest deceiver
+      ever, &lt;/I&gt;the Devil.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;FONT face="Lucida Sans"&gt;     Indeed, the Devil never sleeps,
+      nor stops tricking and deluding people. His main goal is to deceive as many
+      people as he can, promising beauty, which later turns into big disappointments,
+      ugliness and unhappiness within themselves. When a deceived person realizes that
+      all of the disfiguring was pointless, stupid and unnecessary, he blames himself
+      because he made a mistake out of ignorance, stubbornness, and adolescent pride.
+      Then, he will probably lament quietly saying: &lt;I&gt;‘Was this necessary?. 1 could
+      have lived without it...why... why... why have I done this?’&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;I&gt;&lt;FONT face="Lucida Sans"&gt;     &lt;/FONT&gt;&lt;/I&gt;&lt;FONT
+      face="Lucida Sans"&gt;The Devil will then laugh loudly, rejoicing in his
+      masterpiece saying, &lt;I&gt;“Naive and poor man, didn’t you want this so badly.. .1
+      offered you this, and you accepted it with joy... it is not my fault... it is
+      you who chose it... now I’ll enjoy your disenchantment!”&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;What does this have to do with
+      tattooing and body piercing?&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;FONT face="Lucida Sans"&gt;     First, let us examine how we
+      commit a sin. As I explained before, the Devil works a double shift, and often
+      over time. For him there is no rest, and in fact, he never gets time off, or
+      vacation time. His salary is on a daily basis, because there are a lot of people
+      that he is “in charge of.” His compensation is the satisfaction which he
+      receives through tricking naive people. He is never hungry because he feeds
+      himself with pride, so he works very diligently. He offers, he suggests, he
+      delightfully whispers beautiful ideas, and people believe his lies and fall into
+      his trap.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal&gt;&lt;FONT face="Lucida Sans"&gt;     The very first mistake we make
+      when he whispers in our ear is that &lt;B&gt;we receive&lt;/B&gt; his thoughts into our
+      minds. The second one is when &lt;B&gt;we do not recognize &lt;/B&gt;nor look for the
+      delusion behind that idea, we accept it easily. The third one is when &lt;B&gt;we
+      start to think &lt;/B&gt;about that idea, believing there is nothing wrong with it.
+      The fourth mistake is, when &lt;B&gt;we start to like it and enjoy it,
+      &lt;/B&gt;experiencing the pleasure of the sinful thought. If we do not stop at this
+      point of sin development, we will fall unto the next level, which is lust, which
+      leads into sinful action. After lust, there is a big abyss, with no escape. As
+      you see, before we commit sin, we all go through several steps of the degrading
+      process. Therefore, remember, there is always the thought that can be
+      transformed into a sinful deed.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;    
+      Is body piercing or tattooing a sin? &lt;/B&gt;Yes it is! &lt;I&gt;“But why, there is
+      nothing wrong with it!” &lt;/I&gt;someone may say&lt;I&gt;. &lt;/I&gt;Well, it is a sin. The Bible
+      does speak about the sanctity of man and the defilement of the body. The first
+      man, Adam, was created &lt;B&gt;in the image and likeness of God: &lt;/B&gt;Then God
+      said,&lt;B&gt; &lt;/B&gt;&lt;I&gt;“Let us make man in our image, in our likeness, and let them
+      rule over the fish of the sea and the birds of the air, over the livestock, over
+      all the earth, and over all the creatures that move along the ground.” &lt;/I&gt;(Gen
+      1:26-27). None of the living creatures were worthy to be created in the image
+      and likeness of God. Only man was. His whole being was immersed into that
+      likeness, and not just one part of Adam’s being, not just his left hand, one
+      finger, right leg, or eyes, but the complete being.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;     As
+      we know, every man is created as the psycho- physical being: with &lt;I&gt;soul and
+      body. &lt;/I&gt;With these two elements man is a complete person. Our goal is to keep
+      both of them &lt;U&gt;undefiled&lt;/U&gt; before God. When we sin, our soul gets hurt, and
+      it needs a speedy recovery that is received through repentance. When we harm our
+      bodies, in anyway imaginable, we are responsible before God for the corruption
+      and defilement of His work.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt; &lt;B&gt;   
+      Are we the creators of ourselves? &lt;/B&gt;No! So, why then do we destroy something
+      that is not our own, which does not belong to us? In other words, how do we
+      corrupt God’s work? We do this simply by putting unto our bodies’ strange and
+      ungodly elements such as &lt;I&gt;tattoos, earrings, chains, locks, and other demonic
+      portrayals. &lt;/I&gt;For some people, this is a “beautiful piece of art”; for
+      Christians this is considered “&lt;B&gt;self-mutilation&lt;/B&gt;.” By doing this to
+      ourselves, we are distorting the image and likeness of God in ourselves, and
+      instead of being an icon of God, we become a distorted picture that nobody wants
+      to look at it or buy. Apostle Paul is very clear when he writes to the
+      Corinthians, and says, &lt;I&gt;“Do you not know that your body &lt;/I&gt;is &lt;I&gt;a temple of
+      the Holy Spirit, who is in you, whom you have received from God? You are not
+      your own: you were bought at a price. Therefore honor God with your body.”
+      &lt;/I&gt;(1 Cor 6:19-20). The Apostle is right. We were indeed bought with a big
+      price, which is the blood of the Son of God, who suffered death on the cross for
+      our salvation. He gave us our angelic beauty, by which we are recognized as the
+      children of God, and in return, He receives nothing but the ugliness of our
+      mutilated bodies. Remember that we are the members of one body, the body of
+      Christ, &lt;I&gt;("...so in Christ we who are many form one body, and each member
+      belongs to oil the others.” &lt;/I&gt;Rom 12:4-6), and each time we hurt our bodies
+      with a new tattoo, or a piercing, we put another nail into Jesus’ body on the
+      cross. Just, imagine how big His mercy is, when He willingly suffers our
+      nails!&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;    
+      Sometimes, we do not even know the meaning or message behind the tattoos that
+      are placed on our bodies. Most tattoos have a background in various Eastern
+      cultures, which use such signs for their cultic worships and experiences. Some
+      people go so far as to have a cross tattooed on their feet. Those are not
+      Christians, but anti-Christians, because with each step taken they step down on
+      the cross; and by doing this, they show disrespect to the Holy Cross of Jesus
+      Christ.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt; &lt;B&gt;   
+      Why do people choose to do such &lt;/B&gt;things? Is there any explanation for
+      distorting the image of God in us? I would like to know if tattoos or body
+      piercing make people feel different? Do they become more “cool” and jazzy by
+      doing so? Do they feel special after they’ve put a wild dragon tattoo on their
+      shoulders or on a secret spot? Does having a “double headed eagle” tattooed on
+      one’s chest make that person a bigger Serbian than someone who does not? Are the
+      people with earrings attached to various parts of the body, more valuable than
+      those who do not have any? In other words, is it worthy doing all these insane
+      things?&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;     My
+      suggestion to you is, “always think before you do something, and always ponder
+      on the words of Apostle Paul, &lt;I&gt;‘Everything is permissible jar me-but not
+      everything is beneficial’ &lt;/I&gt;(1 Cor 6:12)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;    
+      Indeed, today everything is possible if there is no fear of God: &lt;I&gt;“Therefore
+      do not let sin reign in your mortal body so that you obey its evil desires. Do
+      not offer the parts of your body to sin, as instruments of wickedness, but
+      rather offer yourselves to God, as those who have been brought from death to
+      life: and offer the parts of your body to Him as instruments of righteousness".
+      &lt;/I&gt;Rom 6:12-14.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;     Let
+      us pray to God, to keep our minds clear from every evil thought, that we may
+      always distinguish what is right and what is wrong, what is truly beneficial,
+      and what is harmful to our souls and bodies, so that we may stand upright before
+      His Judgment, and hear the words: ‘well done my faithful servant, enter into the
+      Kingdom of Heaven.'&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt; &lt;/P&gt;
+      &lt;P class=MsoNormal style="LINE-HEIGHT: 13.3pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;I&gt;May
+      your whole spirit, soul and body be kept blameless at the coming of our Lord
+      Jesus Christ.  &lt;/I&gt;1 Thess &lt;I&gt;5:23.&lt;/I&gt;&lt;/FONT&gt;&lt;/P&gt;
+    </value>
+  </data>
+  <data name="43_ropespage_title" xml:space="preserve">
+    <value>About Prayer Ropes </value>
+  </data>
+  <data name="44_ropespage_text" xml:space="preserve">
+    <value>
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Praying with prayer ropes is one of
+      the oldest ways of doing prayers, mostly used by monks. Prayer ropes have a
+      symbolic character. Most of them are made in &lt;B&gt;black color&lt;/B&gt;, which reminds
+      us to live solemn lives in repentance. They are made of &lt;B&gt;pure wool&lt;/B&gt;, which
+      signifies that we are the rational ships of the &lt;U&gt;Good Shepherd-Jesus Christ,
+      who as an innocent Lamb of God had suffered and died on the cross for our
+      salvation&lt;/U&gt;. Small prayer ropes, usually have 33 knots. There are also the
+      bigger ones, with 50, 100, or 300 knots. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;I&gt;According to an ancient tradition, there was a monk who
+      wanted to make a wool prayer rope in order to count his prayers. Unfortunately,
+      he was unable to finish it because the Devil would come and untie the knots. One
+      day, an angel of God appeared to him with instructions on how to make the knots
+      with seven crosses entwined in each knot. That was one of the most complicated
+      ropes, which the Devil was not able to untie. &lt;/I&gt;&lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt; TEXT-ALIGN: center" align=center&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt;HOW DO WE PRAY WITH PRAYER ROPES?&lt;/B&gt; &lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Among many
+      prayers that people read at an appointed time and from their prayer books, our
+      Church gives us also the blessing to use other prayers that could be repeated
+      continually. These prayers help us to gather our thoughts, and to keep our minds
+      from wandering around.&lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;First, gather and clear all the
+      thoughts in your mind, and then, take the knot of your prayer rope into your
+      left hand, holding it slightly in between the thumb and the index finger. Then,
+      make a sign of the cross with your right hand and quietly begin your prayer,
+      counting every prayer with a knot. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P class=MsoNormal align=justify&gt;&lt;FONT face="Lucida Sans"&gt; The most common
+      prayer, that we use when praying with the prayer rope is the Jesus
+      prayer:&lt;/FONT&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt;
+      &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;"O Lord Jesus Christ,
+      Son of God, have mercy on me a sinner!"&lt;/B&gt; This prayer can be recited in the
+      shorter version: &lt;B&gt;"O Lord Jesus Christ, have mercy on me!"&lt;/B&gt;&lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;&lt;U&gt;The Jesus prayer is the most
+      important prayer in the life of every Orthodox Christian&lt;/U&gt;. According the
+      rules of our Church, it can replace another prayer. When we recite this prayer
+      continually, we feel that the grace of God descends into our hearts, and makes
+      us feel comfortable, filling our souls with an unspeakable peace. This is
+      because the prayer itself is sanctified with the name of Our Lord Jesus Christ.
+      Many Orthodox Christians are accustomed to this prayer, and they are able to
+      keep the name of Jesus on their lips and in their hearts, even while sleeping.
+      &lt;U&gt;When you repeat this prayer constantly, it becomes like a habit, which is the
+      same as the process of breathing&lt;/U&gt;. The power of this prayer is in the name of
+      &lt;B&gt;Jesus Christ&lt;/B&gt;, which expels all doubts and unrest out of our hearts,
+      bringing into us peace and God’s grace. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Beside the Jesus prayer, we can recite
+      a prayer to the Most Holy Mother of God, or to the saints: "&lt;B&gt;O Most Holy
+      Mother of God, save me - a sinner!" &lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;"O Holy (name of the saint) pray to God for me -
+      a sinner!"&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;With prayer ropes we can pray for our
+      relatives, neighbors, or our people, by holding the first knot of our prayer
+      rope and saying: &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;"O Lord Jesus Christ, have mercy on
+      Thy servant&lt;/B&gt;s (&lt;I&gt;name, or a list of names&lt;/I&gt;), and with the rest of the
+      knots we do not repeat again the names of those that we prayed for, but we say:
+      &lt;B&gt;" O Lord Jesus Christ, have mercy on Thy mentioned
+      servants...!"&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT face="Lucida Sans"&gt;This way
+      we can also pray for the departed relatives: &lt;B&gt;" O Lord Jesus Christ, give rest
+      to Thy servants (names), &lt;/B&gt;and again with the rest of the knots&lt;B&gt;: " O Lord
+      Jesus Christ, give rest to Thy mentioned servants!"&lt;/B&gt;&lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;&lt;U&gt;When we are alone, it is good to
+      choose a quiet place for prayer, and to pronounce the words of the prayer
+      quietly&lt;/U&gt;. Most of the Orthodox Christians pray in front of the icons and
+      vigil lamps, standing with reverence and fear of God. Sometimes, in the case
+      when a person is sick or unable to stand, the prayers can be done in a sitting
+      or lying position. It is good to make the sign of the cross each time a prayer
+      is recited. That way, our focus is more on the words of the prayer. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;The practice of praying with the
+      prayer ropes is not connected just to a quiet and secluded place. We can do our
+      prayers in every place and occasion: on a bus or airplane, when walking, on busy
+      streets, waiting places, stadiums, etc. Many Christians lie down in bed with
+      their prayer rope, and then pray quietly until they fall asleep. In the morning
+      they start the day with a prayer using the prayer rope. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Apostle
+      Paul teaches us to &lt;B&gt;&lt;I&gt;pray without ceasing&lt;/I&gt;&lt;/B&gt;, and therefore, it is very
+      useful for us to devote some time in the morning and the evening to do our
+      prayers with the prayer ropes. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;&lt;U&gt;It is forbidden by our Holy Fathers
+      to let our imaginations go astray during the prayers&lt;/U&gt;. We must be constantly
+      focused on the words of the prayer. That is possible only through concentration
+      and practice, paying attention to the words, and not to the number of recited
+      prayers. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Sometimes, we tend to do our prayers
+      quickly without thinking of the content of the prayer. God hears and fulfills
+      only those prayers that are pronounced with calmness and peace. However, it is
+      very hard to calm our thoughts quickly, and therefore we have to recite our
+      prayer more frequently in order to pay attention to the prayer. The best way to
+      get used to a prayer is to recite it continually, whether we are calm or not. It
+      is like a drop by drop of water dripping over a rock causing a hole in it, in
+      the same way a continual prayer makes us closer to God, even though our thoughts
+      are wandering around. &lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT face="Lucida Sans"&gt;In the
+      situation when we are not using our prayer rope, we can hold it inside of our
+      pocket, or if it is a small one, around our wrist. It is not proper to play with
+      our prayer rope, if we are not praying. The only purpose of a prayer rope is to
+      use it when praying. &lt;B&gt;Prayer ropes are not a piece of jewelry, but a tool for
+      continual prayer.&lt;/B&gt; Even the monks and nuns in monasteries pray while making
+      prayer ropes. &lt;/FONT&gt;&lt;SPAN
+      style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-BOTTOM: 12pt" align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Therefore,
+      dear brothers and sisters, let us pray to our Lord Jesus Christ for the
+      salvation of our souls and the souls of our relatives, that He may grant, as in
+      this life, the grace of the Holy Spirit, that we may be worthy of His heavenly
+      Kingdom. The Lord is always with us, and He teaches us that the Kingdom of God
+      is in our hearts. That is why unceasing prayer is needed in our lives, for
+      through prayer we come closer to God and the recognition of His abundant love.
+      &lt;/FONT&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Lucida Sans"&gt; &lt;/SPAN&gt;&lt;/P&gt;
+      &lt;P align=justify&gt;&lt;FONT face="Lucida Sans"&gt;Indeed, it is very difficult to gain
+      any Christian virtues without the grace of God, and the grace is gained only
+      through sincere prayer. &lt;U&gt;Therefore, the prayer is the &lt;B&gt;Queen of all
+      Virtues&lt;/B&gt;, that ascends us to God, and connects us to other people&lt;/U&gt;.
+      &lt;/FONT&gt;&lt;/P&gt;
+    </value>
+  </data>
+  <data name="45_contactus_title" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="46_contactus_text" xml:space="preserve">
+    <value>
+      &lt;center&gt;St. Luke Serbian Orthodox Church&lt;br&gt;
+
+      10660 River Road &lt;br&gt;
+
+      Potomac, Maryland  20854&lt;br&gt;
+
+      Telephone (301) 299-2704  &lt;br&gt;
+
+      Fax (301) 576-5664&lt;br&gt;&lt;/center&gt;
+
+      &lt;br&gt;&lt;br&gt;
+
+      Father Aleksa Micich, Parish Priest&lt;br&gt;
+
+      email:  &lt;a href="mailto:FatherMicich@svluka.org"&gt;FatherMicich@svluka.org&lt;/a&gt;&lt;br&gt;
+
+
+      &lt;br&gt;
+      Mark Rasevic, Church Board President&lt;br&gt;
+
+      email:  &lt;a href="mailto:President@svluka.org"&gt;President@svluka.org&lt;/a&gt;&lt;/br&gt;
+
+
+      &lt;br&gt;
+      Webmaster&lt;br&gt;
+
+      email:  &lt;a href="mailto:Webmaster2006@svluka.org"&gt;Webmaster2006@svluka.org&lt;/a&gt;
+
+    </value>
+  </data>
+  <data name="47_newsletterpage_title" xml:space="preserve">
+    <value>Publications</value>
+  </data>
+  <data name="48_newsletterpage_text" xml:space="preserve">
+    <value>&lt;P&gt;You will need to
+      have Acrobat Reader to read the publications. If you don't have it, you can
+      download it for free by &lt;A href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank"&gt;
+      clicking here&lt;/A&gt;.&lt;/P&gt;</value>
+  </data>
+  <data name="49_photospage_title" xml:space="preserve">
+    <value>Photos and Videos</value>
+  </data>
+  <data name="50_photospage_text" xml:space="preserve">
+    <value>&lt;h4&gt;
+    2013&lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava.htm')"&gt;St Sava - compilation of pictures and video&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava2.htm')"&gt;St Sava - event and interviews&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2013/SvSava3.htm')"&gt;St Sava - Folklore everything&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.10200741251400229.2209520.1430433604&amp;type=1&amp;l=489127e5ff" target=_blank&gt;St Sava - pictures&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
+    2012&lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Easter.htm')"&gt;Easter&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/HolyFriday.htm')"&gt;Holy Friday&lt;/a&gt; &lt;/li&gt;
+	      &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.4216270291602.2182824.1430433604&amp;type=3&amp;l=f246926b73" target=_blank&gt;5th Annual Gala - 04/21/2012&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Folklor.htm')"&gt;Church Folklore Group&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/SvSava-Folklor.htm')"&gt;St Sava - Folklore&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2012/Bozic-Hor.htm')"&gt;Choir (Christmas)&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
+    2011&lt;ul&gt;
+        &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.2735897483207.2154704.1430433604&amp;type=1&amp;l=00c045b60e" target=_blank&gt;50th Anniversary Lunch&lt;/a&gt; &lt;/li&gt;
+        &lt;li&gt;&lt;a href="http://www.facebook.com/media/set/?set=a.2735559994770.2154702.1430433604&amp;type=1&amp;l=f45e5aaaa3" target=_blank&gt;50th Anniversary Dinner&lt;/a&gt; &lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.facebook.com/album.php?aid=2118930&amp;id=1430433604&amp;l=8e7ad5e31e" target=_blank&gt;Gala&lt;/a&gt; &lt;/li&gt;
+        &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2011/Bozic.htm')"&gt;Christmas&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
+    2010&lt;/h4&gt;
+          &lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2010/SvLuka.htm')"&gt;St Luke&lt;/a&gt; &lt;/li&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2010/Djurdjevdan.htm')"&gt;Djurdjevdan Picnic&lt;/a&gt; &lt;/li&gt;
+          &lt;/ul&gt;
+
+      &lt;h4&gt;2009&lt;/h4&gt;
+
+
+      &lt;ul&gt;
+      &lt;li&gt;  &lt;a href="2009/mars/default.htm"&gt;Sunday School field trip to Monastery&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2009/gala/default.htm"&gt;Gala&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2009/svsava/index.html"&gt;St Sava&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;h4&gt;2008&lt;/h4&gt;
+
+
+      &lt;ul&gt;
+      &lt;li&gt;  &lt;a href="2008/Gala/index.html"&gt;First Annual Gala&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+
+      &lt;h4&gt;2007&lt;/h4&gt;
+
+
+      &lt;ul&gt;
+      &lt;li&gt;  &lt;a href="2007/Christmas/index.html"&gt;Christmas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2007/Shadeland/index.html"&gt;Teen Christmas Retreat in Shadeland&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;h4&gt;2006&lt;/h4&gt;
+
+      &lt;ul&gt;
+      &lt;li&gt;  &lt;a href="2006/Students/index.html"&gt;Orthodox Christian Fellowship chapters&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2006/DiocesanDays/index.html"&gt;Diocesan Days&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2006/FrIrinej/index.html"&gt;Fr. Irinej consecration&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2006/Vaskrs/index.html"&gt;Easter&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="/SvLuka/files/vrbice.wmv"&gt;Vrbice&lt;/a&gt; (16 MB)&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2006/ClergyRetreat/index.html"&gt;Clergy Retreat&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  Theophany &lt;a href="2006/Bogojavljanje/index.html"&gt;Pictures&lt;/a&gt;; video: &lt;a href="/SvLuka/Files/Bogojavljenje 2006.wmv"&gt;low resolution (1.2 MB)&lt;/a&gt; or &lt;a href="/SvLuka/Files/Bogojavljenje 2006Hi.wmv"&gt;high resolution (7.8 MB)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2006/SvSava/index.html"&gt;St Sava&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;h4&gt;Older&lt;/h4&gt;
+      &lt;ul&gt;
+      &lt;li&gt;  &lt;a href="2006/Bozic/index.html"&gt;2005 Christmas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;  &lt;a href="2004/2004.aspx"&gt;2004 Photos&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;</value>
+  </data>
+  <data name="51_2002photos_title" xml:space="preserve">
+    <value>2002 Photos</value>
+  </data>
+  <data name="52_2002photos_text" xml:space="preserve">
+    <value>
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor="#111111" height="990" cellSpacing="8"
+      cellPadding="0" border="0" ID="Table1"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD height="94"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans" size="4"&gt;Photos
+      From Events in 2002&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;HR style="BORDER-RIGHT: 1px groove; BORDER-TOP: 1px groove; BORDER-LEFT: 1px groove; BORDER-BOTTOM: 1px groove"
+      width="70%" color="#000000"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left" height="94"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Fall 2002 &lt;/B&gt;
+      - Photos from several events/occasions from the Fall of 2002.&amp;nbsp;&amp;nbsp; (&lt;FONT size="2"&gt;&lt;B&gt;point
+      to photo for description, &lt;/B&gt;&lt;/FONT&gt;&lt;B&gt;&lt;FONT size="2"&gt;click to enlarge photo&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor="#9b461f" height="162" cellSpacing="0"
+      cellPadding="2" width="358" border="4" ID="Table2"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/frzobenica1.jpg"&gt;&lt;IMG height="75" alt="Father Zobenica addresses the parish during his visit" src="Fall2002/frzobenica1TN.GIF"
+      width="64" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/frzobenica2.jpg"&gt;&lt;IMG height="59" alt="Father Zobenica, Father Miroslav &amp;amp; parishioners" src="Fall2002/frzobenica2TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/frzobenica3.jpg"&gt;&lt;IMG height="73" alt="Fr. Aleksa, Fr. Zobenica, Fr. Miroslav &amp;amp; Dr. Hodjera" src="Fall2002/frzobenica3TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="34%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/newsletter1.jpg"&gt;&lt;IMG height="65" alt="Natalie Visnick &amp;amp; Milica Stamenich help with the parish newsletter"
+      src="Fall2002/newsletter1TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/newsletter2.jpg"&gt;&lt;IMG height="65" alt="Natalie Visnick, Milica Stamenich, Dejan Bujak, Danica Bogicevic &amp;amp; Mila Costich (l-r)"
+      src="Fall2002/newsletter2TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/newsletter3.jpg"&gt;&lt;IMG height="66" alt="More work on the parish newsletter" src="Fall2002/newsletter3TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="34%" height="50%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Fall2002/wedding.jpg"&gt;&lt;IMG height="62" alt="Wedding of Marko Jankovic &amp;amp; Jelena Vasiljevic October 13, 2002"
+      src="Fall2002/weddingTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="50%"&gt;&amp;nbsp;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Visit of Bishop
+      Mitrophan &lt;/B&gt;- September 14-15, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;Bishop
+      Mitrophan served Divine Liturgy and joined our parishioners for lunch during
+      his visit.&amp;nbsp;&amp;nbsp; &lt;/FONT&gt;
+      &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;(&lt;FONT size="2"&gt;&lt;B&gt;point
+      to photo for description, &lt;/B&gt;&lt;/FONT&gt;&lt;B&gt;&lt;FONT size="2"&gt;click to enlarge photo&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor="#9b461f" height="177" cellSpacing="0"
+      cellPadding="2" width="358" border="4" ID="Table3"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align="center" width="33%" height="89"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="Bishop%20Visit%20Sept2002/DivineLiturgy1.jpg"&gt;&lt;IMG height="75" alt="Bishop Mitrophan during Divine Liturgy" src="Bishop%20Visit%20Sept2002/DivineLiturgy1TN.GIF"
+      width="43" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="89"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Bishop%20Visit%20Sept2002/DivineLiturgy2.jpg"&gt;&lt;IMG height="75" alt="Fr. Aleksa, Bishop Mitrophan &amp;amp; Fr. Miroslav serve Holy Communion to Anastasia Micich (with Popadija Savka)"
+      src="Bishop%20Visit%20Sept2002/DivineLiturgy2TN.GIF" width="50" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="89"&gt;&lt;A href="Bishop%20Visit%20Sept2002/DivineLiturgy3.jpg"&gt;&lt;IMG height="72" alt="Bishop Mitrophan addresses the parish after Divine Liturgy" src="Bishop%20Visit%20Sept2002/DivineLiturgy3TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align="center" width="33%" height="79"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Bishop%20Visit%20Sept2002/Luncheon1.jpg"&gt;&lt;IMG height="49" alt="Fr. Miroslav, Fr. Aleksa, Bishop Mitrophan &amp;amp; Dusan Terzic"
+      src="Bishop%20Visit%20Sept2002/Luncheon1TN.GIF" width="75" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="79"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Bishop%20Visit%20Sept2002/Luncheon2.jpg"&gt;&lt;IMG height="70" alt="Fr. Aleksa &amp;amp; Bishop Mitrophan" src="Bishop%20Visit%20Sept2002/Luncheon2TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD align="center" width="33%" height="79"&gt;&lt;A href="Bishop%20Visit%20Sept2002/Luncheon3.jpg"&gt;&lt;IMG height="65" alt="Parishioners at lunch during the Bishop's visit" src="Bishop%20Visit%20Sept2002/Luncheon3TN.GIF"
+      width="100" border="0"&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;Serbian Sisters
+      Slava (Mala Gospojina)&lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;- Sunday,
+      September 22, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+      The Kolo of Serbian Sisters celebrated their Slava, Mala Gospojina, with a
+      luncheon at the church building.&amp;nbsp;&amp;nbsp; (&lt;B&gt;&lt;FONT size="2"&gt;click on photos to
+      enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor="#9b461f" height="250" cellSpacing="0"
+      cellPadding="2" width="358" border="4" ID="Table4"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS1.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS1TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Lunch preparations&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS2.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS2TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Lunch Preparations (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS3.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS3TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="34%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS4.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS4TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS5.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS5TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac (3)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS6.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS6TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac (4)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="33%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="KoloSlava/KS7.jpg"&gt;&lt;IMG height="65" src="KoloSlava/KS7TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Blessing of the Kolac (5)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="34%"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;Late Summer
+      Picnic&lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;- August 11, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;Some photos of
+      parishioners and guests who attended our picnic.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;FONT face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size="2"&gt;click
+      on photos to enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor="#111111" height="192" cellSpacing="0" cellPadding="2" width="268" border="1"
+      ID="Table5"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="LateSummerPicnic/sunday1.jpg"&gt;&lt;IMG height="65" src="LateSummerPicnic/sunday1TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align="center"&gt;&lt;A href="LateSummerPicnic/sunday2.jpg"&gt;&lt;IMG height="74" src="LateSummerPicnic/sunday2TN.GIF" width="55" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align="center"&gt;&lt;A href="LateSummerPicnic/sunday4.jpg"&gt;&lt;IMG height="66" src="LateSummerPicnic/sunday4TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;P align="center"&gt;&lt;A href="LateSummerPicnic/sunday3.jpg"&gt;&lt;IMG height="74" src="LateSummerPicnic/sunday3TN.GIF" width="40" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD&gt;
+      &lt;P align="center"&gt;&lt;A href="LateSummerPicnic/sunday5.jpg"&gt;&lt;IMG height="65" src="LateSummerPicnic/sunday5TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD&gt;&amp;nbsp;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;Mid-Summer
+      Picnic&lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt; &lt;/B&gt;- Sunday, July 21, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;&amp;nbsp;We
+      held a Mid-Summer Picnic at our property on River Road.&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size="2"&gt;click
+      on photos to enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor="#111111" height="250" cellSpacing="0" cellPadding="2" width="227" border="1"
+      ID="Table6"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" width="109" height="125"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="MidSummerPicnic/TicketSales.jpg"&gt;&lt;IMG height="70" src="MidSummerPicnic/TicketSalesTN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Ticket Sales&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" width="110" height="125"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="MidSummerPicnic/Bartenders.jpg"&gt;&lt;IMG height="73" src="MidSummerPicnic/BartendersTN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Bartenders&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" width="109" height="125"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="MidSummerPicnic/Chefs1.jpg"&gt;&lt;IMG height="106" src="MidSummerPicnic/Chefs1TN.jpg" width="74" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Chefs (1)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" width="110" height="125"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="MidSummerPicnic/Chefs2.jpg"&gt;&lt;IMG height="70" src="MidSummerPicnic/Chefs2TN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Chefs (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Vidovdan
+      Picnic &lt;/B&gt;- Sunday, June 30, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;We
+      held our annual Vidovdan Picnic at our property on River Road. We were pleased
+      to honor a guest speaker, Dusan Korac. Mr. Korac, who is a Doctoral Candidate
+      at the University of Maryland, shared information about Vidovdan and the
+      history of Kosovo.&amp;nbsp; (&lt;B&gt;&lt;FONT size="2"&gt;click on photos to enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor="#111111" height="245" cellSpacing="0" cellPadding="2" width="252" border="1"
+      ID="Table7"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" width="122" height="137"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="Vidovdan/FrAleksa&amp;amp;DKorac.jpg"&gt;&lt;IMG height="109" src="Vidovdan/FrAleksa&amp;amp;DKoracTN.jpg" width="74" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Fr. Aleksa &amp;amp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Mr. Korac&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" width="122" height="137"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="Vidovdan/VidovdanPresentation1.jpg"&gt;&lt;IMG height="70" src="Vidovdan/VidovdanPresentation1TN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Presentation (1)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" width="122" height="138"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="Vidovdan/VidovdanPresentation2.jpg"&gt;&lt;IMG height="70" src="Vidovdan/VidovdanPresentation2TN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Presentation (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" width="122" height="138"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&lt;A href="Vidovdan/VidovdanPresentation3.jpg"&gt;&lt;IMG height="70" src="Vidovdan/VidovdanPresentation3TN.jpg" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;Presentation (3)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="center" height="407"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;Visit
+      by His Eminence Metropolitan Amphilohije of Montenegro and the Coastlands &lt;/B&gt;
+      &lt;FONT size="4"&gt;- &lt;/FONT&gt;Tuesday, June 11, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;His
+      Eminence Metropolitan Amphilohije of Montenegro and the Coastlands was
+      accompanied by an entourage representing the Ministry of Religious Affairs of
+      the Federal Republic of Yugoslavia. A reception was held on June 11, 2002 on
+      our property on River Road. His Eminence conducted the Divine Liturgy on
+      Ascension Day at St. Nicholas Orthodox Cathedral on June 13, 2002. The photos
+      below are from this visit. &lt;/FONT&gt;
+      &lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;(&lt;B&gt;&lt;FONT size="2"&gt;click
+      on photos to enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;TABLE style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor="#111111" height="192" cellSpacing="0" cellPadding="2" width="268" border="0"
+      ID="Table8"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="86" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Metropolitan's%20June%20visit/dinner.jpg"&gt;&lt;IMG height="65" src="Metropolitan's%20June%20visit/dinnerTN.jpg" width="100" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Reception&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="87" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral1.jpg"&gt;&lt;IMG height="65" src="Metropolitan's%20June%20visit/cathedral1TN.jpg" width="100" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Cathedral
+      (1)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="87" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral2.jpg"&gt;&lt;IMG height="65" src="Metropolitan's%20June%20visit/cathedral2TN.jpg" width="100" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Cathedral
+      (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="86" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral3.jpg"&gt;&lt;IMG height="65" src="Metropolitan's%20June%20visit/cathedral3TN.jpg" width="100" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Cathedral
+      (3)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="87" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Metropolitan's%20June%20visit/cathedral4.jpg"&gt;&lt;IMG height="65" src="Metropolitan's%20June%20visit/cathedral4TN.jpg" width="100" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Cathedral
+      (4)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="87" height="96"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top" align="left" height="465"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;B&gt;&lt;FONT face="Lucida Sans"&gt;Djurdjevdan
+      Picnic - &lt;/FONT&gt;&lt;/B&gt;&lt;FONT face="Lucida Sans"&gt;Sunday, May 12, 2002&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="left"&gt;&lt;FONT face="Lucida Sans"&gt;&amp;nbsp;We
+      enjoyed a successful Djurdjevdan picnic at our property on River Road.&amp;nbsp; (&lt;B&gt;&lt;FONT size="2"&gt;click
+      on photos to enlarge&lt;/FONT&gt;&lt;/B&gt;)&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align="center"&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-RIGHT: #9b461f 4px solid; BORDER-TOP: #9b461f 4px solid; BORDER-LEFT: #9b461f 4px solid; BORDER-BOTTOM: #9b461f 4px solid; BORDER-COLLAPSE: collapse"
+      borderColor="#111111" height="319" cellSpacing="0" cellPadding="2" width="446" border="1"
+      ID="Table9"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/bakesale.jpg"&gt;&lt;IMG height="74" src="Djurdjevdan/BakesaleTN.gif" width="56" border="0"&gt;&lt;/A&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Bake
+      Sale&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Djurdjevdan/Bakesale2.jpg"&gt;&lt;IMG height="66" src="Djurdjevdan/Bakesale2TN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Bake Sale (2)&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Djurdjevdan/Jewelry.jpg"&gt;&lt;IMG height="108" src="Djurdjevdan/JewelryTN.GIF" width="74" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Jewelry&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/DRYGOODS.JPG"&gt;&lt;IMG height="74" src="Djurdjevdan/DrygoodsTN.GIF" width="56" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;FONT size="2"&gt;DryGoods&lt;/FONT&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Djurdjevdan/jagne.jpg"&gt;&lt;IMG height="74" src="Djurdjevdan/JagneTN.GIF" width="56" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Jagne&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/KoloSestare.jpg"&gt;&lt;IMG height="75" src="Djurdjevdan/KoloSestareTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Kolo&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/bartenders.jpg"&gt;&lt;IMG height="75" src="Djurdjevdan/BartendersTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;FONT size="2"&gt;Bartenders&lt;/FONT&gt;&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Djurdjevdan/TREE.JPG"&gt;&lt;IMG height="75" src="Djurdjevdan/TreeTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Guests&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/children.jpg"&gt;&lt;IMG height="75" src="Djurdjevdan/ChildrenTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Children&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="109" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;&lt;A href="Djurdjevdan/Sarenica.jpg"&gt;&lt;IMG height="80" src="Djurdjevdan/SarenicaTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Sarenica&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%"&gt;&lt;A href="Djurdjevdan/dancers.jpg"&gt;&lt;IMG height="75" src="Djurdjevdan/dancersTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%" align="center"&gt;Dancers&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;TD vAlign="bottom" align="center" width="110" height="115"&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;&lt;A href="Djurdjevdan/Singing.jpg"&gt;&lt;IMG height="66" src="Djurdjevdan/SingingTN.GIF" width="100" border="0"&gt;&lt;/A&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px"&gt;Singing&lt;/P&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;/CENTER&gt;
+      &lt;/DIV&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;DIV&gt;&lt;/DIV&gt;
+      &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+      &lt;CENTER&gt;&lt;/CENTER&gt;
+      &lt;DIV&gt;&lt;/DIV&gt;
+      &lt;DIV align="center"&gt;
+      &lt;CENTER&gt;&amp;nbsp;&lt;/CENTER&gt;
+      &lt;/DIV&gt;
+    </value>
+  </data>
+  <data name="53_2004photos_title" xml:space="preserve">
+    <value>2004 Photos</value>
+  </data>
+  <data name="54_2004photos_text" xml:space="preserve">
+    <value>
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;PARISH OF ST. APOSTLE AND
+      EVANGELIST LUKE ACQUIRES &lt;/B&gt;&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;&lt;B&gt;AND BLESSES NEW ALTAR
+      WARES&lt;/B&gt;&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;&lt;BR&gt;&lt;BR&gt;The Church-School
+      Congregation of the Holy Apostle and Evangelist Luke in Metropolitan Washington
+      DC, after much research and effort has purchased many new&lt;BR&gt;liturgical items in
+      the first step toward the establishment of the new chapel.  All of the items
+      were imported from Greece, and most were handcrafted. &lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;&lt;BR&gt;A new hand-carved altar
+      table, also imported from Greece, should arrive sometime next month.  Many
+      generous parishioners from all over this expansive parish have freely given of
+      their God-given resources to fund the renewing of our interior worship
+      space.&lt;BR&gt;On Sunday November 14, 2004, on the feast of St. Cosmas and Damian,
+      these new liturgical items items were blessed by Father Aleksa in front of the
+      attending parish community.  At present, as we await county approval and the
+      subsequent renovation of our parish center, we celebrate Sunday liturgies at a
+      local elementary school.  Our people have been very patient for over three years
+      as we have struggled to achieve consensus and county and neighborhood approval
+      of our plans.  We expect that in the spring all permitting will be completed and
+      that our humble complex of chapel, hall, kitchen and classrooms will be complete
+      next fall.&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;
+
+      &lt;center&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0
+      borderColorDark=#9b461f cellPadding=2 width=400 borderColorLight=#9b461f
+      border=4 ID="Table1"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/1NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/1NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/3NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/3NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/4NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/4NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/5NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="BlessingLiturgicalVessels/5NewLiturgicalVessels14Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;
+
+
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;B&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;SEVEN BAPTIZED IN NEWPORT NEWS,
+      VIRGINIA&lt;BR&gt; &lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;TT&gt;&lt;FONT face="Lucida Sans"&gt;On Saturday November 13, 2004,
+      Father Aleksa Micich traveled to Newport News, VA to baptize seven people in
+      that community.  The Serbian community in the Norfolk area (known as Hampton
+      Roads) is comprised of about forty families of which the church knows.  The
+      faithful there attend St. Constantine and Helen Greek Orthodox Church in Newport
+      News, under the spiritual pastorship of Fr. George Chiorios.  Father George
+      is&lt;BR&gt;always welcoming when Father Aleksa comes to visit and always makes
+      available his church for our use.  This was true this past Saturday when seven
+      of our faithful were baptized into the Orthodox Christian faith, including one
+      infant, three school-age children and three adults.  This community is made up
+      almost entirely of people who fled the former Yugoslavia within the last five to
+      ten years.  We are actively working to develop this into a new mission
+      parish.&lt;/FONT&gt;&lt;/TT&gt;&lt;/FONT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=justify&gt; &lt;/P&gt;
+
+      &lt;CENTER&gt;
+      &lt;TABLE style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0
+      borderColorDark=#9b461f cellPadding=2 width=400 borderColorLight=#9b461f
+      border=4 ID="Table2"&gt;
+      &lt;TBODY&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="BlessingLiturgicalVessels/2NewLiturgicalVessels14Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/2NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/1NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/1NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt;&lt;A
+      href="NNBaptisms/3NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/3NewportNewsBaptisms13Nov04TN.jpg" width=100
+      border=0&gt;&lt;/A&gt;&lt;/TD&gt;&lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/04NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/04NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="33%"&gt;&lt;A
+      href="NNBaptisms/5NewportNewsBaptisms13Nov04.jpg"&gt;&lt;IMG height=75
+      src="NNBaptisms/5NewportNewsBaptisms13Nov04TN.jpg" width=100 border=0&gt;&lt;/A&gt;&lt;/TD&gt;
+      &lt;TD align=middle width="34%"&gt; &lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/CENTER&gt;
+
+
+
+
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=center&gt;&lt;TT&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;B&gt;STANDING COMMITTEE ON YOUTH MINISTRY OF THE SERBIAN
+      ORTHODOX CHURCH IN THE UNITED STATES AND CANADA MEETS IN
+      CHICAGO&lt;/B&gt;&lt;BR&gt; &lt;/FONT&gt;&lt;/TT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;TT&gt;&lt;FONT
+      face="Lucida Sans"&gt;Father Aleksa, who is co-chair of this committee made up of
+      clergy and laity from all over the United States recently attended one of
+      several meetings at Holy Resurrection Cathedral in Chicago.  The task of the
+      committee is to reconstruct the way our church reaches out to youth and keeps
+      them actively involved in the life of the church. Some items that we are
+      actively working on include a regular page in The Path of Orthodoxy, the monthly
+      publication of the Serbian Orthodox Church, The St. Nicholai of Zica and Ohrid
+      Oratorical Festival to commence in 2006, and a national youth conference, also
+      to commence in 2006. &lt;/FONT&gt;&lt;/TT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt;&lt;TT&gt;&lt;FONT
+      face="Lucida Sans"&gt;&lt;BR&gt;All of these will then feed into the development of a
+      National Youth Organization. Other standing committees appointed by the
+      hierarchs of our church include those for Liturgical Music, Stewardship, Serbian
+      Culture and Heritage, Religious Education, and Communications and Publications. 
+      More information about the work of these groups may be found in the Path of
+      Orthodoxy.&lt;/FONT&gt;&lt;/TT&gt;&lt;/P&gt;
+      &lt;P style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=left&gt; &lt;/P&gt;
+      &lt;DIV align=center&gt;
+      &lt;CENTER&gt;
+    </value>
+  </data>
+  <data name="55_right_label" xml:space="preserve">
+    <value>Donated so far</value>
+  </data>
+  <data name="56_admin_log_in" xml:space="preserve">
+    <value>Admin Log-in</value>
+  </data>
+  <data name="57_admin_log_out" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="58_schedule_disclamer" xml:space="preserve">
+    <value>Please note that schedule is subject to change without notice.</value>
+  </data>
+  <data name="59_donations_page_title" xml:space="preserve">
+    <value>Donations</value>
+  </data>
+  <data name="60_donations_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;You can help your Church in many ways:&lt;/p&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="Prayer.aspx"&gt;By prayer&lt;/a&gt; &lt;/li&gt;
+      &lt;li&gt;&lt;a href="Time.aspx"&gt;By donating your time&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;By donating your money&lt;/a&gt;&lt;/li&gt;
+    </value>
+  </data>
+  <data name="61_prayer_page_title" xml:space="preserve">
+    <value>Helping by prayer</value>
+  </data>
+  <data name="62_prayer_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;You can pray for our sick, diseased, poor or members in other needs; for our church to grow bigger; for our spiritual leader to help us understand God’s word and will; for our board to be able to overcome all the obstacles and build church on our property; or of course anything else that you see fit.
+      &lt;/p&gt;
+    </value>
+  </data>
+  <data name="63_time_page_title" xml:space="preserve">
+    <value>Helping with your time</value>
+  </data>
+  <data name="64_time_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;As you can imagine, it is not easy to meet day to day church business. While we’re renting a hall for our Liturgies, all the items are transported every time to a hall and back to our property (mostly done by just one person). We mail over 600 letter in our mailings, so one can imagine it takes quite some time to prepare all of those and mail. Church property needs maintenance. Church events always are in need for extra volunteers for organizing and cleaning up. Kolo needs new members, especially younger ones. Web site needs to be updated on a regular basis. While new church construction is just about to begin, we begun some of the preparation work and need a lot of volunteers… The list can go on.&lt;/p&gt;
+
+      &lt;p&gt;We have prepared a &lt;a href="/SvLuka/Forms/pledgeEn.pdf" target="_blank"&gt;pledge form&lt;/a&gt; where you can select how you can donate your time for church. Please fill it out, return to the church and we will contact you.&lt;p&gt;
+    </value>
+  </data>
+  <data name="65_money_page_title" xml:space="preserve">
+    <value>Helping financially</value>
+  </data>
+  <data name="66_money_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;Our church would not be able to operate without financial donations as well. Our yearly budget is just under $200,000 which enables us to pay the mortgage, utilities and other bills. Any extra goes toward building fund.&lt;/p&gt;
+
+      &lt;p&gt;We have 4 funds you can donate your money to:
+      &lt;ol&gt;
+      &lt;li&gt;Mortgage fund – used to meet our current mortgage obligations&lt;/li&gt;
+      &lt;li&gt;Building fund – used to pay for building permits, and other construction costs and construction related costs&lt;/li&gt;
+      &lt;li&gt;Operating fund – priest salary, utilities, other bills, hall rental&lt;/li&gt;
+      &lt;li&gt;Altar fund – candles, priest supplies for Litrugies, Sunday school expenses…&lt;/li&gt;
+      &lt;/ol&gt;&lt;/p&gt;
+
+      &lt;p&gt;If you simply want to donate and don’t mind where your money will go, funds fill be allocated to operating fund. On the other hand if you would like your donation to go towards a specific goal, please indicate and it will be used strictly for that purpose (for example: building fund, flowers for sick, library or other specific items).&lt;/p&gt;
+
+      &lt;p&gt;To donate, you can simply write a check and drop it into tasa during liturgy, or mail it to our address.&lt;/p&gt;
+
+      &lt;p&gt;We strongly encourage you to set up automatic donations. That way you will never forget to donate, and if you’re not able to come to church, you will not need to bother with mailing a check.&lt;/p&gt;
+
+      &lt;p&gt;If you prefer to set up automatic donations as ACH withdrawals from your checking account please download &lt;a href="ach.pdf" target="_blank"&gt;ACH authorization form&lt;/a&gt;, fill it out and mail together with a voided check to our address.&lt;/p&gt;
+
+      &lt;p&gt;Table below can be helpful to you in determining the amount you would like to donate based on your income.&lt;/p&gt;
+
+      &lt;table border=1 width=350px&gt;
+      &lt;tr&gt;&lt;td&gt;&lt;b&gt;Salary&lt;/td&gt;&lt;td&gt;&lt;b&gt;10%&lt;/td&gt;&lt;td&gt;&lt;b&gt;5%&lt;/td&gt;&lt;td&gt;&lt;b&gt;3%&lt;/td&gt;&lt;td&gt;&lt;b&gt;2%&lt;/td&gt;&lt;td&gt;&lt;b&gt;1%&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;30,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;1,500&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;td&gt;600&lt;/td&gt;&lt;td&gt;300&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;40,000&lt;/td&gt;&lt;td&gt;4,000&lt;/td&gt;&lt;td&gt;2,000&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;td&gt;400&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;50,000&lt;/td&gt;&lt;td&gt;5,000&lt;/td&gt;&lt;td&gt;2,500&lt;/td&gt;&lt;td&gt;1,500&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;60,000&lt;/td&gt;&lt;td&gt;6,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;1,800&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;td&gt;600&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;70,000&lt;/td&gt;&lt;td&gt;7,000&lt;/td&gt;&lt;td&gt;3,500&lt;/td&gt;&lt;td&gt;2,100&lt;/td&gt;&lt;td&gt;1,400&lt;/td&gt;&lt;td&gt;700&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;80,000&lt;/td&gt;&lt;td&gt;8,000&lt;/td&gt;&lt;td&gt;4,000&lt;/td&gt;&lt;td&gt;2,400&lt;/td&gt;&lt;td&gt;1,600&lt;/td&gt;&lt;td&gt;800&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;90,000&lt;/td&gt;&lt;td&gt;9,000&lt;/td&gt;&lt;td&gt;4,500&lt;/td&gt;&lt;td&gt;2,700&lt;/td&gt;&lt;td&gt;1,800&lt;/td&gt;&lt;td&gt;900&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;100,000&lt;/td&gt;&lt;td&gt;10,000&lt;/td&gt;&lt;td&gt;5,000&lt;/td&gt;&lt;td&gt;3,000&lt;/td&gt;&lt;td&gt;2,000&lt;/td&gt;&lt;td&gt;1,000&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;110,000&lt;/td&gt;&lt;td&gt;11,000&lt;/td&gt;&lt;td&gt;5,500&lt;/td&gt;&lt;td&gt;3,300&lt;/td&gt;&lt;td&gt;2,200&lt;/td&gt;&lt;td&gt;1,100&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;120,000&lt;/td&gt;&lt;td&gt;12,000&lt;/td&gt;&lt;td&gt;6,000&lt;/td&gt;&lt;td&gt;3,600&lt;/td&gt;&lt;td&gt;2,400&lt;/td&gt;&lt;td&gt;1,200&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;130,000&lt;/td&gt;&lt;td&gt;13,000&lt;/td&gt;&lt;td&gt;6,500&lt;/td&gt;&lt;td&gt;3,900&lt;/td&gt;&lt;td&gt;2,600&lt;/td&gt;&lt;td&gt;1,300&lt;/td&gt;&lt;/tr&gt;
+      &lt;/table&gt;
+
+
+      &lt;p&gt;&lt;b&gt;We thank you so much for your unselfishness in helping our Church!&lt;/b&gt;&lt;/p&gt;
+
+    </value>
+  </data>
+  <data name="67_construction_diary" xml:space="preserve">
+    <value>Construction Diary</value>
+  </data>
+  <data name="68_forms" xml:space="preserve">
+    <value>Forms</value>
+  </data>
+  <data name="69_yellow_pages" xml:space="preserve">
+    <value>DC Yellow Pages</value>
+  </data>
+  <data name="70_forms_title" xml:space="preserve">
+    <value>Forms for Download</value>
+  </data>
+  <data name="71_forms_page" xml:space="preserve">
+    <value>
+      These are the forms available for download:
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/pledgeEn.pdf" target="_blank"&gt;Pledge Form&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/GivingForm_SLSOChurch.pdf" target="_blank"&gt;Credit Card / Bank Account donation form&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/SvLuka/Forms/sunday school.pdf" target="_blank"&gt;Sunday School Form&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;br&gt;&lt;br&gt;
+    </value>
+  </data>
+  <data name="72_construction_title" xml:space="preserve">
+    <value>Construction Diary</value>
+  </data>
+  <data name="73_construction_page" xml:space="preserve">
+    <value>&lt;h3&gt;Coming soon...</value>
+  </data>
+  <data name="74_yellowpages_title" xml:space="preserve">
+    <value>Yellow Pages</value>
+  </data>
+  <data name="75_yellowpages_page" xml:space="preserve">
+    <value>
+      &lt;p&gt;If you'd like to place your business add here please &lt;a href="mailto:yellowpages@svluka.org"&gt;
+      email us&lt;/a&gt;.&lt;/p&gt;
+      &lt;TABLE id="Table1" cellSpacing="1" cellPadding="1" width="90%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD vAlign="top"&gt;
+      &lt;TABLE id="Table3" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Car Repair&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Jovan&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table4" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;&lt;STRONG&gt;Photography&lt;/STRONG&gt;&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Nenad Mladenovic&lt;BR&gt;
+      Cell: 703 505 5280&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table5" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Translations&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Ljiljana&amp;nbsp; (English/Serbian translations and classes)&lt;BR&gt;
+      Phone: 301-801-0483
+      &lt;BR&gt;
+      Email: &lt;A href="mailto:ns.magic@hotmail.com"&gt;ns.magic@hotmail.com&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table6" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Immigration&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Marc Schifanelli, attorney at law
+      &lt;BR&gt;
+      Phone: 410-263-0028&lt;A href="/files/DraganSimic.doc"&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table7" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Satellite Dish&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Dusan Babic&lt;BR&gt;
+      Phone: 703-566-0045
+      &lt;BR&gt;
+      Email: &lt;A href="mailto:dulebabic@hotmail.com"&gt;dulebabic@hotmail.com&lt;/A&gt;&lt;A href="/files/DraganSimic.doc"&gt;&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;/TD&gt;
+      &lt;TD width="20"&gt;&lt;/TD&gt;
+      &lt;TD vAlign="top"&gt;
+      &lt;TABLE id="Table9" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Construction&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Milan Veljkovic - Handyman&lt;BR&gt;
+      Phone: (301) 661-2318
+      &lt;LI&gt;
+      Jodi Longo - General Contractor in MD&lt;BR&gt;
+      Phone: 240.374.2525&lt;BR&gt;
+      Email: &lt;A href="mailto:jlongo@RenovationStudio.biz"&gt;jlongo@RenovationStudio.biz&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.RenovationStudio.biz"&gt;www.RenovationStudio.biz&lt;/A&gt;
+      &lt;/LI&gt;
+      &lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table2" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Mortgages&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Dragan Simic - Fidelity &amp;amp; Trust Mortgage, Inc.
+      &lt;BR&gt;
+      Office:703.359.4400 x 106&lt;BR&gt;
+      Cell : 571.277.0036&lt;BR&gt;
+      Email: &lt;A href="mailto:dsimic@fidelityandtrust.com"&gt;dsimic@fidelityandtrust.com&lt;/A&gt;
+      &lt;BR&gt;
+      &lt;A href="/files/DraganSimic.doc"&gt;Flyer link&lt;/A&gt;&lt;/LI&gt;&lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;TABLE id="Table8" cellSpacing="1" cellPadding="1" width="100%" border="0"&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;STRONG&gt;Real Estate Agents&lt;/STRONG&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;
+      &lt;UL&gt;
+      &lt;LI&gt;
+      Zlaja Novacic (MD) Prudential Carruthers Realtors&lt;BR&gt;
+      Phone: 443/570-5680 or&amp;nbsp;443/668-7007&lt;BR&gt;
+      Email: &lt;A href="mailto:zlaks@yahoo.com"&gt;zlaks@yahoo.com&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.zlaya.novacic.pcragent.com"&gt;www.zlaya.novacic.pcragent.com&lt;/A&gt;
+      &lt;LI&gt;
+      Dejan Bujak (MD) Jobin Realty&lt;BR&gt;
+      Phone: 301.675.1682&lt;BR&gt;
+      Email: &lt;A href="mailto:dbujak@REStudio.biz"&gt;dbujak@REStudio.biz&lt;/A&gt;&lt;BR&gt;
+      Web: &lt;A href="http://www.REStudio.biz"&gt;www.REStudio.biz&lt;/A&gt;
+      &lt;/LI&gt;
+      &lt;/UL&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD height="10"&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;TR&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;TD&gt;&lt;/TD&gt;
+      &lt;/TR&gt;
+      &lt;/TABLE&gt;
+      &lt;P&gt;&amp;nbsp;&lt;/P&gt;
+      &lt;P&gt;&amp;nbsp;&lt;/P&gt;
+    </value>
+  </data>
+  <data name="76_uptodate" xml:space="preserve">
+    <value>Up-to-date</value>
+  </data>
+  <data name="77_letusknow_title" xml:space="preserve">
+    <value>Let Us Know...</value>
+  </data>
+  <data name="78_letusknow_page" xml:space="preserve">
+    <value>
+      &lt;p&gt;Dear parishioners,
+
+      &lt;p&gt;Our main goal for the newsletter is to reflect what is happening in our parish!
+
+      &lt;p&gt;The best way we can learn about something is by you letting us know.
+
+      &lt;p&gt;If you, or somebody you know has had:
+      &lt;ul&gt;
+      &lt;li&gt;a wedding&lt;/li&gt;
+      &lt;li&gt;baptism&lt;/li&gt;
+      &lt;li&gt;graduation&lt;/li&gt;
+      &lt;li&gt;baby&lt;/li&gt;
+      &lt;li&gt;anniversary&lt;/li&gt;
+      &lt;li&gt;death&lt;/li&gt;
+      &lt;li&gt;or anything else&lt;/li&gt;
+      &lt;/ul&gt;
+
+      Please write us to &lt;a href="mailto:newsletter@svluka.org"&gt;newsletter@svluka.org&lt;/a&gt;. Also, please include digital pictures in your e-mail and text you’d like to appear.
+
+      &lt;p&gt;Thank you very much for helping us stay in touch!!!
+    </value>
+  </data>
+  <data name="79_links" xml:space="preserve">
+    <value>Links</value>
+  </data>
+  <data name="80_links_title" xml:space="preserve">
+    <value>Page with Links</value>
+  </data>
+  <data name="81_links_page" xml:space="preserve">
+    <value>If you would like to have your church link on this page send e-mail to webmaster (get e-mail from contact us page)</value>
+  </data>
+  <data name="82_mailinglist_title" xml:space="preserve">
+    <value>St Luke's Mailing List</value>
+  </data>
+  <data name="83_mailinglist_page" xml:space="preserve">
+    <value>To subscribe to our mailing list simply put your email address and click subscribe. In addition you can provide us with your name and address if you'd like to receive regular mailings from our Church.</value>
+  </data>
+  <data name="84_mailinglist_email" xml:space="preserve">
+    <value>E-mail [mandatory]:</value>
+  </data>
+  <data name="85_mailinglist_email_error" xml:space="preserve">
+    <value>Missing or not valid e-mail</value>
+  </data>
+  <data name="86_mailinglist_Fname" xml:space="preserve">
+    <value>First Name:</value>
+  </data>
+  <data name="87_mailinglist_Lname" xml:space="preserve">
+    <value>Last Name:</value>
+  </data>
+  <data name="88_mailinglist_Address" xml:space="preserve">
+    <value>Address:</value>
+  </data>
+  <data name="89_mailinglist_CityEtc" xml:space="preserve">
+    <value>City, State and ZIP:</value>
+  </data>
+  <data name="90_mailinglist_Submit" xml:space="preserve">
+    <value>Subscribe</value>
+  </data>
+  <data name="91_schedules_page_page" xml:space="preserve">
+    <value>Please click on an event on the calendar to get more information.</value>
+  </data>
+  <data name="91.5_schedules_page_fast" xml:space="preserve">
+    <value>&lt;p&gt;Fast Days are shown on the calendar &lt;FONT style="BACKGROUND-COLOR: #C4A883" color="white"&gt;
+      &amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;highlighted&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;&lt;/p&gt;
+      &lt;!--&lt;p&gt;On fast days the faitful eat no meat, fish, eggs, dairy products, wine
+      (including alcholic beverages in general), or oil - this is indicated with &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;
+      &amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Water&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;.
+      &lt;/p&gt;
+      &lt;p&gt;On days indicated with &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;&amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Oil&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;
+      the fast is relaxed to allow the use of wine and oil.&lt;/p&gt;
+      &lt;p&gt;On days indicated with &lt;FONT style="BACKGROUND-COLOR: #888858" color="white"&gt;&amp;nbsp;&amp;nbsp;&lt;FONT size="2"&gt;Fish&lt;/FONT&gt;&amp;nbsp;&amp;nbsp;&lt;/FONT&gt;,
+      in addition to wine and oil, the use of fish is permited.&lt;/p&gt;
+      &lt;p&gt;In case of doubt, the guidance of one's confessor or pastor should be sought.&lt;/p&gt;--&gt;</value>
+  </data>
+  <data name="92_folklore" xml:space="preserve">
+    <value>Folklore Ensemble</value>
+  </data>
+  <data name="93_folklorehome" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="94_folklorepage_title" xml:space="preserve">
+    <value>Dance Group</value>
+  </data>
+  <data name="95_folklorepage_text" xml:space="preserve">
+    <value>
+      &lt;p&gt;
+      Dear Parishioners (Parents/Guardians and/or Young Adults),
+      &lt;p&gt;
+      We would like to take this opportunity to introduce you to the newly formed and
+      official St. Luke Serbian Orthodox Church Folklore Ensemble. We value your
+      trust in us and the opportunity you afford us to help your child/young adult
+      learn more about the Serbian culture and traditional folklore dancing.
+      &lt;p&gt;
+      With the blessing of our Parish Priest and Bishop, coordinating this department
+      is the former "Jelek" Folklore Group choreographer and dance instructor, Mrs.
+      Drina Rajic. All children/young adults are welcome, but please be sure that
+      your child/young adult would be interested in the program before sending in
+      your registration form.
+      &lt;p&gt;
+      We are getting ready for the beginning of the school year and would greatly
+      appreciate if you could please send in your completed registration &lt;A href="Registration2009.pdf" target=_blank&gt;
+      form(s)&lt;/A&gt;
+      by Sunday, September 20th to guarantee your child’s/young adult’s place in
+      class.
+      &lt;p&gt;
+      Classes will take place every other Sunday after Divine Liturgy and Sunday
+      School, beginning Sunday, September 27, ongoing throughout the entire school
+      year. This will ensure that children/young adults get proper instruction and
+      can master basic steps and traditional dances.
+      &lt;p&gt;For more information about St. Luke Serbian Orthodox Church Folklore Ensemble,
+      please contact Mrs. Drina Rajic at 202-489-4557 or e-mail her at &lt;A href="mailto:drajic@tsmglobe.com"&gt;
+      drajic@tsmglobe.com&lt;/A&gt;
+      .
+      &lt;p&gt;You may give or email your completed registration &lt;A href="Registration2009.pdf" target=_blank&gt;form(s)&lt;/A&gt;
+      to: Drina (&lt;A href="mailto:drajic@tsmglobe.com"&gt;drajic@tsmglobe.com&lt;/A&gt;) or
+      Father Aleksa (&lt;A href="mailto:fathermicich@yahoo.com"&gt;fathermicich@yahoo.com&lt;/A&gt;
+      ).
+      &lt;p&gt;You may also mail it to:&lt;br&gt;
+      &lt;STRONG&gt;St. Luke Serbian Orthodox Church&lt;br&gt;
+      10660 River Rd.&lt;br&gt;
+      Potomac, MD 20854&lt;br&gt;
+      Attn: Folklore Ensemble&lt;br&gt;
+      &lt;/STRONG&gt;
+      &lt;/p&gt;
+    </value>
+  </data>
+  <data name="97_folklore_calendar" xml:space="preserve">
+    <value>Folklore Calendar</value>
+  </data>
+  <data name="98_folklorecalendarpage_title" xml:space="preserve">
+    <value>Folklore Calendar</value>
+  </data>
+  <data name="99_folkorecalendarpage_text" xml:space="preserve">
+    <value>Embeded in the page</value>
+  </data>
+  <data name="91.7_schedules_calendars" xml:space="preserve">
+    <value>&lt;p&gt;As you probably noticed, we are using google calendars for our church website. All of our calendars are  public, which means you can have them linked to your &lt;b&gt;cell phone&lt;/b&gt;.&lt;p&gt;Please &lt;a href="http://support.google.com/calendar/bin/topic.py?hl=en&amp;topic=13950&amp;p=syncmobile"  target="_blank"&gt;click here&lt;/a&gt; to get detailed instructions how to do that.&lt;p&gt;After you read above instructions, you will need information below:&lt;style type="text/css"&gt;#dejan td, #dejan th { border-bottom:1px dotted black;padding:5px; }#dejan {border:1px solid black;}&lt;/style&gt;&lt;table id="dejan"&gt;&lt;tr&gt;&lt;th&gt;Calendar&lt;/th&gt;&lt;th&gt;Description&lt;/th&gt;&lt;th&gt;Calendar ID&lt;/th&gt;&lt;th&gt;HTML&lt;/th&gt;&lt;th&gt;ICAL&lt;/th&gt;&lt;th&gt;XML&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Sv Luka&lt;/td&gt;&lt;td valign=top&gt;You can find schedule of services, events, meetings, choir practices and similar.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="is16q4gom1ke09s9fqfchmffcg@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'is16q4gom1ke09s9fqfchmffcg@group.calendar.google.com'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic.ics'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/is16q4gom1ke09s9fqfchmffcg%40group.calendar.google.com/public/basic'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Serbian Orthodox Calendar&lt;/td&gt;&lt;td valign=top&gt;"Red" and "black" days from Serbian Orthodox Calendar and descriptions. In English.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="lqdpci7b1t2rkoact8ar44jigs@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'lqdpci7b1t2rkoact8ar44jigs@group.calendar.google.com'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic.ics'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/lqdpci7b1t2rkoact8ar44jigs%40group.calendar.google.com/public/basic'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Serbian Orthodox Calendar&lt;/td&gt;&lt;td valign=top&gt;Same as above, but in Serbian.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="l7isj43cj3k45foom4pl614fdc@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'l7isj43cj3k45foom4pl614fdc@group.calendar.google.com'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic.ics'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/l7isj43cj3k45foom4pl614fdc%40group.calendar.google.com/public/basic'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Orthodox Fast Days&lt;/td&gt;&lt;td valign=top&gt;Fasting days.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="6lne9t4ljhv8srj9s7hnd55oqg@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', '6lne9t4ljhv8srj9s7hnd55oqg@group.calendar.google.com'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com&amp;ctz=America/New_York "&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com&amp;ctz=America/New_York '); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic.ics'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/6lne9t4ljhv8srj9s7hnd55oqg%40group.calendar.google.com/public/basic'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td valign=top&gt;Folklore&lt;/td&gt;&lt;td valign=top&gt;Schedule of practices and performances of St Luke's Folklore group.&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="aea5db1h2ssolond3llcnpul7g@group.calendar.google.com"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'aea5db1h2ssolond3llcnpul7g@group.calendar.google.com'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/embed?src=aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com&amp;ctz=America/New_York"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/embed?src=aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com&amp;ctz=America/New_York'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/ical/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic.ics"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/ical/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic.ics'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;td valign=top&gt;&lt;center&gt;&lt;input type="text" value="https://www.google.com/calendar/feeds/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic"&gt;&lt;br&gt;&lt;a href="#" onclick="window.prompt('Copy to clipboard: Ctrl+C, Enter', 'https://www.google.com/calendar/feeds/aea5db1h2ssolond3llcnpul7g%40group.calendar.google.com/public/basic'); return false;"&gt;copy text&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</value>
+  </data>
+</root>

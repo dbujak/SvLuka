@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="feb 2005" total="6692">
+<item str="Microsoft Internet Explorer 6.0" cnt="2851" />
+<item str="Yahoo! Slurp" cnt="1151" />
+<item str="msnbot 1.0" cnt="727" />
+<item str="NextGenSearchBot 1" cnt="336" />
+<item str="Googlebot 2.1" cnt="258" />
+<item str="LinkWalker" cnt="251" />
+<item str="Ask Jeeves Teoma" cnt="198" />
+<item str="Microsoft Internet Explorer 5.5" cnt="151" />
+<item str="Firefox 1.0" cnt="103" />
+<item str="appie 1.1" cnt="103" />
+<item str="Microsoft Internet Explorer 5.0" cnt="72" />
+<item str="ia_archiver" cnt="65" />
+<item str="TurnitinBot 2.0" cnt="51" />
+<item str="grub-client-2.3" cnt="33" />
+<item str="Netscape Navigator 4.0" cnt="32" />
+<item str="AppleWebKit 125.5" cnt="20" />
+<item str="Netscape 7.1" cnt="18" />
+<item str="Microsoft Internet Explorer 5.2" cnt="18" />
+<item str="Gecko 20040910" cnt="15" />
+<item str="Netscape 7.2" cnt="15" />
+<item str="Firefox 0.9" cnt="15" />
+<item str="pipeLiner 0.7" cnt="15" />
+<item str="Konqueror 3.0" cnt="13" />
+<item str="Netscape 7.0" cnt="11" />
+<item str="Googlebot-Image 1.0" cnt="10" />
+</month>
+<month val="mar 2005" total="7929">
+<item str="Microsoft Internet Explorer 6.0" cnt="3219" />
+<item str="Yahoo! Slurp" cnt="1421" />
+<item str="msnbot 1.0" cnt="1084" />
+<item str="AtlocalBot 1.1" cnt="347" />
+<item str="http: /nika.name" cnt="347" />
+<item str="Googlebot 2.1" cnt="257" />
+<item str="LinkWalker" cnt="251" />
+<item str="Firefox 1.0" cnt="142" />
+<item str="Microsoft Internet Explorer 5.0" cnt="135" />
+<item str="AppleWebKit 125.5" cnt="74" />
+<item str="Microsoft Internet Explorer 5.5" cnt="72" />
+<item str="appie 1.1" cnt="71" />
+<item str="Netscape 7.2" cnt="67" />
+<item str="grub-client-2.3" cnt="44" />
+<item str="Gigabot 2.0" cnt="32" />
+<item str="Microsoft Internet Explorer 4.0" cnt="27" />
+<item str="AppleWebKit 85.8" cnt="27" />
+<item str="Netscape 7.1" cnt="26" />
+<item str="Konqueror 3.0" cnt="22" />
+<item str="Konqueror 3.1" cnt="20" />
+<item str="Netscape Navigator 4.0" cnt="17" />
+<item str="MJ12bot v0.9.0 " cnt="14" />
+<item str="BecomeBot 1.8" cnt="13" />
+<item str="Ask Jeeves Teoma" cnt="13" />
+<item str="Firefox 0.1" cnt="11" />
+</month>
+<month val="apr 2005" total="8043">
+<item str="Microsoft Internet Explorer 6.0" cnt="3172" />
+<item str="Yahoo! Slurp" cnt="1425" />
+<item str="msnbot 1.0" cnt="1380" />
+<item str="Netscape Navigator 4.0" cnt="378" />
+<item str="Firefox 1.0" cnt="356" />
+<item str="LinkWalker" cnt="251" />
+<item str="Googlebot 2.1" cnt="213" />
+<item str="Ask Jeeves Teoma" cnt="163" />
+<item str="Firefox 0.1" cnt="104" />
+<item str="Microsoft Internet Explorer 5.5" cnt="83" />
+<item str="AppleWebKit 125.5" cnt="66" />
+<item str="Microsoft Internet Explorer 5.0" cnt="55" />
+<item str="Firefox 0.9" cnt="53" />
+<item str="Gecko 20040113" cnt="37" />
+<item str="ia_archiver" cnt="29" />
+<item str="Konqueror 3.0" cnt="24" />
+<item str="Gigabot 2.0" cnt="20" />
+<item str="Netscape 7.0" cnt="19" />
+<item str="grub-client-2.3" cnt="17" />
+<item str="AppleWebKit 312.1" cnt="15" />
+<item str="AppleWebKit 85.8" cnt="12" />
+<item str="IRLbot 1.0" cnt="10" />
+<item str="Konqueror 3.1" cnt="10" />
+<item str="Microsoft Internet Explorer 4.0" cnt="8" />
+<item str="CS 2000 7.0 7.0" cnt="8" />
+</month>
+<month val="may 2005" total="5367">
+<item str="Microsoft Internet Explorer 6.0" cnt="2389" />
+<item str="Yahoo! Slurp" cnt="840" />
+<item str="msnbot 1.0" cnt="831" />
+<item str="Firefox 1.0" cnt="359" />
+<item str="Googlebot 2.1" cnt="276" />
+<item str="ConveraCrawler 0.7" cnt="168" />
+<item str="Microsoft Internet Explorer 5.5" cnt="58" />
+<item str="Microsoft Internet Explorer 5.0" cnt="49" />
+<item str="Netscape Navigator 4.0" cnt="38" />
+<item str="Netscape 7.1" cnt="27" />
+<item str="Firefox 0.1" cnt="23" />
+<item str="Konqueror 3.0" cnt="19" />
+<item str="aipbot 1.0" cnt="19" />
+<item str="AppleWebKit 412" cnt="18" />
+<item str="Konqueror 3.1" cnt="16" />
+<item str="BecomeBot 1.8" cnt="15" />
+<item str="Fedora 1.0" cnt="15" />
+<item str="webcollage 1.1" cnt="14" />
+<item str="Ask Jeeves Teoma" cnt="12" />
+<item str="pipeLiner 0.1" cnt="12" />
+<item str="AppleWebKit 125.5" cnt="10" />
+<item str="Yahoo-MMCrawler 3." cnt="10" />
+<item str="Netscape 7.2" cnt="10" />
+<item str="Netscape Navigator 4.7" cnt="9" />
+<item str="AppleWebKit 312.1" cnt="9" />
+</month>
+<month val="jun 2005" total="6036">
+<item str="Microsoft Internet Explorer 6.0" cnt="2256" />
+<item str="msnbot 1.0" cnt="906" />
+<item str="Yahoo! Slurp" cnt="526" />
+<item str="Googlebot 2.1" cnt="507" />
+<item str="NextGenSearchBot 1" cnt="365" />
+<item str="Firefox 1.0" cnt="269" />
+<item str="Ask Jeeves Teoma" cnt="237" />
+<item str="TurnitinBot 2.0" cnt="201" />
+<item str="ConveraCrawler 0.8" cnt="119" />
+<item str="Microsoft Internet Explorer 5.0" cnt="72" />
+<item str="Microsoft Internet Explorer 5.5" cnt="65" />
+<item str="WebTrends 3.0" cnt="58" />
+<item str="OmniExplorer_Bot 1.0" cnt="54" />
+<item str="AppleWebKit 125.5" cnt="36" />
+<item str="Netscape 7.1" cnt="33" />
+<item str="Gigabot 2.0" cnt="31" />
+<item str="AppleWebKit 312.1" cnt="26" />
+<item str="Yahoo-MMCrawler 3." cnt="25" />
+<item str="aipbot 1.0" cnt="16" />
+<item str="Konqueror 3.1" cnt="16" />
+<item str="Netscape Navigator 4.0" cnt="16" />
+<item str="Konqueror 3.0" cnt="15" />
+<item str="Microsoft Internet Explorer 5.2" cnt="13" />
+<item str="Gecko" cnt="12" />
+<item str="Netscape Navigator 5.0" cnt="12" />
+</month>
+<month val="jul 2005" total="5929">
+<item str="Microsoft Internet Explorer 6.0" cnt="1666" />
+<item str="msnbot 1.0" cnt="1078" />
+<item str="Yahoo! Slurp" cnt="955" />
+<item str="Googlebot 2.1" cnt="376" />
+<item str="DataparkSearch 4.3" cnt="292" />
+<item str="psbot 0.1" cnt="276" />
+<item str="LinkWalker" cnt="251" />
+<item str="Firefox 1.0" cnt="225" />
+<item str="TurnitinBot 2.0" cnt="172" />
+<item str="ConveraCrawler 0.9" cnt="93" />
+<item str="Ask Jeeves Teoma" cnt="81" />
+<item str="Microsoft Internet Explorer 5.5" cnt="51" />
+<item str="OmniExplorer_Bot 1.0" cnt="46" />
+<item str="Indy Library" cnt="36" />
+<item str="Microsoft Internet Explorer 5.2" cnt="30" />
+<item str="AppleWebKit 412" cnt="28" />
+<item str="Konqueror 3.0" cnt="25" />
+<item str="Microsoft Internet Explorer 5.0" cnt="20" />
+<item str="Konqueror 3.1" cnt="20" />
+<item str="Netscape Navigator 4.0" cnt="18" />
+<item str="Miva " cnt="17" />
+<item str="webcollage 1.1" cnt="11" />
+<item str="Microsoft Internet Explorer 5.1" cnt="11" />
+<item str="AppleWebKit 312.1" cnt="10" />
+<item str="Netscape 7.0" cnt="8" />
+</month>
+<month val="aug 2005" total="6573">
+<item str="Microsoft Internet Explorer 6.0" cnt="2003" />
+<item str="msnbot 1.0" cnt="1445" />
+<item str="Yahoo! Slurp" cnt="883" />
+<item str="FAST Enterprise Crawler 6 used by Verizon Superpages Powered By FAST " cnt="460" />
+<item str="Googlebot 2.1" cnt="325" />
+<item str="ConveraCrawler 0.9" cnt="308" />
+<item str="Firefox 1.0" cnt="243" />
+<item str="psbot 0.1" cnt="100" />
+<item str="Microsoft Internet Explorer 5.0" cnt="98" />
+<item str="Netscape Navigator 4.0" cnt="75" />
+<item str="Microsoft Internet Explorer 5.5" cnt="60" />
+<item str="Konqueror 3.1" cnt="53" />
+<item str="TurnitinBot 2.0" cnt="45" />
+<item str="Konqueror 3.0" cnt="45" />
+<item str="Netscape 7.0" cnt="31" />
+<item str="Ask Jeeves Teoma" cnt="25" />
+<item str="AppleWebKit 312.1" cnt="18" />
+<item str="Gaisbot 3.0" cnt="15" />
+<item str="AppleWebKit 412.6" cnt="11" />
+<item str="Microsoft Internet Explorer 5.1" cnt="9" />
+<item str="BecomeBot 2.3" cnt="9" />
+<item str="Firefox 0.9" cnt="8" />
+<item str="Googlebot-Image 1.0" cnt="7" />
+<item str="Netscape 7.2" cnt="6" />
+<item str="StackRambler 2.0" cnt="6" />
+</month>
+<month val="sep 2005" total="6929">
+<item str="Microsoft Internet Explorer 6.0" cnt="1807" />
+<item str="msnbot 1.0" cnt="925" />
+<item str="Yahoo! Slurp" cnt="851" />
+<item str="Googlebot 2.1" cnt="509" />
+<item str="LocalcomBot 1.2" cnt="410" />
+<item str="NextGenSearchBot 1" cnt="397" />
+<item str="ConveraCrawler 0.9" cnt="390" />
+<item str="FAST MetaWeb Crawler " cnt="389" />
+<item str="Firefox 1.0" cnt="171" />
+<item str="Gigabot 2.0" cnt="154" />
+<item str="Netscape Navigator 3.0" cnt="127" />
+<item str="InfociousBot " cnt="107" />
+<item str="Microsoft Internet Explorer 5.0" cnt="103" />
+<item str="ia_archiver" cnt="65" />
+<item str="http: /www.almaden.ibm.com/cs/crawler   [bc7]" cnt="50" />
+<item str="Konqueror 3.1" cnt="48" />
+<item str="Ask Jeeves Teoma" cnt="37" />
+<item str="psbot 0.1" cnt="37" />
+<item str="Konqueror 3.0" cnt="37" />
+<item str="AppleWebKit 312.1" cnt="35" />
+<item str="boitho.com-dc 0.8" cnt="22" />
+<item str="Microsoft Internet Explorer 5.5" cnt="19" />
+<item str="AppleWebKit 412.7" cnt="16" />
+<item str="Gecko 20050217" cnt="15" />
+<item str="Netscape Navigator 4.0" cnt="13" />
+</month>
+<month val="oct 2005" total="8051">
+<item str="Microsoft Internet Explorer 6.0" cnt="2486" />
+<item str="msnbot 1.0" cnt="1416" />
+<item str="Yahoo! Slurp" cnt="1205" />
+<item str="Googlebot 2.1" cnt="913" />
+<item str="e-SocietyRobot" cnt="421" />
+<item str="Ask Jeeves Teoma" cnt="303" />
+<item str="LinkWalker" cnt="251" />
+<item str="Firefox 1.0" cnt="213" />
+<item str="psbot 0.1" cnt="134" />
+<item str="TurnitinBot 2.0" cnt="65" />
+<item str="Konqueror 3.0" cnt="61" />
+<item str="Konqueror 3.1" cnt="55" />
+<item str="Gigabot 2.0" cnt="53" />
+<item str="Netscape Navigator 4.0" cnt="50" />
+<item str="Microsoft Internet Explorer 5.0" cnt="49" />
+<item str="AppleWebKit 85.8" cnt="46" />
+<item str="AppleWebKit 412.7" cnt="43" />
+<item str="Microsoft Internet Explorer 5.5" cnt="20" />
+<item str="Lycos_Spider_" cnt="18" />
+<item str="AppleWebKit 312.1" cnt="17" />
+<item str="aipbot 1.0" cnt="14" />
+<item str="AppleWebKit 312.5" cnt="14" />
+<item str="OmniExplorer_Bot 4.3" cnt="14" />
+<item str="webcollage 1.1" cnt="13" />
+<item str="CS 2000 7.0 7.0" cnt="12" />
+</month>
+<month val="nov 2005" total="7112">
+<item str="Microsoft Internet Explorer 6.0" cnt="1990" />
+<item str="msnbot 1.0" cnt="1794" />
+<item str="Yahoo! Slurp" cnt="884" />
+<item str="psbot 0.1" cnt="624" />
+<item str="ichiro 2.0" cnt="419" />
+<item str="Googlebot 2.1" cnt="346" />
+<item str="Gigabot 2.0" cnt="179" />
+<item str="Firefox 1.0" cnt="175" />
+<item str="Microsoft Internet Explorer 5.2" cnt="60" />
+<item str="Konqueror 3.0" cnt="56" />
+<item str="snap.com beta crawler v0" cnt="51" />
+<item str="Konqueror 3.1" cnt="46" />
+<item str="Microsoft Internet Explorer 5.0" cnt="45" />
+<item str="Ask Jeeves Teoma" cnt="42" />
+<item str="Microsoft Internet Explorer 5.5" cnt="42" />
+<item str="Netscape Navigator 4.0" cnt="39" />
+<item str="SBIder 0.8" cnt="37" />
+<item str="TurnitinBot 2.0" cnt="34" />
+<item str="Yahoo! Slurp China" cnt="27" />
+<item str="AppleWebKit 312.5" cnt="25" />
+<item str="RufusBot " cnt="22" />
+<item str="Netscape 7.2" cnt="14" />
+<item str="AppleWebKit 416.1" cnt="12" />
+<item str="StackRambler 2.0" cnt="11" />
+<item str="Accoona-AI-Agent 1.1" cnt="10" />
+</month>
+<month val="dec 2005" total="7162">
+<item str="Microsoft Internet Explorer 6.0" cnt="2203" />
+<item str="msnbot 1.0" cnt="1745" />
+<item str="Yahoo! Slurp" cnt="910" />
+<item str="Googlebot 2.1" cnt="823" />
+<item str="ichiro 2.0" cnt="326" />
+<item str="Firefox 1.0" cnt="197" />
+<item str="MJ12bot v1.0.6 " cnt="116" />
+<item str="Microsoft Internet Explorer 5.0" cnt="78" />
+<item str="AppleWebKit 416.1" cnt="75" />
+<item str="Yahoo! Slurp China" cnt="70" />
+<item str="Ask Jeeves Teoma" cnt="62" />
+<item str="Konqueror 3.1" cnt="59" />
+<item str="SBIder 0.8" cnt="54" />
+<item str="Netscape Navigator 4.0" cnt="52" />
+<item str="Firefox 1.5" cnt="42" />
+<item str="snap.com beta crawler v0" cnt="30" />
+<item str="Konqueror 3.0" cnt="28" />
+<item str="AppleWebKit 312.5" cnt="27" />
+<item str="Netscape 7.2" cnt="23" />
+<item str="Cerberian Drtrs Version-3.2-Build-0" cnt="21" />
+<item str="Microsoft Internet Explorer 5.5" cnt="18" />
+<item str="Opera 8.5" cnt="17" />
+<item str="StackRambler 2.0" cnt="15" />
+<item str="Red Hat 1.0" cnt="11" />
+<item str="Hristianstvo.Ru RSS bot" cnt="11" />
+</month>
+<month val="jan 2006" total="10246">
+<item str="Microsoft Internet Explorer 6.0" cnt="4838" />
+<item str="Yahoo! Slurp" cnt="1246" />
+<item str="msnbot 1.0" cnt="850" />
+<item str="Googlebot 2.1" cnt="701" />
+<item str="NextGenSearchBot 1" cnt="430" />
+<item str="Firefox 1.0" cnt="428" />
+<item str="Ask Jeeves Teoma" cnt="359" />
+<item str="Firefox 1.5" cnt="178" />
+<item str="psbot 0.1" cnt="135" />
+<item str="MJ12bot v1.0.7 " cnt="114" />
+<item str="Gigabot 2.0" cnt="108" />
+<item str="Netscape Navigator 4.0" cnt="104" />
+<item str="Exabot 2.0" cnt="95" />
+<item str="Netscape 7.2" cnt="81" />
+<item str="snap.com beta crawler v0" cnt="58" />
+<item str="Microsoft Internet Explorer 5.0" cnt="46" />
+<item str="SBIder 0.8" cnt="39" />
+<item str="Microsoft Internet Explorer 5.5" cnt="38" />
+<item str="http: /www.almaden.ibm.com/cs/crawler   [bc7]" cnt="36" />
+<item str="AppleWebKit 416.1" cnt="34" />
+<item str="Konqueror 3.1" cnt="24" />
+<item str="Yahoo! Slurp China" cnt="24" />
+<item str="Konqueror 3.0" cnt="22" />
+<item str="Netscape 7.1" cnt="19" />
+<item str="findlinks 1.1" cnt="17" />
+</month>
+<month val="feb 2006" total="1347">
+<item str="Microsoft Internet Explorer 6.0" cnt="552" />
+<item str="msnbot 1.0" cnt="329" />
+<item str="Yahoo! Slurp" cnt="181" />
+<item str="Googlebot 2.1" cnt="111" />
+<item str="psbot 0.1" cnt="32" />
+<item str="Firefox 1.5" cnt="21" />
+<item str="Firefox 1.0" cnt="20" />
+<item str="Netscape Navigator 4.0" cnt="8" />
+<item str="Konqueror 3.1" cnt="8" />
+<item str="Yahoo! Slurp China" cnt="6" />
+<item str="Konqueror 3.0" cnt="5" />
+<item str="StackRambler 2.0" cnt="5" />
+<item str="ia_archiver" cnt="4" />
+<item str="webcollage 1.1" cnt="4" />
+<item str="Gigabot 2.0" cnt="4" />
+<item str="msnbot 0.9" cnt="4" />
+<item str="BecomeBot 2.3" cnt="4" />
+<item str="AppleWebKit 417.9" cnt="3" />
+<item str="Ask Jeeves Teoma" cnt="3" />
+<item str="Microsoft Internet Explorer 5.2" cnt="3" />
+<item str="Microsoft Internet Explorer 5.5" cnt="3" />
+<item str="findlinks 1.1" cnt="3" />
+<item str="Microsoft Internet Explorer 5.1" cnt="2" />
+<item str="Microsoft Internet Explorer 5.0" cnt="2" />
+<item str="Verizon Superpages.com Content Platform Crawler v0.1" cnt="2" />
+<item str="Shim-Crawler" cnt="2" />
+<item str="nicebot" cnt="1" />
+<item str="Netscape 7.1" cnt="1" />
+<item str="SurveyBot 2.3" cnt="1" />
+<item str="Yahoo-MMCrawler 3." cnt="1" />
+<item str="lwp-request 2.0" cnt="1" />
+<item str="Netscape Navigator 4.5" cnt="1" />
+<item str="AppleWebKit 312.8" cnt="1" />
+<item str="Firefox 0.1" cnt="1" />
+<item str="Hristianstvo.ru" cnt="1" />
+<item str="Netscape 8.1" cnt="1" />
+<item str="AppleWebKit 85.8" cnt="1" />
+</month>
+</usagedata>

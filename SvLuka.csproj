@@ -1,0 +1,776 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF8475A4-D1A3-4733-A254-A096BD41FC34}</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>SvLuka</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SvLuka</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PublicClass">
+      <Name>PublicClass</Name>
+      <HintPath>bin\PublicClass.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_GlobalResources\Strings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Strings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ConnString.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Construction\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Construction\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Construction\edit.aspx.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Construction\edit.aspx.designer.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\Footer.ascx.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\Footer.ascx.designer.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\Header.ascx.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\Header.ascx.designer.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\MainNavBar.ascx.cs">
+      <DependentUpon>MainNavBar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\MainNavBar.ascx.designer.cs">
+      <DependentUpon>MainNavBar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\Prevod.ascx.cs">
+      <DependentUpon>Prevod.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\Prevod.ascx.designer.cs">
+      <DependentUpon>Prevod.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\Right.ascx.cs">
+      <DependentUpon>Right.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="controls\Right.ascx.designer.cs">
+      <DependentUpon>Right.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Directions\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Directions\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\Donation.aspx.cs">
+      <DependentUpon>Donation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\Donation.aspx.designer.cs">
+      <DependentUpon>Donation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\Money.aspx.cs">
+      <DependentUpon>Money.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\Money.aspx.designer.cs">
+      <DependentUpon>Money.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\Prayer.aspx.cs">
+      <DependentUpon>Prayer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\Prayer.aspx.designer.cs">
+      <DependentUpon>Prayer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\Sorry.aspx.cs">
+      <DependentUpon>Sorry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\Sorry.aspx.designer.cs">
+      <DependentUpon>Sorry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\ThankYou.aspx.cs">
+      <DependentUpon>ThankYou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\ThankYou.aspx.designer.cs">
+      <DependentUpon>ThankYou.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\Time.aspx.cs">
+      <DependentUpon>Time.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\Time.aspx.designer.cs">
+      <DependentUpon>Time.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Folklor\Calendar.aspx.cs">
+      <DependentUpon>Calendar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folklor\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Folklor\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forms\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Links\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Links\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailingList\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailingList\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Newsletter\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Newsletter\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Newsletter\reportNews.aspx.cs">
+      <DependentUpon>reportNews.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Newsletter\reportNews.aspx.designer.cs">
+      <DependentUpon>reportNews.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Photos\2002\2002.aspx.cs">
+      <DependentUpon>2002.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Photos\2002\2002.aspx.designer.cs">
+      <DependentUpon>2002.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Photos\2004\2004.aspx.cs">
+      <DependentUpon>2004.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Photos\2004\2004.aspx.designer.cs">
+      <DependentUpon>2004.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Photos\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Photos\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Photos\YouTube.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>YouTube.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Photos\YouTube.aspx.designer.cs">
+      <DependentUpon>YouTube.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Schedules\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Schedules\edit.aspx.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Schedules\edit.aspx.designer.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Teens\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Teens\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Teens\East.aspx.cs">
+      <DependentUpon>East.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Teens\East.aspx.designer.cs">
+      <DependentUpon>East.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Teens\PrayerRopes.aspx.cs">
+      <DependentUpon>PrayerRopes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Teens\PrayerRopes.aspx.designer.cs">
+      <DependentUpon>PrayerRopes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Teens\Tattoing.aspx.cs">
+      <DependentUpon>Tattoing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Teens\Tattoing.aspx.designer.cs">
+      <DependentUpon>Tattoing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Teens\YouthGroup.aspx.cs">
+      <DependentUpon>YouthGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Teens\YouthGroup.aspx.designer.cs">
+      <DependentUpon>YouthGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WhatsNew\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WhatsNew\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WhatsNew\edit.aspx.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WhatsNew\edit.aspx.designer.cs">
+      <DependentUpon>edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YellowPages\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YellowPages\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YellowPages\pomoc.aspx.cs">
+      <DependentUpon>pomoc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YellowPages\pomoc.aspx.designer.cs">
+      <DependentUpon>pomoc.aspx</DependentUpon>
+    </Compile>
+    <Content Include="AboutUs\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="aspnet_client\system_web\1_1_4322\SmartNav.htm" />
+    <Content Include="aspnet_client\system_web\1_1_4322\smartnav.js" />
+    <Content Include="aspnet_client\system_web\1_1_4322\webuivalidation.js" />
+    <Content Include="bin\SvLuka.dll" />
+    <Content Include="bin\SvLuka.pdb" />
+    <Content Include="Construction\Crkva iz aviona2.jpg" />
+    <Content Include="Construction\Crkva iz aviona2small.jpg" />
+    <Content Include="Construction\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Construction\edit.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="controls\dbujakGeneral.css" />
+    <Content Include="controls\Footer.ascx">
+      <SubType>UserControl</SubType>
+    </Content>
+    <Content Include="controls\Header.ascx">
+      <SubType>UserControl</SubType>
+    </Content>
+    <Content Include="controls\MainNavBar.ascx">
+      <SubType>UserControl</SubType>
+    </Content>
+    <Content Include="controls\NavigationBar.inc" />
+    <Content Include="controls\Prevod.ascx">
+      <SubType>UserControl</SubType>
+    </Content>
+    <Content Include="controls\Right.ascx">
+      <SubType>UserControl</SubType>
+    </Content>
+    <Content Include="default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Directions\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\Donation.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\Money.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\Prayer.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\Sorry.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\submit.asp" />
+    <Content Include="Donations\submit2.asp" />
+    <Content Include="Donations\ThankYou.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Donations\Time.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Error.aspx" />
+    <Content Include="files\Bogojavljenje 2006.wmv" />
+    <Content Include="files\Bogojavljenje 2006Hi.wmv" />
+    <Content Include="files\vrbice.wmv" />
+    <Content Include="Folklor\Calendar.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Folklor\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Forms\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="global.asa" />
+    <Content Include="Global.asax">
+      <SubType>Component</SubType>
+    </Content>
+    <Content Include="home.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="HTMLPage1.htm" />
+    <Content Include="imgs\capital_campaign_church2.gif" />
+    <Content Include="imgs\click-to-donate-big.gif" />
+    <Content Include="imgs\english.gif" />
+    <Content Include="imgs\english.jpg" />
+    <Content Include="imgs\flag_scg.gif" />
+    <Content Include="imgs\flag_us.gif" />
+    <Content Include="imgs\grbpic.gif" />
+    <Content Include="imgs\lukaicon.gif" />
+    <Content Include="imgs\NavBarThreeDots.gif" />
+    <Content Include="imgs\newcross5.gif" />
+    <Content Include="imgs\scg_zastava.gif" />
+    <Content Include="imgs\srpski_c.gif" />
+    <Content Include="imgs\srpski_c.jpg" />
+    <Content Include="imgs\srpski_l.gif" />
+    <Content Include="imgs\srpski_l.jpg" />
+    <Content Include="imgs\Thermometer.gif" />
+    <Content Include="imgs\vines.gif" />
+    <Content Include="Links\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Login\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="MailingList\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Newsletter\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Newsletter\reportNews.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Photos\2002\2002.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Photos\2002\2002Photos.htm" />
+    <Content Include="Photos\2004\2004.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Photos\2004\2004Photos.htm" />
+    <Content Include="Photos\2010\Djurdjevdan.htm" />
+    <Content Include="Photos\2010\SvLuka.htm" />
+    <Content Include="Photos\2010\SvSava.htm" />
+    <Content Include="Photos\2011\Bozic.htm" />
+    <Content Include="Photos\2012\Bozic-Hor.htm" />
+    <Content Include="Photos\2012\HolyFriday.htm" />
+    <Content Include="Photos\2012\Easter.htm" />
+    <Content Include="Photos\2012\Folklor.htm" />
+    <Content Include="Photos\2012\SvSava-Folklor.htm" />
+    <Content Include="Photos\2013\SvSava3.htm" />
+    <Content Include="Photos\2013\SvSava2.htm" />
+    <Content Include="Photos\2013\SvSava.htm" />
+    <Content Include="Photos\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Photos\test.htm" />
+    <Content Include="Photos\YouTube.aspx" />
+    <Content Include="Schedules\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Schedules\edit.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Schedules\script.js" />
+    <Content Include="Search\default.asp" />
+    <Content Include="subscribe\default.html" />
+    <Content Include="Teens\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Teens\East.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Teens\PrayerRopes.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Teens\Tattoing.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Teens\YouthGroup.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="Web.config" />
+    <Content Include="WhatsNew\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="WhatsNew\edit.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="YellowPages\default.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <Content Include="YellowPages\pomoc.aspx">
+      <SubType>Form</SubType>
+    </Content>
+    <EmbeddedResource Include="AboutUs\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App_GlobalResources\Strings.en-US.resx">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Content Include="App_GlobalResources\Strings.resx">
+      <SubType>Designer</SubType>
+      <Generator>GlobalResourceProxyGenerator</Generator>
+      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+    </Content>
+    <EmbeddedResource Include="App_GlobalResources\Strings.sr-Cyrl-CS.resx">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App_GlobalResources\Strings.sr-Latn-CS.resx">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Construction\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Construction\edit.aspx.resx">
+      <DependentUpon>edit.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controls\Footer.ascx.resx">
+      <DependentUpon>Footer.ascx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controls\Header.ascx.resx">
+      <DependentUpon>Header.ascx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controls\MainNavBar.ascx.resx">
+      <DependentUpon>MainNavBar.ascx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controls\Prevod.ascx.resx">
+      <DependentUpon>Prevod.ascx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controls\Right.ascx.resx">
+      <DependentUpon>Right.ascx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Directions\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\Donation.aspx.resx">
+      <DependentUpon>Donation.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\Money.aspx.resx">
+      <DependentUpon>Money.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\Prayer.aspx.resx">
+      <DependentUpon>Prayer.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\Sorry.aspx.resx">
+      <DependentUpon>Sorry.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\ThankYou.aspx.resx">
+      <DependentUpon>ThankYou.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Donations\Time.aspx.resx">
+      <DependentUpon>Time.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folklor\Calendar.aspx.resx">
+      <DependentUpon>Calendar.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Folklor\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Global.asax.resx">
+      <DependentUpon>Global.asax.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.aspx.resx">
+      <DependentUpon>home.aspx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Links\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailingList\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newsletter\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newsletter\reportNews.aspx.resx">
+      <DependentUpon>reportNews.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\2002\2002.aspx.resx">
+      <DependentUpon>2002.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\2004\2004.aspx.resx">
+      <DependentUpon>2004.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedules\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedules\edit.aspx.resx">
+      <DependentUpon>edit.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teens\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teens\East.aspx.resx">
+      <DependentUpon>East.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teens\PrayerRopes.aspx.resx">
+      <DependentUpon>PrayerRopes.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teens\Tattoing.aspx.resx">
+      <DependentUpon>Tattoing.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teens\YouthGroup.aspx.resx">
+      <DependentUpon>YouthGroup.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WhatsNew\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WhatsNew\edit.aspx.resx">
+      <DependentUpon>edit.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YellowPages\default.aspx.resx">
+      <DependentUpon>default.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YellowPages\pomoc.aspx.resx">
+      <DependentUpon>pomoc.aspx.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Construction\cc.faq.pdf" />
+    <None Include="Construction\cc.faq.serbian.pdf" />
+    <None Include="Construction\cc.presentation.pdf" />
+    <None Include="Construction\cc.presentation.serbian.pdf" />
+    <None Include="Construction\cc.rendering.pdf" />
+    <None Include="Construction\cc.ways.to.give.pdf" />
+    <None Include="Construction\cc.ways.to.give.serbian.pdf" />
+    <None Include="Donations\ACH.pdf" />
+    <None Include="Donations\creditcard.pdf" />
+    <None Include="Donations\pledgeEn.pdf" />
+    <None Include="Donations\pledgeSr.pdf" />
+    <None Include="files\SRPSKA PRAVOSLAVNA  EPARHIJA.doc" />
+    <None Include="files\SRPSKA PRAVOSLAVNA  EPARHIJA.pdf" />
+    <None Include="Folklor\Registration2009.pdf" />
+    <None Include="Forms\GivingForm_SLSOChurch.pdf" />
+    <None Include="Forms\PledgeEn.pdf" />
+    <None Include="Forms\PledgeSr.pdf" />
+    <None Include="Forms\Sunday School.pdf" />
+    <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\December2005.pdf" />
+    <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\June2006.pdf" />
+    <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\Mart 2007.pdf" />
+    <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\November2005.pdf" />
+    <None Include="WhatsNew\SvLukaSchedules.mdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="aspnet_client\system_web\2_0_50727\" />
+    <Folder Include="Photos\2006\" />
+    <Folder Include="YellowPages\files\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v8.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/SvLuka</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
