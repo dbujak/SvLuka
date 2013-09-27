@@ -120,11 +120,6 @@
     <Compile Include="AboutUs\default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="App_GlobalResources\Strings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Strings.resx</DependentUpon>
-    </Compile>
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -419,6 +414,9 @@
     <Content Include="AboutUs\default.aspx">
       <SubType>Form</SubType>
     </Content>
+    <EmbeddedResource Include="App_GlobalResources\Strings.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
     <Content Include="aspnet_client\system_web\1_1_4322\SmartNav.htm" />
     <Content Include="aspnet_client\system_web\1_1_4322\smartnav.js" />
     <Content Include="aspnet_client\system_web\1_1_4322\webuivalidation.js" />
@@ -599,11 +597,6 @@
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <Content Include="App_GlobalResources\Strings.resx">
-      <SubType>Designer</SubType>
-      <Generator>GlobalResourceProxyGenerator</Generator>
-      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
-    </Content>
     <EmbeddedResource Include="App_GlobalResources\Strings.sr-Cyrl-CS.resx">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

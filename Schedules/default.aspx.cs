@@ -26,6 +26,7 @@ namespace SvLuka.Schedules
         protected System.Web.UI.WebControls.Label lblCalendarEn;
         protected System.Web.UI.WebControls.Label lblCalendarSr;
         protected System.Web.UI.WebControls.Label lblCalendars;
+        protected System.Web.UI.WebControls.Label lblCoffee;
         protected SvLuka.controls.Header Header1;
 
 
@@ -61,7 +62,7 @@ namespace SvLuka.Schedules
             this.lblSchedules.Text = HttpContext.GetGlobalResourceObject("Strings", "91_schedules_page_page").ToString();
             this.lblFastDays.Text = HttpContext.GetGlobalResourceObject("Strings", "91.5_schedules_page_fast").ToString();
             this.lblCalendars.Text = HttpContext.GetGlobalResourceObject("Strings", "91.7_schedules_calendars").ToString();
-
+            this.lblCoffee.Text = HttpContext.GetGlobalResourceObject("Strings", "91.8_schedules_coffee").ToString();
 
             string lang = "";
 

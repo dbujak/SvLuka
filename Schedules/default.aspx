@@ -19,8 +19,8 @@
 					<TD vAlign="top" width="20" height="10" rowSpan="2"><uc1:mainnavbar id="MainNavBar1" runat="server"></uc1:mainnavbar></TD>
 					<TD vAlign="top" align="center" width="10" height="10"></TD>
 					<TD vAlign="top" align="center" height="10"><uc1:header id="Header1" runat="server"></uc1:header></TD>
-					<TD vAlign="top" align="center" width="10" height="10"></TD>
-					<TD vAlign="top" align="center" width="10" height="10"></TD>
+					<TD vAlign="top" align="center" height="10"></TD>
+					<TD vAlign="top" align="center" height="10"></TD>
 				</TR>
 				<TR>
 					<TD vAlign="top"></TD>
@@ -49,7 +49,17 @@
                         <asp:Label ID="lblCalendars" runat="server"></asp:Label>
 					</TD>
 					<TD vAlign="top"></TD>
-					<TD vAlign="top"><uc1:right id="Right1" runat="server" Visible="false"></uc1:right></TD>
+					<TD vAlign="top" width="300">
+                        <asp:Label ID="lblCoffee" runat="server" Text="Label"><h4><a href="http://www.signupgenius.com/go/10C0B4FAFA72CA75-coffee" target="_blank">Coffee Hour Sign-up</a></h4>
+                            <p>The parish has created a page at <a href="http://www.signupgenius.com/go/10C0B4FAFA72CA75-coffee" target="_blank">SignUp Genius </a> 
+                            for signing up to host coffee hour on Sundays. </p>
+                            <p>On <a href="http://www.signupgenius.com/go/10C0B4FAFA72CA75-coffee" target="_blank">this site</a>, you will be able to view which Sundays are available in real-time fashion.  </p>
+                            <p>Please note that you do not need to register with SignUp Genius to use it.  </p>
+                            <p>If you do not wish to use this service, please send an e-mail to <a href="mailto:coffeehour@svluka.org">coffeehour@svluka.org</a> with your preferred dates and 
+                            we will let you know if they are available.  </p>
+                            <p>Thank you.</p></asp:Label>                        
+                        <uc1:right id="Right1" runat="server" Visible="false"></uc1:right>
+					</TD>
 				</TR>
 				<TR>
 					<TD height="10">
