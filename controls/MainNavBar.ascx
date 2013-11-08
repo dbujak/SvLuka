@@ -31,16 +31,16 @@
 	#dbujakNavContainer2 A:hover { COLOR: #2b465b; BACKGROUND-COLOR: #dddddd }
 	A { FONT: bold 1em Arial; COLOR: #39586d; TEXT-DECORATION: underline }
 	A:hover { COLOR: firebrick; TEXT-DECORATION: underline }
-	#dbujakSpecialNeeds { PADDING-RIGHT: 0px; PADDING-LEFT: 0px; RIGHT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 40px }
+	#dbujakSpecialNeeds { PADDING-RIGHT: 0px; PADDING-LEFT: 0px; RIGHT: 90px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 30px }
 	#dbujakSpecialNeeds2 { PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LEFT: 180px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 40px }
 
 </style>
 <TABLE id="Table1" cellSpacing="1" cellPadding="1" border="0">
 	<TR>
-		<TD align="center"><A href="/SvLuka/default.aspx"><IMG src="/SvLuka/imgs/grbpic.gif" border="0"></A></TD>
+		<TD align="center"><A href="/SvLuka/default.aspx"><IMG src="/SvLuka/imgs/SvLuka.jpg" border="0" alt="St. Luke Icon / Ikona Sv. Luke"></A></TD>
 	</TR>
 	<TR>
-		<TD height="30"></TD>
+		<TD height="10"></TD>
 	</TR>
 	<TR>
 		<TD>
@@ -130,6 +130,8 @@
         ErrorMessage="RequiredFieldValidator" SetFocusOnError="True"></asp:RequiredFieldValidator>
     <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="RegularExpressionValidator" ControlToValidate="txtSubscribe" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator></td></tr>
 </table>
+
+
 
 <%-- Google Tracking --%>
 <script>

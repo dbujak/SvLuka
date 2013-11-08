@@ -19,14 +19,8 @@ namespace SvLuka.Schedules
 	/// <summary>
 	/// Summary description for _default.
 	/// </summary>
-	public class _default : System.Web.UI.Page
+	public partial class _default : System.Web.UI.Page
 	{
-		protected System.Web.UI.WebControls.Label lblSchedules;
-        protected System.Web.UI.WebControls.Label lblFastDays;
-        protected System.Web.UI.WebControls.Label lblCalendarEn;
-        protected System.Web.UI.WebControls.Label lblCalendarSr;
-        protected System.Web.UI.WebControls.Label lblCalendars;
-        protected System.Web.UI.WebControls.Label lblCoffee;
         protected SvLuka.controls.Header Header1;
 
 
@@ -54,7 +48,7 @@ namespace SvLuka.Schedules
 //		}
 
 
-		private void Page_Load(object sender, System.EventArgs e)
+		protected void Page_Load(object sender, System.EventArgs e)
 		{
 
 
@@ -216,7 +210,6 @@ namespace SvLuka.Schedules
 		/// </summary>
 		private void InitializeComponent()
 		{    
-			this.Load += new System.EventHandler(this.Page_Load);
 
 		}
 		#endregion

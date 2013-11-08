@@ -16,11 +16,11 @@ namespace SvLuka.Folklor
 	/// <summary>
 	/// Summary description for _default.
 	/// </summary>
-	public class FolkloreCalendar : System.Web.UI.Page
+	public partial class FolkloreCalendar : System.Web.UI.Page
 	{
 		protected SvLuka.controls.Header Header1;
 
-		private void Page_Load(object sender, System.EventArgs e)
+		protected void Page_Load(object sender, System.EventArgs e)
 		{
 
 
@@ -44,7 +44,6 @@ namespace SvLuka.Folklor
 		/// </summary>
 		private void InitializeComponent()
 		{    
-			this.Load += new System.EventHandler(this.Page_Load);
 
 		}
 		#endregion

@@ -2,7 +2,7 @@
 <%@ Register TagPrefix="uc1" TagName="Header" Src="../controls/Header.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="Right" Src="../controls/Right.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="MainNavBar" Src="../controls/MainNavBar.ascx" %>
-<%@ Page language="c#" Codebehind="default.aspx.cs" AutoEventWireup="false" Inherits="SvLuka.Schedules._default" %>
+<%@ Page language="c#" Codebehind="default.aspx.cs" AutoEventWireup="True" Inherits="SvLuka.Schedules._default" %>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 <HTML>
 	<HEAD>

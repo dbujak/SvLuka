@@ -1,4 +1,4 @@
-<%@ Page language="c#" Codebehind="Calendar.aspx.cs" AutoEventWireup="false" Inherits="SvLuka.Folklor.FolkloreCalendar" %>
+<%@ Page language="c#" Codebehind="Calendar.aspx.cs" AutoEventWireup="True" Inherits="SvLuka.Folklor.FolkloreCalendar" %>
 <%@ Register TagPrefix="uc1" TagName="MainNavBar" Src="../controls/MainNavBar.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="Header" Src="../controls/Header.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="Right" Src="../controls/Right.ascx" %>

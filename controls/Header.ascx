@@ -38,7 +38,7 @@
 		<TD height="40"></TD>
 	</TR>
 </TABLE>
-<div id="dbujakSpecialNeeds"><a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank><img border="0" src="/SvLuka/imgs/click-to-donate-big.gif"></a></div>
+<div id="dbujakSpecialNeeds"><img border="0" src="/SvLuka/imgs/grbpic.gif"></div>
 
 <!--
 <div id="dbujakSpecialNeeds"><a href="/SvLuka/newsletter/reportnews.aspx"><img border="0" src="/SvLuka/imgs/newsletter.gif"></a></div>
