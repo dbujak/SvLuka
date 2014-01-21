@@ -34,11 +34,11 @@ namespace SvLuka.Construction
             SvLuka.ConnString Conn = new ConnString();
             DataTable DTtop = new DataTable();
             OleDbDataAdapter DAtop = new OleDbDataAdapter("SELECT Distinct Year(CN_Date) FROM tblConstruction Order By Year(CN_Date) Desc", Conn.ConnenctionString);
-            int year = 2013;
+            int year = 2014;
             int passedYear;
             bool bpassedYear = int.TryParse(Request.QueryString["year"], out passedYear);
             
-            if (!bpassedYear) passedYear = 2013;
+            if (!bpassedYear) passedYear = 2014;
 
             DAtop.Fill(DTtop);
 
