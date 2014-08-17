@@ -583,7 +583,9 @@
     <Content Include="Teens\YouthGroup.aspx">
       <SubType>Form</SubType>
     </Content>
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="WhatsNew\default.aspx">
       <SubType>Form</SubType>
     </Content>
