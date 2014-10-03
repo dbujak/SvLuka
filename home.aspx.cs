@@ -81,7 +81,7 @@ namespace SvLuka
                     "<td>" + HttpContext.GetGlobalResourceObject("Strings", "13_whatsnew_updated") + ": " + ((DateTime)row["WN_Date"]).ToString("D", CultureInfo.CurrentCulture) + "</td>" +
                     "</tr>" +
                     "<tr>" +
-                    "<td>" + row[field] + "</td>" +
+                    "<td order=" + row["WN_Order"] + ">" + row[field] + "</td>" +
                     "</tr>" +
                     "<tr>" +
                     "<td colspan=2 align=center><img src=\"/SvLuka/imgs/vines.gif\"></td>" +
