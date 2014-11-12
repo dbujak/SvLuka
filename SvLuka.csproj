@@ -554,6 +554,7 @@
     <Content Include="Photos\2013\SvSava3.htm" />
     <Content Include="Photos\2013\SvSava2.htm" />
     <Content Include="Photos\2013\SvSava.htm" />
+    <Content Include="Photos\2014\CrossBlessing.htm" />
     <Content Include="Photos\default.aspx">
       <SubType>Form</SubType>
     </Content>
@@ -754,6 +755,7 @@
     <None Include="Forms\PledgeEn.pdf" />
     <None Include="Forms\PledgeSr.pdf" />
     <None Include="Forms\Sunday School.pdf" />
+    <None Include="Local C Drive.pubxml" />
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\December2005.pdf" />
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\June2006.pdf" />
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\Mart 2007.pdf" />
