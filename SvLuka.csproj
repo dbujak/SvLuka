@@ -554,6 +554,7 @@
     <Content Include="Photos\2013\SvSava3.htm" />
     <Content Include="Photos\2013\SvSava2.htm" />
     <Content Include="Photos\2013\SvSava.htm" />
+    <Content Include="Photos\2014\StLukeSlava.htm" />
     <Content Include="Photos\2014\CrossBlessing.htm" />
     <Content Include="Photos\default.aspx">
       <SubType>Form</SubType>
@@ -737,6 +738,7 @@
     <EmbeddedResource Include="YellowPages\pomoc.aspx.resx">
       <DependentUpon>pomoc.aspx.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="C Publish.pubxml" />
     <None Include="Construction\cc.faq.pdf" />
     <None Include="Construction\cc.faq.serbian.pdf" />
     <None Include="Construction\cc.presentation.pdf" />
