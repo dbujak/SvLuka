@@ -77,9 +77,9 @@ namespace SvLuka
             {
 
                 this.Announcments.Text = this.Announcments.Text +
-                    "<tr>" +
-                    "<td>" + HttpContext.GetGlobalResourceObject("Strings", "13_whatsnew_updated") + ": " + ((DateTime)row["WN_Date"]).ToString("D", CultureInfo.CurrentCulture) + "</td>" +
-                    "</tr>" +
+                    //"<tr>" +
+                    //"<td>" + HttpContext.GetGlobalResourceObject("Strings", "13_whatsnew_updated") + ": " + ((DateTime)row["WN_Date"]).ToString("D", CultureInfo.CurrentCulture) + "</td>" +
+                    //"</tr>" +
                     "<tr>" +
                     "<td order=" + row["WN_Order"] + ">" + row[field] + "</td>" +
                     "</tr>" +

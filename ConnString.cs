@@ -11,7 +11,7 @@ namespace SvLuka
 
 		public ConnString()
 		{
-        string Path = "c:\\sites\\Single7\\dbujak\\Database\\SvLukaSchedules.mdb";
+        string Path = "c:\\sites\\Single37\\dbujak\\Database\\SvLukaSchedules.mdb";
 //		Path = "c:\\inetpub\\wwwroot\\SvLuka\\WhatsNew\\SvLukaSchedules.mdb";
 
         mConString = "Provider=Microsoft.Jet.OLEDB.4.0;Data source=" + Path;
