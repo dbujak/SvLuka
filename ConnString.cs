@@ -1,4 +1,5 @@
 using System;
+using System.Configuration;
 
 namespace SvLuka
 {
@@ -11,8 +12,8 @@ namespace SvLuka
 
 		public ConnString()
 		{
-        string Path = "c:\\sites\\Single37\\dbujak\\Database\\SvLukaSchedules.mdb";
-//		Path = "c:\\inetpub\\wwwroot\\SvLuka\\WhatsNew\\SvLukaSchedules.mdb";
+            string Path = ConfigurationSettings.AppSettings["Database_Path"].ToString();
+
 
         mConString = "Provider=Microsoft.Jet.OLEDB.4.0;Data source=" + Path;
 		}

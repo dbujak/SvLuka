@@ -123,6 +123,13 @@
     <Compile Include="AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CapitalCampaign\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CapitalCampaign\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ConnString.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -428,6 +435,7 @@
     <Content Include="aspnet_client\system_web\1_1_4322\webuivalidation.js" />
     <Content Include="bin\SvLuka.dll" />
     <Content Include="bin\SvLuka.pdb" />
+    <Content Include="CapitalCampaign\default.aspx" />
     <Content Include="Construction\Crkva iz aviona2.jpg" />
     <Content Include="Construction\Crkva iz aviona2small.jpg" />
     <Content Include="Construction\default.aspx">

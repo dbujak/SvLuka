@@ -144,87 +144,7 @@
     <value>Dobro nam dosli</value>
   </data>
   <data name="8_home_text" xml:space="preserve">
-    <value>&lt;h3&gt;
-Kampanja za Srpsku Pravoslavnu Crkvu Svetog Luke
-&lt;br /&gt;
-&lt;span style="font-size: 9pt"&gt;“Svaki po volji svog srca, a ne sa žalošću ili od nevolje.”
-2. Korinćanima, 9:7a &lt;/span&gt;
-&lt;/h3&gt;
-Dragi prijatelji i parohijane Srpske Pravoslavne Crkve Svetog Luke,
-&lt;br /&gt;
-&lt;br /&gt;
-Iznad navedene reči svetog Pavla u pismu Korinćanima su od posebnog značaja u našem
-nastojanju da uspešan završetak Kampanje za Srpsku Pravoslavnu Crkvu Svetog Luke. Možda
-ste nedavno videli PoverPoint prezentaciju o našoj kampanji ili neki drugi materijal
-u vezi sa kampanjom koji prati ovo pismo.
-&lt;br /&gt;
-&lt;br /&gt;
-Kao što možda znate, kampanja ima cilj da se sakupi $1,250,000. Koristi za zajednicu
-su sledeće:&lt;br /&gt;
-&lt;ol&gt;
-&lt;li&gt;Održavanje gornja dva sprata zgrade kao parohijski i poslovni prostor. &lt;/li&gt;
-&lt;li&gt;Potpuno renoviranje i proširivanje na nižem nivou (udvostručavanje prostora) koji će
-uključi prostor za kapelu (kapaciteta 180 osoba), socijalne sala (kapaciteta 159
-osoba), i novu kuhinju.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Renoviranje našeg imanja da uključi novi parking i prilazni put, osvetljenje, pejzaž,
-kao i novi sistem upravljanja vodama.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-Mi ponizno tražimo smislen i lično značajan poklon, koji se može dati u petogodišnjem
-obećanju (five-year pledge). Naravno, samo vi možete odlučiti šta je za Vas i vašu
-porodicu požrtvovani i smisleni doprinos. Imajte na umu da ćemo biti zahvalni za
-sve što Vi odlučite da date. Ako niste u poziciji da date, mi skromno molimo za
-vašu dobru volje i vaše molitve.
-&lt;br /&gt;
-&lt;br /&gt;
-Klinkinte na linkove ispod za više informacija:&lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="Construction/"&gt;Dokle smo došli&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="Construction/cc.presentation.serbian.pdf" target=_blank&gt;Prezentacija Kapitalne Kampanje
-za izgradnju srpske pravoslavne Crkve Sv. Luke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="Construction/cc.rendering.pdf" target=_blank&gt;Kompjuterske slike buduće Crkve&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="Construction/cc.ways.to.give.serbian.pdf" target=_blank&gt;Mogucnosti uplate u fond za kapitalnu
-kampanju prikupljanja novca za crkvu Sv. Luke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Donacije putem Interneta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="Construction/cc.faq.serbian.pdf" target=_blank&gt;Često postavljana pitanja&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-Srdačno, vaši u Hristu
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;strong&gt;Otac Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="width: 120px"&gt;
-&amp;nbsp;&lt;/td&gt;
-&lt;td&gt;
-&lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-Parohijski sveštenik&lt;/td&gt;
-&lt;td style="width: 36px"&gt;
-&lt;/td&gt;
-&lt;td&gt;
-Predsednik Komiteta za Kapitalnu Kampanju&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;/td&gt;
-&lt;td style="width: 36px"&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;br /&gt;</value>
+    <value> </value>
   </data>
   <data name="9_whatsnew_page_title" xml:space="preserve">
     <value>Novosti</value>
@@ -1950,5 +1870,91 @@ da se prijavite kao domaćin (ili domaćica) za kafu poslije Liturgije&lt;/p&gt;
 &lt;p&gt;Ne morate da se registrujete da bi se prijavili kao domaćica (ili domaćin). &lt;/p&gt;
 &lt;p&gt;Ako hoćete možete nam polati elektrosku poštu na &lt;a href="mailto:coffeehour@svluka.org"&gt;coffeehour@svluka.org&lt;/a&gt; kada vam odgovara pa ćemo vas mi registrovati. &lt;/p&gt;
 &lt;p&gt;Svako dobro od Gospoda.&lt;/p&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_page" xml:space="preserve">
+    <value>&lt;h3&gt;
+Kampanja za Srpsku Pravoslavnu Crkvu Svetog Luke
+&lt;br /&gt;
+&lt;span style="font-size: 9pt"&gt;“Svaki po volji svog srca, a ne sa žalošću ili od nevolje.”
+2. Korinćanima, 9:7a &lt;/span&gt;
+&lt;/h3&gt;
+Dragi prijatelji i parohijane Srpske Pravoslavne Crkve Svetog Luke,
+&lt;br /&gt;
+&lt;br /&gt;
+Iznad navedene reči svetog Pavla u pismu Korinćanima su od posebnog značaja u našem
+nastojanju da uspešan završetak Kampanje za Srpsku Pravoslavnu Crkvu Svetog Luke. Možda
+ste nedavno videli PoverPoint prezentaciju o našoj kampanji ili neki drugi materijal
+u vezi sa kampanjom koji prati ovo pismo.
+&lt;br /&gt;
+&lt;br /&gt;
+Kao što možda znate, kampanja ima cilj da se sakupi $1,250,000. Koristi za zajednicu
+su sledeće:&lt;br /&gt;
+&lt;ol&gt;
+&lt;li&gt;Održavanje gornja dva sprata zgrade kao parohijski i poslovni prostor. &lt;/li&gt;
+&lt;li&gt;Potpuno renoviranje i proširivanje na nižem nivou (udvostručavanje prostora) koji će
+uključi prostor za kapelu (kapaciteta 180 osoba), socijalne sala (kapaciteta 159
+osoba), i novu kuhinju.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Renoviranje našeg imanja da uključi novi parking i prilazni put, osvetljenje, pejzaž,
+kao i novi sistem upravljanja vodama.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+Mi ponizno tražimo smislen i lično značajan poklon, koji se može dati u petogodišnjem
+obećanju (five-year pledge). Naravno, samo vi možete odlučiti šta je za Vas i vašu
+porodicu požrtvovani i smisleni doprinos. Imajte na umu da ćemo biti zahvalni za
+sve što Vi odlučite da date. Ako niste u poziciji da date, mi skromno molimo za
+vašu dobru volje i vaše molitve.
+&lt;br /&gt;
+&lt;br /&gt;
+Klinkinte na linkove ispod za više informacija:&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/SvLuka/Construction/"&gt;Dokle smo došli&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/SvLuka/Construction/cc.presentation.serbian.pdf" target=_blank&gt;Prezentacija Kapitalne Kampanje
+za izgradnju srpske pravoslavne Crkve Sv. Luke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/SvLuka/Construction/cc.rendering.pdf" target=_blank&gt;Kompjuterske slike buduće Crkve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/SvLuka/Construction/cc.ways.to.give.serbian.pdf" target=_blank&gt;Mogucnosti uplate u fond za kapitalnu
+kampanju prikupljanja novca za crkvu Sv. Luke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Donacije putem Interneta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/SvLuka/Construction/cc.faq.serbian.pdf" target=_blank&gt;Često postavljana pitanja&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Srdačno, vaši u Hristu
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;strong&gt;Otac Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 120px"&gt;
+&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;
+&lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+Parohijski sveštenik&lt;/td&gt;
+&lt;td style="width: 36px"&gt;
+&lt;/td&gt;
+&lt;td&gt;
+Predsednik Komiteta za Kapitalnu Kampanju&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;/td&gt;
+&lt;td style="width: 36px"&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_title" xml:space="preserve">
+    <value>Kapitalna kampanja</value>
   </data>
 </root>

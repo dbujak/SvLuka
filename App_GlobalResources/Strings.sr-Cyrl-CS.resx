@@ -144,87 +144,7 @@
     <value>Добро нам дошли</value>
   </data>
   <data name="8_home_text" xml:space="preserve">
-    <value>&lt;h3&gt;
-    Кампања за Српску Православну Цркву Светог Луке
-    &lt;br /&gt;
-    &lt;span style="font-size: 9pt"&gt;“Сваки по вољи свог срца, а не са жалошћу или од невоље.”
-        2. Коринћанима, 9:7а &lt;/span&gt;
-&lt;/h3&gt;
-Драги пријатељи и парохијане Српске Православне Цркве Светог Луке,
-&lt;br /&gt;
-&lt;br /&gt;
-Изнад наведене речи светог Павла у писму Коринћанима су од посебног значаја у нашем
-настојању да успешан завршетак Кампање за Српску Православну Цркву Светог Луке. Можда
-сте недавно видели ПоверПоинт презентацију о нашој кампањи или неки други материјал
-у вези са кампањом који прати ово писмо.
-&lt;br /&gt;
-&lt;br /&gt;
-Као што можда знате, кампања има циљ да се сакупи $1,250,000. Користи за заједницу
-су следеће:&lt;br /&gt;
-&lt;ol&gt;
-    &lt;li&gt;Одржавање горња два спрата зграде као парохијски и пословни простор. &lt;/li&gt;
-    &lt;li&gt;Потпуно реновирање и проширивање на нижем нивоу (удвостручавање простора) који ће
-        укључи простор за капелу (капацитета 180 особа), социјалне сала (капацитета 159
-        особа), и нову кухињу.&lt;/li&gt;
-    &lt;li&gt;
-        &lt;p&gt;
-            Реновирање нашег имања да укључи нови паркинг и прилазни пут, осветљење, пејзаж,
-            као и нови систем управљања водама.
-        &lt;/p&gt;
-    &lt;/li&gt;
-&lt;/ol&gt;
-Ми понизно тражимо смислен и лично значајан поклон, који се може дати у петогодишњем
-обећању (five-year pledge). Наравно, само ви можете одлучити шта је за Вас и вашу
-породицу пожртвовани и смислени допринос. Имајте на уму да ћемо бити захвални за
-све што Ви одлучите да дате. Ако нисте у позицији да дате, ми скромно молимо за
-вашу добру воље и ваше молитве.
-&lt;br /&gt;
-&lt;br /&gt;
-Клинкинте на линкове испод за више информација:&lt;br /&gt;
-    &lt;ul&gt;
-        &lt;li&gt;&lt;a href="Construction/"&gt;Докле смо дошли&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.presentation.serbian.pdf" target=_blank&gt;Презентација Капиталне Кампање
-            за изградњу српске православне Цркве Св. Луке&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.rendering.pdf" target=_blank&gt;Компјутерске слике будуће Цркве&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.ways.to.give.serbian.pdf" target=_blank&gt;Mogucnosti uplate u fond za kapitalnu
-            kampanju prikupljanja novca za crkvu Sv. Luke&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Донације путем Интернета&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.faq.serbian.pdf" target=_blank&gt;Често постављана питања&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-&lt;br /&gt;
-Срдачно, ваши у Христу
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-            &lt;strong&gt;Отац Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
-        &lt;td style="width: 120px"&gt;
-            &amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-            Парохијски свештеник&lt;/td&gt;
-        &lt;td style="width: 36px"&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            Председник Комитета за Капиталну Кампању&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-        &lt;/td&gt;
-        &lt;td style="width: 36px"&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-&lt;br /&gt;</value>
+    <value> </value>
   </data>
   <data name="9_whatsnew_page_title" xml:space="preserve">
     <value>Новости</value>
@@ -1947,5 +1867,91 @@ With the blessing of our Parish Priest and Bishop, coordinating this department 
                             &lt;p&gt;Не морате да се региструјете да би се пријавили као домаћица (или домаћин).  &lt;/p&gt;
                             &lt;p&gt;Ако хоћете можете нам полати електроску пошту на &lt;a href="mailto:coffeehour@svluka.org"&gt;coffeehour@svluka.org&lt;/a&gt; када вам одговара па ћемо вас ми регистровати.  &lt;/p&gt;
                             &lt;p&gt;Свако добро од Господа.&lt;/p&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_page" xml:space="preserve">
+    <value>&lt;h3&gt;
+    Кампања за Српску Православну Цркву Светог Луке
+    &lt;br /&gt;
+    &lt;span style="font-size: 9pt"&gt;“Сваки по вољи свог срца, а не са жалошћу или од невоље.”
+        2. Коринћанима, 9:7а &lt;/span&gt;
+&lt;/h3&gt;
+Драги пријатељи и парохијане Српске Православне Цркве Светог Луке,
+&lt;br /&gt;
+&lt;br /&gt;
+Изнад наведене речи светог Павла у писму Коринћанима су од посебног значаја у нашем
+настојању да успешан завршетак Кампање за Српску Православну Цркву Светог Луке. Можда
+сте недавно видели ПоверПоинт презентацију о нашој кампањи или неки други материјал
+у вези са кампањом који прати ово писмо.
+&lt;br /&gt;
+&lt;br /&gt;
+Као што можда знате, кампања има циљ да се сакупи $1,250,000. Користи за заједницу
+су следеће:&lt;br /&gt;
+&lt;ol&gt;
+    &lt;li&gt;Одржавање горња два спрата зграде као парохијски и пословни простор. &lt;/li&gt;
+    &lt;li&gt;Потпуно реновирање и проширивање на нижем нивоу (удвостручавање простора) који ће
+        укључи простор за капелу (капацитета 180 особа), социјалне сала (капацитета 159
+        особа), и нову кухињу.&lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Реновирање нашег имања да укључи нови паркинг и прилазни пут, осветљење, пејзаж,
+            као и нови систем управљања водама.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+Ми понизно тражимо смислен и лично значајан поклон, који се може дати у петогодишњем
+обећању (five-year pledge). Наравно, само ви можете одлучити шта је за Вас и вашу
+породицу пожртвовани и смислени допринос. Имајте на уму да ћемо бити захвални за
+све што Ви одлучите да дате. Ако нисте у позицији да дате, ми скромно молимо за
+вашу добру воље и ваше молитве.
+&lt;br /&gt;
+&lt;br /&gt;
+Клинкинте на линкове испод за више информација:&lt;br /&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/"&gt;Докле смо дошли&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.presentation.serbian.pdf" target=_blank&gt;Презентација Капиталне Кампање
+            за изградњу српске православне Цркве Св. Луке&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.rendering.pdf" target=_blank&gt;Компјутерске слике будуће Цркве&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.ways.to.give.serbian.pdf" target=_blank&gt;Mogucnosti uplate u fond za kapitalnu
+            kampanju prikupljanja novca za crkvu Sv. Luke&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Донације путем Интернета&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.faq.serbian.pdf" target=_blank&gt;Често постављана питања&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+&lt;br /&gt;
+Срдачно, ваши у Христу
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Отац Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
+        &lt;td style="width: 120px"&gt;
+            &amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            Парохијски свештеник&lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            Председник Комитета за Капиталну Кампању&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_title" xml:space="preserve">
+    <value>Капитална кампања</value>
   </data>
 </root>

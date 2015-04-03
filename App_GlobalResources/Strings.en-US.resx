@@ -144,87 +144,7 @@
     <value>Welcome</value>
   </data>
   <data name="8_home_text" xml:space="preserve">
-    <value>&lt;h3&gt;
-    The Campaign for St. Luke Serbian Orthodox Church
-    &lt;br /&gt;
-    &lt;span style="font-size: 9pt"&gt;“Let every person give according to the purposes of their
-        heart…” (II Corinthians 9:7a)&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
-    Dear Friends and Parishioners of St. Luke Serbian Orthodox Church,&lt;br /&gt;
-&lt;br /&gt;
-    The above words of St. Paul in his letter to the Corinthians are particularly relevant
-    in our effort to successfully complete the Campaign for St. Luke Serbian Orthodox
-    Church. You may have recently viewed a PowerPoint presentation on our Campaign or
-    there may be materials concerning the Campaign that accompany this letter.
-&lt;br /&gt;
-&lt;br /&gt;
-    As you may know, the Campaign is to raise $1,250,000. The benefits to the community
-    are the following:&lt;ol&gt;
-    &lt;li&gt;Maintain the upper two floors of the building as a rectory, office &amp;amp; classroom
-        space.&amp;nbsp;&lt;/li&gt;
-    &lt;li&gt;Completely renovate and expand the lower level (doubles the footprint) to include
-        space for a sanctuary (180 person capacity), social hall (159 person capacity),
-        and new kitchen.&amp;nbsp;&lt;/li&gt;
-    &lt;li&gt;
-        &lt;p&gt;
-            Renovate our grounds to include new parking &amp;amp; driveways, lighting, landscaping,
-            and a new storm water management system.
-        &lt;/p&gt;
-    &lt;/li&gt;
-&lt;/ol&gt;
-    We humbly request a meaningful and personally significant gift, which can be given
-    in a five-year pledge. Of course, only you can decide what a sacrificial gift from
-    your family is. Please know that we shall be grateful for whatever you may choose
-    to give. And if you are not in a position to give, we humbly ask for your good will
-    and your prayers.
-&lt;br /&gt;
-&lt;br /&gt;
-    Please click links below for more information:&lt;br /&gt;
-
-    &lt;ul&gt;
-        &lt;li&gt;&lt;a href="Construction/"&gt;Current Progress&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.presentation.pdf" target=_blank&gt;PowerPoint Presentation for the Capital Campaign for St. Luke Serbian Orthodox Church
-&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.rendering.pdf" target=_blank&gt;Renderings and Plans
-&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.ways.to.give.pdf" target=_blank&gt;Ways To Give To
-            The Campaign for St. Luke Serbian Orthodox Church&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Click here to Donate&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="Construction/cc.faq.pdf" target=_blank&gt;Frequently Asked Questions
-&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-&lt;br /&gt;
-    Sincerely yours in Christ,&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-            &lt;strong&gt;Fr. Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
-        &lt;td style="width: 120px"&gt;
-            &amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-            Parish Priest&lt;/td&gt;
-        &lt;td style="width: 36px"&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            Capital Campaign Committee Chair&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-        &lt;/td&gt;
-        &lt;td style="width: 36px"&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-&lt;br /&gt;</value>
+    <value> </value>
   </data>
   <data name="9_whatsnew_page_title" xml:space="preserve">
     <value>What's New</value>
@@ -1988,5 +1908,91 @@ With the blessing of our Parish Priest and Bishop, coordinating this department 
                             &lt;p&gt;If you do not wish to use this service, please send an e-mail to &lt;a href="mailto:coffeehour@svluka.org"&gt;coffeehour@svluka.org&lt;/a&gt; with your preferred dates and 
                             we will let you know if they are available.  &lt;/p&gt;
                             &lt;p&gt;Thank you.&lt;/p&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_page" xml:space="preserve">
+    <value>&lt;h3&gt;
+    The Campaign for St. Luke Serbian Orthodox Church
+    &lt;br /&gt;
+    &lt;span style="font-size: 9pt"&gt;“Let every person give according to the purposes of their
+        heart…” (II Corinthians 9:7a)&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;
+    Dear Friends and Parishioners of St. Luke Serbian Orthodox Church,&lt;br /&gt;
+&lt;br /&gt;
+    The above words of St. Paul in his letter to the Corinthians are particularly relevant
+    in our effort to successfully complete the Campaign for St. Luke Serbian Orthodox
+    Church. You may have recently viewed a PowerPoint presentation on our Campaign or
+    there may be materials concerning the Campaign that accompany this letter.
+&lt;br /&gt;
+&lt;br /&gt;
+    As you may know, the Campaign is to raise $1,250,000. The benefits to the community
+    are the following:&lt;ol&gt;
+    &lt;li&gt;Maintain the upper two floors of the building as a rectory, office &amp;amp; classroom
+        space.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;Completely renovate and expand the lower level (doubles the footprint) to include
+        space for a sanctuary (180 person capacity), social hall (159 person capacity),
+        and new kitchen.&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;
+        &lt;p&gt;
+            Renovate our grounds to include new parking &amp;amp; driveways, lighting, landscaping,
+            and a new storm water management system.
+        &lt;/p&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+    We humbly request a meaningful and personally significant gift, which can be given
+    in a five-year pledge. Of course, only you can decide what a sacrificial gift from
+    your family is. Please know that we shall be grateful for whatever you may choose
+    to give. And if you are not in a position to give, we humbly ask for your good will
+    and your prayers.
+&lt;br /&gt;
+&lt;br /&gt;
+    Please click links below for more information:&lt;br /&gt;
+
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/"&gt;Current Progress&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.presentation.pdf" target=_blank&gt;PowerPoint Presentation for the Capital Campaign for St. Luke Serbian Orthodox Church
+&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.rendering.pdf" target=_blank&gt;Renderings and Plans
+&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.ways.to.give.pdf" target=_blank&gt;Ways To Give To
+            The Campaign for St. Luke Serbian Orthodox Church&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="https://secure.etransfer.com/SLSOC/donate.cfm" target=_blank&gt;Click here to Donate&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="/SvLuka/Construction/cc.faq.pdf" target=_blank&gt;Frequently Asked Questions
+&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+&lt;br /&gt;
+    Sincerely yours in Christ,&amp;nbsp;&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Fr. Aleksa Micich&lt;/strong&gt;&lt;/td&gt;
+        &lt;td style="width: 120px"&gt;
+            &amp;nbsp;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;strong&gt;Mark A. Rasevic&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            Parish Priest&lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            Capital Campaign Committee Chair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+        &lt;td style="width: 36px"&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;</value>
+  </data>
+  <data name="100_capitalcampaign_title" xml:space="preserve">
+    <value>Capital Campaign</value>
   </data>
 </root>
