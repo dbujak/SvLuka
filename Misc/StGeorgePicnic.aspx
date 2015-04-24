@@ -76,8 +76,8 @@
                                 Questions: <a href="mailto:stgeorgesdaypicnic@svluka.org">stgeorgesdaypicnic@svluka.org</a>
                         </p>
 
-
-
+                        <img src="Food.png" />
+                        <br /><br /><br />
                         <table border="0" cellpadding="3">
                             <tr>
                                 <td colspan="2" align="center">
@@ -252,11 +252,11 @@
 
 
 
-                        <h3>Please purchase tickets for all food & beverages; cash, check & credit cards accepted.</h3>
+                        <h3>Please purchase tickets for all food & beverages; cash, check & credit cards accepted.</h3><br /><br />
                         <h2>Map</h2>
                         <img src="Picnic%20Map.svg" height="600px" /><br />
                         <br />
-                        <br />
+                        <br /><br /><br /><br /><br /><br />
                     </center>
                 </td>
                 <td valign="top"></td>
