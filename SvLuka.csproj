@@ -305,6 +305,13 @@
     <Compile Include="MailingList\default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Misc\StGeorgePicnic.aspx.cs">
+      <DependentUpon>StGeorgePicnic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Misc\StGeorgePicnic.aspx.designer.cs">
+      <DependentUpon>StGeorgePicnic.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Newsletter\default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -536,6 +543,9 @@
     <Content Include="MailingList\default.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Misc\Picnic Map.jpg" />
+    <Content Include="Misc\Picnic Map.svg" />
+    <Content Include="Misc\StGeorgePicnic.aspx" />
     <Content Include="Newsletter\default.aspx">
       <SubType>Form</SubType>
     </Content>
