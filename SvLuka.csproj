@@ -543,6 +543,8 @@
     <Content Include="MailingList\default.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Misc\dot.gif" />
+    <Content Include="Misc\Food.png" />
     <Content Include="Misc\Picnic Map.jpg" />
     <Content Include="Misc\Picnic Map.svg" />
     <Content Include="Misc\StGeorgePicnic.aspx" />
