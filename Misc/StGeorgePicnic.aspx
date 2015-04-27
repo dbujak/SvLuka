@@ -48,7 +48,8 @@
                         <h2>St. Luke Serbian Orthodox Church<br />
                             10660 River Road<br />
                             Potomac MD 20854</h2>
-
+                        <h2>Free Admission & Parking!</h2>
+                        <h2>(Parking available next door at Sts. Peter & Paul Church)</h2>
                         <p style="font-size: large">
                             <b>Delicious Serbian Food!</b><br />
                             •	Spit-roasted Pig & Lamb<br />
@@ -75,7 +76,7 @@
 
                                 Questions: <a href="mailto:stgeorgesdaypicnic@svluka.org">stgeorgesdaypicnic@svluka.org</a>
                         </p>
-
+                         <p style="font-size: large">Please purchase tickets for all food & beverages; cash, check & credit cards accepted.</p>
                         <img src="Food.png" />
                         <br /><br /><br />
                         <table border="0" cellpadding="3">
@@ -92,7 +93,12 @@
                             <tr>
                                 <td><div class="dots"><span class="field">Burek (baked meat pie in phyllo dough)
                                 </td>
-                                <td>$4
+                                <td>$5
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <img src="burek.jpg" width="250px" />
                                 </td>
                             </tr>
                             <tr>
@@ -102,9 +108,19 @@
                                 </td>
                             </tr>
                             <tr>
+                                <td colspan="2" align="center">
+                                    <img src="zeljanica.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
                                 <td><div class="dots"><span class="field">Gibanica (baked cheese in phyllo dough)
                                 </td>
                                 <td>$4
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <img src="gibanica.jpg" width="250px"  />
                                 </td>
                             </tr>
                             <tr>
@@ -114,21 +130,30 @@
                                 </td>
                             </tr>
                             <tr>
+                                <td colspan="2" align="center">
+                                    <img src="kupusSalata.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
                                 <td><div class="dots"><span class="field">Šopska salata (tomato, cucumber & onion salad with feta cheese)
                                 </td>
                                 <td>$3
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Krompir (roasted potatoes)
+                                <td colspan="2" align="center">
+                                    <img src="sopskaSalata.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div class="dots"><span class="field">Krompir salata (potato salad)
                                 </td>
                                 <td>$3
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Pirinač (rice)
-                                </td>
-                                <td>$3
+                                <td colspan="2" align="center">
+                                    <img src="krompirSalata.jpg" width="250px"  />
                                 </td>
                             </tr>
                             <tr>
@@ -140,13 +165,18 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Ćevapčići (grilled skinless ground meat sausages – 10 pieces)
+                                <td><div class="dots"><span class="field">Ćevapčići (grilled skinless ground meat sausages – 8 pieces)
                                 </td>
                                 <td>$10
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Ćevapčići (half portion – 5 pieces)
+                                <td colspan="2" align="center">
+                                    <img src="cevapi.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div class="dots"><span class="field">Ćevapčići (half portion – 4 pieces)
                                 </td>
                                 <td>$5
                                 </td>
@@ -158,7 +188,12 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Ćevapčići & Ražnjići Combo (5 ćevapčići & 1 skewer)
+                                <td colspan="2" align="center">
+                                    <img src="raznjici.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div class="dots"><span class="field">Ćevapčići & Ražnjići Combo (4 ćevapčići & 1 skewer)
                                 </td>
                                 <td>$10
                                 </td>
@@ -176,6 +211,11 @@
                                 </td>
                             </tr>
                             <tr>
+                                <td colspan="2" align="center">
+                                    <img src="svinjetina.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
                                 <td colspan="2"></td>
                             </tr>
                             <tr>
@@ -190,15 +230,30 @@
                                 </td>
                             </tr>
                             <tr>
+                                <td colspan="2" align="center">
+                                    <img src="krofne.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
                                 <td><div class="dots"><span class="field">Palačinka (crepe)
                                 </td>
                                 <td>$3
                                 </td>
                             </tr>
                             <tr>
+                                <td colspan="2" align="center">
+                                    <img src="palacinke.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
                                 <td><div class="dots"><span class="field">Apple Strudel
                                 </td>
                                 <td>$4
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <img src="strudla.jpg" width="250px"  />
                                 </td>
                             </tr>
                             <tr>
@@ -218,21 +273,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Serbian Beer (Lav, Jelen, Nikšićko)
-                                </td>
-                                <td>$5
-                                </td>
-                            </tr>
-                            <tr>
-                                <td><div class="dots"><span class="field">Imported Beer (Heineken, Corona)
+                                <td><div class="dots"><span class="field">Beer (Serbian, Other Imports & Domestic)
                                 </td>
                                 <td>$4
-                                </td>
-                            </tr>
-                            <tr>
-                                <td><div class="dots"><span class="field">Domestic Beer (Budweiser, Bud Light)
-                                </td>
-                                <td>$3
                                 </td>
                             </tr>
                             <tr>
@@ -245,6 +288,11 @@
                                 <td><div class="dots"><span class="field">Soft Drinks & Water
                                 </td>
                                 <td>$2
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <img src="jelen.png" width="100px" /><img src="niksicko.png" width="100px" /><img src="bip.png" width="100px" /><img src="lav.jpg" width="100px" /><img src="hainiken.gif" width="100px" />
                                 </td>
                             </tr>
                         </table>
