@@ -91,9 +91,9 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td><div class="dots"><span class="field">Burek (baked meat pie in phyllo dough)
+                                <td><div class="dots"><span class="field">Burek (baked phyllo dough pie filled with either cheese or spinach)
                                 </td>
-                                <td>$5
+                                <td>$12
                                 </td>
                             </tr>
                             <tr>
@@ -226,7 +226,7 @@
                             <tr>
                                 <td><div class="dots"><span class="field">Krofna (deep-fried donut)</span></div>
                                 </td>
-                                <td>$3
+                                <td>$2
                                 </td>
                             </tr>
                             <tr>
@@ -269,19 +269,19 @@
                             <tr>
                                 <td><div class="dots"><span class="field">Rakija (Serbian Brandy)
                                 </td>
-                                <td>$4
+                                <td>$5
                                 </td>
                             </tr>
                             <tr>
                                 <td><div class="dots"><span class="field">Beer (Serbian, Other Imports & Domestic)
                                 </td>
-                                <td>$4
+                                <td>$5
                                 </td>
                             </tr>
                             <tr>
                                 <td><div class="dots"><span class="field">Wine (Red, White)
                                 </td>
-                                <td>$4
+                                <td>$5 per glass/$20 per bottle
                                 </td>
                             </tr>
                             <tr>
