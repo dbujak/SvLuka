@@ -237,7 +237,7 @@
                             <tr>
                                 <td><div class="dots"><span class="field">Palačinka (crepe)
                                 </td>
-                                <td>$3
+                                <td>$1
                                 </td>
                             </tr>
                             <tr>
