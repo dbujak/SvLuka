@@ -10,7 +10,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Serb Fest DC 2015</title>
+    <title>SerbFest DC 2015</title>
 
     <style>
         .dots {
@@ -41,9 +41,10 @@
                 <td valign="top"></td>
                 <td valign="top">
                     <center>
-                        <h1>1st Annual Serbian Food & Cultural Festival</h1>
+                        <h1>SerbFest DC 2015</h1>
                         
 
+                        <h2>1st Annual Serbian Food & Cultural Festival</h2><br />
 
                         <h2>Friday, October 2nd     5 – 8 pm</h2>
                         <h2>Saturday, October 3rd     11 am – 9 pm</h2>
@@ -54,7 +55,7 @@
                         <h2>Free Admission & Parking!</h2>
                         <h2>(Parking available next door at Sts. Peter & Paul Church)</h2>
                         <p style="font-size: large">
-                            <b>Delicious Serbian Food!</b><br />
+                            <b>Authentic Serbian Food!!</b><br />
                             •	Spit-roasted Pig & Lamb<br />
                             •	Authentic Serbian Grilled Foods<br />
                             •	Serbian Pastries
@@ -67,18 +68,19 @@
 
                         <p style="font-size: large">
                             <b>Something For Everyone!</b><br />
-                            •	Bounce houses & games for kids<br />
-                            •	Bookstore & boutique<br />
-                            •	Crafts and more
+                            •	Activities<br />
+                            •	Cultural Boutique
                         </p>
 
                         <p style="font-size: large">
-                            <b>Come enjoy our Serbian heritage & culture!<br />
-                                Dobro nam došli!  Welcome!<br />
+                            <b>Come experience our Serbian heritage & culture!!<br />
+                                Welcome!!<br />
                                 <br />
 
-                                Questions: <a href="mailto:stgeorgesdaypicnic@svluka.org">stgeorgesdaypicnic@svluka.org</a>
+                                Questions: <a href="mailto:serbfestdc2015@svluka.org">serbfestdc2015@svluka.org</a>
                         </p>
+
+                        <!--
                          <p style="font-size: large">Please purchase tickets for all food & beverages; cash, check & credit cards accepted.</p>
                         <img src="Food.png" />
                         <br /><br /><br />
@@ -306,6 +308,7 @@
                         <h3>Please purchase tickets for all food & beverages; cash, check & credit cards accepted.</h3><br /><br />
                         <h2>Map</h2>
                         <img src="Picnic%20Map.svg" height="600px" /><br />
+                        -->
                         <br />
                         <br /><br /><br /><br /><br /><br />
                     </center>
