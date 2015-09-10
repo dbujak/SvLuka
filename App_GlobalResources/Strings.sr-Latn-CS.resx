@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="1_title" xml:space="preserve">
     <value>Srpska pravoslavna crkva Sv Luke</value>
@@ -165,7 +165,7 @@
     <value>Raspored sluzbi</value>
   </data>
   <data name="15_donation_page_title" xml:space="preserve">
-    <value>Donacije</value>
+    <value>Porodice koje podržavaju crkvu $1,000 (ili više) godišnje</value>
   </data>
   <data name="16_donation_instruction" xml:space="preserve">
     <value>
