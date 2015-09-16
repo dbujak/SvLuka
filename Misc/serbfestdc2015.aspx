@@ -77,7 +77,7 @@
                                 Welcome!!<br />
                                 <br />
 
-                                Please follow our Facebook page for updates: <a href="https://www.facebook.com/events/689198151211855/" target="_blank">https://www.facebook.com/events/689198151211855/</a>
+                                Please follow our Facebook page for updates: <br /><a href="https://www.facebook.com/events/689198151211855/" target="_blank"><img src="/SvLuka/imgs/facebook/facebook-button.png" height="100px"/></a>
                                 <br />
                                 <br />
                                 Questions: <a href="mailto:serbfestdc2015@svluka.org">serbfestdc2015@svluka.org</a>

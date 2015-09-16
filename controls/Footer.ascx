@@ -38,6 +38,14 @@
 				<asp:Label id="lblCopyright" runat="server">Copyright © 2006 by St. Luke Serbian Orthodox Church. All rights reserved.</asp:Label></P>
 		</TD>
 	</TR>
+	<TR>
+		<TD colSpan="3">
+			<P align="center">
+                <a href="https://www.facebook.com/svluka.srpskapravoslavnacrkva" border="0" target="_blank" ><img src="/SvLuka/imgs/facebook/facebook-logo-small.png" height="40px"/></a>
+
+				</P>
+		</TD>
+	</TR>
 </TABLE>
 
 

@@ -533,6 +533,9 @@
     <Content Include="imgs\click-to-donate-big.gif" />
     <Content Include="imgs\english.gif" />
     <Content Include="imgs\english.jpg" />
+    <Content Include="imgs\facebook\Facebook-Button.png" />
+    <Content Include="imgs\facebook\facebook-logo-small.png" />
+    <Content Include="imgs\facebook\follow-us-on-facebook.png" />
     <Content Include="imgs\flag_scg.gif" />
     <Content Include="imgs\flag_us.gif" />
     <Content Include="imgs\grbpic.gif" />
