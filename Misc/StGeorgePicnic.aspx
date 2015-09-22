@@ -9,6 +9,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 
 <html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="refresh" content="0; url=http://svluka.org/" />
 <head runat="server">
     <title></title>
 
