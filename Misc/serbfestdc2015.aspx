@@ -51,6 +51,7 @@
                             Potomac MD 20854</h2>
                         <h2>Free Admission & Parking!</h2>
                         <h2>(Parking available next door at Sts. Peter & Paul Church)</h2>
+                        <h2>Update: <a href="http://goo.gl/forms/kAFmAJ8TQs" target="_blank">You can pre-order food here</a>.</h2>
                         <p style="font-size: large">
                             <b>Delicious Serbian Food!</b><br />
                             •	Spit-roasted Pig & Lamb<br />
