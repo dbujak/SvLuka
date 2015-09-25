@@ -63,7 +63,7 @@
                             <b>Traditional Entertainment!</b><br />
                             •	Live Music & Dancing<br />
                             •	‘Bezimeni’ Tamburitza Orchestra from Pittsburgh, PA<br />
-                            •	Folklore Dance Group from Holy Trinity Serbian Orthodox Church in Kitchener, Ontario (Canada)<br />
+                            •	‘Stevan Sindjelić’ Folklore Dance Group from Holy Trinity Serbian Orthodox Church (Kitchener, Ontario, Canada)<br />
                             •	DJ Spaz from Chicago, IL<br />
 
                         </p>
@@ -206,6 +206,23 @@ All proceeds will be used entirely for in support of our parish.  <br />
                             <tr>
                                 <td colspan="2" align="center">
                                     <img src="cevapi.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div class="dots"><span class="field">Ražnjići (pork or chicken – 2 skewers)
+                                </td>
+                                <td>$10
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center">
+                                    <img src="raznjici.jpg" width="250px"  />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td><div class="dots"><span class="field">Ćevapčići & Ražnjići Combo (4 ćevapčići & 1 skewer)
+                                </td>
+                                <td>$10
                                 </td>
                             </tr>
                             <tr>
