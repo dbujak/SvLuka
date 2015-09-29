@@ -120,6 +120,7 @@
 </TABLE>
 
 <%-- Subscribe to News part--%>
+<%--If ever wanted to do automatic subscriptions this is the link for it: https://groups.google.com/a/svluka.org/forum/#!forum/parish/join --%>
 <table border=0>
 <tr><td height=10px></td></tr>
 <tr><td align=center><asp:Label ID="lblSubscribe" runat="server" Text="Label" Font-Size=10pt></asp:Label></td></tr>
