@@ -24,10 +24,17 @@ namespace SvLuka
 		protected void Page_Load(object sender, System.EventArgs e)
 		{
 			
-			// Check if language preferences set from before
-			if ( this.Request.Cookies["language"] != null )
+            if (DateTime.Now < Convert.ToDateTime("10/04/2015"))
+            {
+                Response.Redirect("/SvLuka/Misc/serbfestdc2015.aspx");
+            }
+			else 
 			{
-				Response.Redirect("/SvLuka/home.aspx");
+                // Check if language preferences set from before
+                if (this.Request.Cookies["language"] != null)
+                {
+                    Response.Redirect("/SvLuka/home.aspx");
+                }
 			}
 		}
 

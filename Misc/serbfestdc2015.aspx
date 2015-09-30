@@ -42,7 +42,17 @@
                 <td valign="top">
                     <center>
                         <h1>SerbFest DC 2015</h1>
+                        </center>
                         
+                        <h2>Update as of 9/30/2015 4pm</h2>
+                    
+                        <p>Don't let a little rain interfere with your plans to enjoy delicious, Serbian cuisine! 
+                            We are accepting pre-orders for those of you who still want to experience authentic and homemade Serbian delights. 
+                            Orders can be placed <a href="https://docs.google.com/forms/d/1zCQ53TTrIhu9YrdT5HLv-ZXjNZpghrLMWs7DuiCzcG8/viewform?c=0&w=1" target=_blank>here</a> and picked up either on Friday or Saturday.
+If you have any questions, email us at <a href="mailto:serbfestdc2015@svluka.org">serbfestdc2015@svluka.org</a>. Thank you!</p>
+
+                    <center>
+                        <br />
                         <h2>Friday, October 2nd     5 – 8 pm</h2>
                         <h2>Saturday, October 3rd     11 am – 9 pm</h2>
 
