@@ -42,45 +42,43 @@
                 <td valign="top">
                     <center>
                         <h1>SerbFest DC 2015</h1>
-                        </center>
                         
-                        <h2>Update as of 9/30/2015 4pm</h2>
-                    
-                        <p>Don't let a little rain interfere with your plans to enjoy delicious, Serbian cuisine! 
-                            We are accepting pre-orders for those of you who still want to experience authentic and homemade Serbian delights. 
-                            Orders can be placed <a href="https://docs.google.com/forms/d/1zCQ53TTrIhu9YrdT5HLv-ZXjNZpghrLMWs7DuiCzcG8/viewform?c=0&w=1" target=_blank>here</a> and picked up either on Friday or Saturday.
-If you have any questions, email us at <a href="mailto:serbfestdc2015@svluka.org">serbfestdc2015@svluka.org</a>. Thank you!</p>
+                        <h1 style="background-color:yellow">We will be open rain or shine!</h1>
 
-                    <center>
+<h2 style="background-color:yellow">All festival activities will take place inside at our next-door neighbor:<br />
+Saints Peter & Paul Antiochian Orthodox Church<br />
+10620 River Road, Potomac, MD, 20854
+</h2>
+                        <h2>Don’t stay home in the rain - come experience traditional
+	Serbian food, music & culture at DC’s	
+1st Annual Serbian Food & Cultural Festival!
+</h2>
                         <br />
                         <h2>Friday, October 2nd     5 – 8 pm</h2>
                         <h2>Saturday, October 3rd     11 am – 9 pm</h2>
 
-                        <h2>St. Luke Serbian Orthodox Church<br />
-                            10660 River Road<br />
-                            Potomac MD 20854</h2>
+
                         <h2>Free Admission & Parking!</h2>
-                        <h2>(Parking available next door at Sts. Peter & Paul Church)</h2>
-                        <h2>Update: <a href="http://goo.gl/forms/kAFmAJ8TQs" target="_blank">You can pre-order food here</a>.</h2>
+                        <h2><a href="http://goo.gl/forms/kAFmAJ8TQs" target="_blank">You can pre-order food here</a>.</h2>
                         <p style="font-size: large">
                             <b>Delicious Serbian Food!</b><br />
                             •	Spit-roasted Pig & Lamb<br />
-                            •	Authentic Serbian Grilled Foods<br />
-                            •	Serbian Pastries
+                            •	Authentic Serbian Grilled Foods & Side Dishes<br />
+                            •	Serbian Desserts & Pastries
                         </p>
 
                         <p style="font-size: large">
                             <b>Traditional Entertainment!</b><br />
-                            •	Live Music & Dancing<br />
-                            •	‘Bezimeni’ Tamburitza Orchestra from Pittsburgh, PA<br />
-                            •	‘Stevan Sindjelić’ Folklore Dance Group from Holy Trinity Serbian Orthodox Church (Kitchener, Ontario, Canada)<br />
-                            •	DJ Spaz from Chicago, IL<br />
+                            •	Live Music & Dancing on Saturday, Oct. 3rd<br />
+                            •	‘Bezimeni’ Tamburitza Orchestra from Pittsburgh, PA: 12-4 pm<br />
+                            •	‘Stevan Sindjelić’ Folklore Dance Group from Holy Trinity Serbian Orthodox Church (Kitchener, Ontario, Canada): 4-5 pm<br />
+                            •	DJ Spaz from Chicago, IL: 5-9 pm<br />
 
                         </p>
 
                         <p style="font-size: large">
                             <b>Something For Everyone!</b><br />
-                        •	Children’s area with bounce houses & other activities<br />
+                        •	Children’s activities<br />
                         •	Bookstore & boutique<br />
                         •	Crafts and more<br />
                         </p>
