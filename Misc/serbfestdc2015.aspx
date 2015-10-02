@@ -340,6 +340,8 @@ All proceeds will be used entirely for in support of our parish.  <br />
                         <img src="Picnic%20Map.svg" height="600px" /><br />--%>
                         
                         <br />
+                        <img src="Giant_LogoH-color.JPG" width="200px" />
+                        <h2>Thank you to our sponsor - Giant Food</h2>
                         <br /><br /><br /><br /><br /><br />
                     </center>
                 </td>
