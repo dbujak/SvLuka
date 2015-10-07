@@ -29,8 +29,24 @@
 					<TD vAlign="top"></TD>
 					<TD vAlign="top">
 						<P align="left"><BR>
-							<uc1:Prevod id="Prevod1" runat="server"></uc1:Prevod>
 							<asp:Label id="lblFolklore" runat="server">Folklor</asp:Label></P>
+                        <center>
+                            <img src="Folklore.png" /></center>
+
+<%--<iframe id="forum_embed"
+   src="javascript:void(0)"
+   scrolling="no"
+   frameborder="0"
+   width="900"
+   height="700">
+ </iframe>
+ <script type="text/javascript">
+     document.getElementById('forum_embed').src =
+        'https://groups.google.com/a/svluka.org/forum/embed/?place=forum/folklore'
+        + '&showsearch=true&showpopout=true&showtabs=false'
+        + '&parenturl=' + encodeURIComponent(window.location.href);
+ </script> --%>
+
 					</TD>
 					<TD vAlign="top"></TD>
 					<TD vAlign="top">
