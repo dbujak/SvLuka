@@ -40,19 +40,44 @@ namespace SvLuka.Donations
 
             this.lblList.Text = "<div class='newspaper'>";
 
+            int goal = 39000;
             int counter = 0;
             int total = 0;
+            string backgroundColor = "";
             foreach (System.Data.DataRow row in DT.Rows)
             {
                 counter = counter + 1;
-                this.lblList.Text = this.lblList.Text + "<div counter=" + counter + ">" + row["LastName"] + ", " + row["FirstName"] + "</div>" ;
+                //if (counter % 2 == 0)
+                //{
+                //    backgroundColor = "background-color: lightyellow;";
+                //}
+                //else {
+                //    backgroundColor = "";
+                //}
+                this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold" + backgroundColor + "'>" + row["LastName"] + ", " + row["FirstName"] + "</div>";
                 total = total + Convert.ToInt32(row["Amount"]);
 
             }
 
             this.lblList.Text = this.lblList.Text + "</div>";
 
-            this.lblProgress.Text = "<img border='0' alt='Goal $38,000 / month; currently $" + total + " / month' src='http://thermometer.fund-raising-ideas-center.com/thermometer.php?currency=dollar&goal=38000&current=" + total + "&color=red&size=large'>";
+            int progressPercent = Convert.ToInt16(Convert.ToDecimal(total) / goal * 100);
+            this.lblProgress.Text = @"<div class='donation-meter'>
+  <strong>Monthly Goal</strong>
+  <strong class='goal'>$" + goal.ToString("###,###") + @"</strong>
+  <span class='glass'>
+      <strong class='total' style='bottom: " + progressPercent + "%'>$" + total.ToString("###,###") + @"</strong>
+      <span class='amount' style='height: " + progressPercent + @"%'></span>
+  </span>
+  <div class='bulb'>
+      <span class='red-circle'></span>
+      <span class='filler'>
+          <span></span>
+      </span>
+  </div>
+</div>";
+
+            //this.lblProgress.Text = "<img border='0' alt='Goal $39,000 / month; currently $" + total + " / month' src='http://thermometer.fund-raising-ideas-center.com/thermometer.php?currency=dollar&goal=38000&current=" + total + "&color=red&size=large'>";
 
 
 //            this.lblInstuctions.Text = HttpContext.GetGlobalResourceObject("Strings", "16_donation_instruction").ToString();
@@ -60,11 +85,12 @@ namespace SvLuka.Donations
 
 <p>Naturally, our monthly expenses are much higher now with new mortgage than before. 
 
-<p>To have smooth operations of the church (pay for mortgage, utilities, priest, candles etc.) we need $38,000 per month. Right now we receive " + total.ToString("C") + @". 
+<p>To have smooth operations of the church (pay for mortgage, utilities, priest, candles etc.) we need $" + goal.ToString("###,###") + @". Right now we receive " + total.ToString("C") + @". 
 
-<p>This goal is easily attainable! If you don’t see your name in the list below please do the following 2 things:<br />
-1.	sign up to give at least $90 / month (it takes less than 3 minutes)<br />
-2.	call 2 other families that are not on the list below  and have them do the same.
+<p>This goal is easily attainable! If you don’t see your name in the list below please do the following 2 things:
+<ol>
+<li><a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank>sign up</a> to give at least $90 / month (it takes less than 2 minutes)</li>
+<li>call 2 other families that are not on the list below  and have them do the same.</li></ol>
 
 <p>For vast majority of people working in America $90 per month is less than 1% of household income. 
 

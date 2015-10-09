@@ -518,6 +518,7 @@
     <Content Include="Folklor\default.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Folklor\Folklore.png" />
     <Content Include="Forms\default.aspx">
       <SubType>Form</SubType>
     </Content>
