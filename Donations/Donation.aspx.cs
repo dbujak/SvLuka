@@ -81,22 +81,45 @@ namespace SvLuka.Donations
 
 
 //            this.lblInstuctions.Text = HttpContext.GetGlobalResourceObject("Strings", "16_donation_instruction").ToString();
-            this.lblInstuctions.Text = @"<p>As many of you know after many years and problems we built our Church and Hall (<a href='/SvLuka/Construction/'>see here for more info and pictures</a>).
+            this.lblInstuctions.Text = @"
+<h2>$90/Month Fundraising Campaign</h2>
+<em>“For where your treasure is, there your heart will be also.” [Luke 12:34]</em>
 
-<p>Naturally, our monthly expenses are much higher now with new mortgage than before. 
-
-<p>To have smooth operations of the church (pay for mortgage, utilities, priest, candles etc.) we need $" + goal.ToString("###,###") + @". Right now we receive " + total.ToString("C") + @". 
-
-<p>This goal is easily attainable! If you don’t see your name in the list below please do the following 2 things:
+<h3>The Facts</h3>
 <ol>
-<li><a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank>sign up</a> to give at least $90 / month (it takes less than 2 minutes)</li>
-<li>call 2 other families that are not on the list below  and have them do the same.</li></ol>
+<li>After many years and challenges we completed our Church and Hall in September of 2014 (<a href='http://svluka.org/SvLuka/Construction/'>see here</a> for more info and pictures).</li>
+<li>Our monthly expenses are significantly higher now with the new facility than before (higher mortgage, utilities, etc.).</li>
+<li>We <b><u>need</b></u> $30,000/month to cover our projected expenses</li>
+<li>We are <b><u>currently</b></u> receiving just over $21,000 a month.    </li>
+</ol>
 
-<p>For vast majority of people working in America $90 per month is less than 1% of household income. 
+<h3>The Goal</h3>
+<p>We have set a target of $39,000 a month in revenue to cover our expenses and to raise additional funds to pay down our loan of $2,212,000.</p>
 
-<p>Please join families below and make sure we have our Serbian Orthodox Church to worship God regularly, for baptisms, marriages, burials and all other spiritual needs.
+<h3>What Is Being Asked of You & Your Family</h3>
+<ol>
+<li>Sign up to donate $90 a month; we have created a very simple <a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank>one-page form</a> for this campaign; on this form, you can sign up for monthly payments via credit card or electronic transfer from your bank account.</li>
+<li>Equally, if not more importantly: as soon as we publish a list of donors (on our church web site and in the church hall), call your friends/kumovi/family members that are not on the list and get at least 2 of them sign up to donate $90/month. </li>
+</ol>
 
-<p>Giving at least $90 per month to church is way better investment than college, 401K or any other funds or earthly treasures you might have. For where your treasure is, there your heart will be also [Luke 12:34]. Make sure your treasure is where no thief comes near nor moth destroys.";
+<h3>Interesting Tidbits</h3>
+<ol>
+<li>We are asking for donations in units of $90/month – this is equivalent to $3/day (the cost of coffee at Starbuck’s). </li>
+<li>For the vast majority of households in our area, this represents less than 1% of gross household income.</li>
+<li>For 2014, we sent out 286 tax letters; only 54 of those were for over $90/month.</li>
+<li>We have almost 600 people on our mailing list, over 500 on our e-mail list, and many thousands more in the Baltimore/DC area – we can do better!</li>
+</ol>
+
+<h3>Where Is Your Heart?</h3>
+<p>Regardless of your income, if the church is the last item on your budget list (after retirement funds, kid’s college funds, vacation savings, house savings, car savings,  etc.) there probably will be no funds left for the church...</p>
+
+<p>Budgeting at least $90 per month to help our church as the 1st item on your budget list is a way better investment than college, 401K and any other funds and earthly treasures you might have - all put together.</p>
+
+<p>By supporting the church we will continue to have our Serbian Orthodox Church to worship God regularly, come together for fellowship & social activities, to baptize our children, to celebrate the sacrament of holy matrimony, to conduct memorial services & funerals and all other spiritual needs.</p>
+
+
+
+";
 
 
 
