@@ -165,22 +165,44 @@
     <value>Raspored sluzbi</value>
   </data>
   <data name="15_donation_page_title" xml:space="preserve">
-    <value>Porodice koje podržavaju crkvu $90 (ili više) mjesecno</value>
+    <value>Kampanja $90 mjesečno</value>
   </data>
   <data name="16_donation_instruction" xml:space="preserve">
-    <value>
-      &lt;p&gt;Na zalost bili smo prinudjeni da odkazemo donacije putem Interneta. Odaziv je bio jako slab, oko $200 mjesecno u prosjeku, a sa obzirom da se ovaj servis morao placati svakog mjeseca bez obzira na kolicinu doniranih sretstava, odlucili smo da prestanemo sa ovim vidom donacija.
+    <value>&lt;h2&gt;Kampanja $90 mjesečno &lt;/h2&gt;
+&lt;em&gt;“Jer gdje je vaše blago, onde će biti i vaše srce“. [Luka 12:35]&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;
 
-      &lt;p&gt;Molimo vas da nam posaljete namjerenu donaciju putem poste na nasu dole navedenu adresu.
-
-      &lt;p&gt;Hvala velika!
-
-      &lt;p&gt;10660 River Road&lt;br&gt;
-      Potomac, Maryland 20854
-    </value>
+&lt;h3&gt;Šta se traži od Vas&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Prijavite se da donirate $90 mjesečno; napravili smo &lt;a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank&gt;vrlo jednostavnu stranicu&lt;/a&gt; za ovu kampanju; na toj stranici, možete se prijaviti za mjesečne donacije preko kreditne kartice ili bankovnog računa&lt;/li&gt;
+&lt;li&gt;Možda još važnije: molimo vas da pozovete prijatelje/kumove/poznanike koji nisu na listi ispod i da ih ubijedite (bar dvoje) da urade isto što i vi.&lt;/li&gt;
+&lt;/ol&gt;</value>
   </data>
-  <data name="17_donation_select_amount" xml:space="preserve">
-    <value>Izaberite sumu:</value>
+  <data name="17_donation_instruction_more" xml:space="preserve">
+    <value>&lt;h3&gt;Činjenice&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Nakon mnogo godina i raznih izazova završili smo izgradnju crkve i sale u septembru 2014. godine (&lt;a href='http://svluka.org/SvLuka/Construction/' target=_blank&gt;ovdje&lt;/a&gt; možete pročitati detaljno).&lt;/li&gt;
+&lt;li&gt;Sada su nam mjesečni troškovi mnogo veći nego prije izgradnje (veći je zajam od banke, komnunalije itd)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;u&gt;Potrebno nam je&lt;/b&gt;&lt;/u&gt; $30,000 mjesečno za sve izdatke&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;u&gt;Trenutno&lt;/b&gt;&lt;/u&gt; se prikupi u donacijama dbTotalAMonth mjesečno.    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;Cilj&lt;/h3&gt;
+&lt;p&gt;Postavili smo za cilj da skupimo $39,000 mjesečno u donacijama da bi mogli da poplaćamo troškove i skupimo malu rezervu da bi prije odplatili zajam, koji sada iznosi $2,212,000.&lt;/p&gt;
+
+&lt;h3&gt;Zanimljivosti&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Predložene donacije od $90 mjesečno su $3 na dan (toliko košta kafa u Starbaksu)&lt;/li&gt;
+&lt;li&gt;Za ogromnu većinu porodica u našoj regiji, ovo predstavlja manje od 1% kućnih prihoda.&lt;/li&gt;
+&lt;li&gt;U 2014, poslali smo 286 pisama za takse; svega 54 pisma su bila sa iznosima iznad $90 mjesečno.&lt;/li&gt;
+&lt;li&gt;Imamo adrese preko 600 porodica, i preko 500 emailova na našim listama i na hiljade srba pravoslavaca u našoj regiji - možemo sigurno mnogo više da pomognemo!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;Gdje Vam je srce?&lt;/h3&gt;
+&lt;p&gt;Kad organizujete kućni budžet, bez obzira da li su vam prihodi veliki ili mali, ako vam je crkva “zadnja rupa na sviralu” (iza štednje za penziju, škole, kuće, raznih putovanja itd), vjerovatno neće ništa ni ostati za crkvene donacije.&lt;/p&gt;
+
+&lt;p&gt;Ali, ako odvojite prvo bar $90 mjesečno za crkvu, to će vam biti neuporedivo unosnije i isplativije ulaganje nego u bilo koji fond za školu, penziju i bilo koja druga blaga ovog svijeta - zajedno.&lt;/p&gt;
+
+&lt;p&gt;Ako svi zajedno pomažemo crkvu, a ne uzdamo se da će neko drugi to da radi za nas, održaćemo srpsku pravoslavnu crkvu u našem gradu. Imaćemo gdje da se družimo, krstimo, vjenčavamo našu djecu, sahranjujemo najmilije, služimo parastose. Imaćemo našu crkvu za sve duhovne potrebe.&lt;/p&gt;</value>
   </data>
   <data name="18_donation_missing" xml:space="preserve">
     <value>Zaboravili ste da uneste  prilog</value>
