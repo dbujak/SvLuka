@@ -129,10 +129,6 @@
                                 <asp:Label ID="lblProgress" runat="server" Text=""></asp:Label></td>
                             <td valign="top">
                                 <asp:Label ID="lblList" runat="server" Text="List of Families" ></asp:Label>
-                                <div style="text-align: center; width: 100%; padding-top: 20px">
-                                    <a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target="_blank">
-                                        <img border="0" src="/SvLuka/imgs/click-to-donate-big.gif"></a>
-                                </div>
                             </td>
                         </tr>
 
