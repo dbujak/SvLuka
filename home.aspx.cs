@@ -54,22 +54,40 @@ namespace SvLuka
             string lang = "";
             string field = "";
             if (Request.Cookies["language"] != null) { lang = Request.Cookies["language"].Value; }
+
+            // set up google group embeded part
+            this.parishGoogleGroup.Text = @"<iframe id='forum_embed' src='javascript:void(0)' scrolling='no' frameborder='0' width='100%' height='1000'></iframe>
+              <script type='text/javascript'>
+            document.getElementById('forum_embed').src =
+                   'https://groups.google.com/a/svluka.org/forum/embed/?place=forum/parish' 
+                   + '&showsearch=false&hideforumtitle=true'
+                   + '&showpopout=true&showtabs=false' 
+                   + '&parenturl=' + encodeURIComponent(window.location.href)
+";
+
+        
             if (lang == "sr-SP-Cyrl" || lang == "sr-Cyrl-CS")	// Cirilica
             {
                 field = "WN_Cirilica";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang);
+
+                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=sr';";
             }
             else if (lang == "sr-SP-Latn" || lang == "sr-Latn-CS")	// Latinica
             {
                 field = "WN_Latinica";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang);
+                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=bs';";
             }
             else	// Engleski
             {
                 field = "WN_English";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-US");
+                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=en';";
             }
 
+            this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + @"
+                </script>";
 
             this.Announcments.Text = this.Announcments.Text + "<table border=0 cellpadding=3>";
 
@@ -101,6 +119,9 @@ namespace SvLuka
             this.lblTroparon.Text = HttpContext.GetGlobalResourceObject("Strings", "2_home_religius").ToString();
 
             this.lblHomeMsg.Text = HttpContext.GetGlobalResourceObject("Strings", "8_home_text").ToString();
+
+
+            
 		}
 
 		#region Web Form Designer generated code

@@ -32,7 +32,9 @@
 							<asp:Label id="lblFolklore" runat="server">Folklor</asp:Label></P>
                         <center>
                             <img src="Folklore.png" /></center>
-
+                        <p align="left">
+                            <asp:Label id="googleGroup" runat="server"></asp:Label>
+                        </p>
 <%--<iframe id="forum_embed"
    src="javascript:void(0)"
    scrolling="no"

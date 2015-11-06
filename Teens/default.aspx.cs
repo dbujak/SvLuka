@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Data;
@@ -26,7 +26,38 @@ namespace SvLuka.Teens
 
             this.Header1.lblPageTitle.Text = HttpContext.GetGlobalResourceObject("Strings", "35_teenpage_title").ToString();
             this.lblTeenPage.Text = HttpContext.GetGlobalResourceObject("Strings", "36_teenpage_text").ToString();
-		}
+
+            string lang = "";
+
+            if (Request.Cookies["language"] != null) { lang = Request.Cookies["language"].Value; }
+
+            // set up google group embeded part
+            this.googleGroup.Text = @"<iframe id='forum_embed' src='javascript:void(0)' scrolling='no' frameborder='0' width='100%' height='1000'></iframe>
+              <script type='text/javascript'>
+            document.getElementById('forum_embed').src =
+                   'https://groups.google.com/a/svluka.org/forum/embed/?place=forum/sundayschool' 
+                   + '&showsearch=false&hideforumtitle=true'
+                   + '&showpopout=true&showtabs=false' 
+                   + '&parenturl=' + encodeURIComponent(window.location.href)
+";
+
+
+            if (lang == "sr-SP-Cyrl" || lang == "sr-Cyrl-CS")	// Cirilica
+            {
+                this.googleGroup.Text = "<h2>Обавјештења</h2>" + this.googleGroup.Text + "+ '&hl=sr';";
+            }
+            else if (lang == "sr-SP-Latn" || lang == "sr-Latn-CS")	// Latinica
+            {
+                this.googleGroup.Text = "<h2>Obavjestenja</h2>" + this.googleGroup.Text + "+ '&hl=bs';";
+            }
+            else	// Engleski
+            {
+                this.googleGroup.Text = "<h2>Announcements</h2>" + this.googleGroup.Text + "+ '&hl=en';";
+            }
+
+            this.googleGroup.Text = this.googleGroup.Text + @"
+                </script>";
+        }
 
 		#region Web Form Designer generated code
 		override protected void OnInit(EventArgs e)

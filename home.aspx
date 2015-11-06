@@ -34,6 +34,7 @@
 						<P align="left">
 							<asp:Label id="Announcments" runat="server" >Announcments</asp:Label>
 							<asp:Label id="lblHomeMsg" runat="server" >Message</asp:Label></P>
+                            <asp:Label id="parishGoogleGroup" runat="server"></asp:Label>
 					</TD>
 					<TD vAlign="top"></TD>
 					<TD vAlign="top">

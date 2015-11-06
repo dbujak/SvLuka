@@ -27,8 +27,12 @@
 				<TR>
 					<TD vAlign="top"></TD>
 					<TD vAlign="top">
-						<asp:Label id="lblTeenPage" runat="server">Teen Page</asp:Label></TD>
-					<TD vAlign="top"></TD>
+						<asp:Label id="lblTeenPage" runat="server">Teen Page</asp:Label>
+                        <p align="left">
+                            <asp:Label id="googleGroup" runat="server"></asp:Label>
+                        </p>
+                    </TD>
+                    <TD vAlign="top"></TD>
 					<TD vAlign="top">
 						<uc1:Right id="Right1" runat="server"></uc1:Right></TD>
 				</TR>
