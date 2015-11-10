@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Data;
@@ -71,19 +71,19 @@ namespace SvLuka
                 field = "WN_Cirilica";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang);
 
-                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=sr';";
+                this.parishGoogleGroup.Text = "<h3>Обавјештења путем емаила (од септембра 7. 2015 до данас)</h3>" + this.parishGoogleGroup.Text + "+ '&hl=sr';";
             }
             else if (lang == "sr-SP-Latn" || lang == "sr-Latn-CS")	// Latinica
             {
                 field = "WN_Latinica";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang);
-                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=bs';";
+                this.parishGoogleGroup.Text = "<h3>Obavještenja putem emaila (od septembra 7. 2015 do danas)</h3>" + this.parishGoogleGroup.Text + "+ '&hl=bs';";
             }
             else	// Engleski
             {
                 field = "WN_English";
                 Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-US");
-                this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + "+ '&hl=en';";
+                this.parishGoogleGroup.Text = "<h3>Parish Announcements via E-mail (Archived since Sep 7th 2015)</h3>" + this.parishGoogleGroup.Text + "+ '&hl=en';";
             }
 
             this.parishGoogleGroup.Text = this.parishGoogleGroup.Text + @"

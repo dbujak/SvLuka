@@ -14,9 +14,9 @@
     <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
     <style type="text/css">
         .newspaper {
-            -webkit-column-count: 5; /* Chrome, Safari, Opera */
-            -moz-column-count: 5; /* Firefox */
-            column-count: 5;
+            -webkit-column-count: 4; /* Chrome, Safari, Opera */
+            -moz-column-count: 4; /* Firefox */
+            column-count: 4;
         }
     </style>
     <style type="text/css">
@@ -128,6 +128,7 @@
                             <td valign="top" width="250px" align="">
                                 <asp:Label ID="lblProgress" runat="server" Text=""></asp:Label></td>
                             <td valign="top">
+                                <h3><asp:Label ID="lblListHeader" runat="server" Text="<%$ Resources:Strings, 18_donation_list_header %>"></asp:Label></h3>
                                 <asp:Label ID="lblList" runat="server" Text="List of Families" ></asp:Label>
                             </td>
                         </tr>

@@ -593,6 +593,7 @@
     <Content Include="Photos\2013\SvSava.htm" />
     <Content Include="Photos\2014\StLukeSlava.htm" />
     <Content Include="Photos\2014\CrossBlessing.htm" />
+    <Content Include="Photos\2015\RummageSale.htm" />
     <Content Include="Photos\default.aspx">
       <SubType>Form</SubType>
     </Content>

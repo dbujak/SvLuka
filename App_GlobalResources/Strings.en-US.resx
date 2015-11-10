@@ -132,7 +132,7 @@
     <value>St Luke Church</value>
   </data>
   <data name="4_home" xml:space="preserve">
-    <value>Capital Campaign</value>
+    <value>$90 / Month Campaign</value>
   </data>
   <data name="5_whatsnew" xml:space="preserve">
     <value>What's New</value>
@@ -173,7 +173,7 @@
 
 &lt;h3&gt;What Is Being Asked of You &amp; Your Family&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Sign up to donate $90 a month; we have created a very simple &lt;a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank&gt;one-page form&lt;/a&gt; for this campaign; on this form, you can sign up for monthly payments via credit card or electronic transfer from your bank account.&lt;/li&gt;
+&lt;li&gt;Sign up to donate $90 a month; we have created a very simple &lt;a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank&gt;one-page form&lt;/a&gt; for this campaign; on this form, you can sign up for monthly payments via credit card or electronic transfer from your bank account. If $90/month is too much for you, we'll be grateful for any amount you can contribute.&lt;/li&gt;
 &lt;li&gt;Equally, if not more importantly, call your friends/kumovi/family members that are not on the list below and get at least 2 of them to sign up to donate $90/month. &lt;/li&gt;
 &lt;/ol&gt;</value>
   </data>
@@ -200,8 +200,8 @@
 
 &lt;p&gt;By supporting the church we will continue to have our Serbian Orthodox Church to worship God regularly, come together for fellowship &amp; social activities, to baptize our children, to celebrate the sacrament of holy matrimony, to conduct memorial services &amp; funerals and all other spiritual needs.&lt;/p&gt;</value>
   </data>
-  <data name="18_donation_missing" xml:space="preserve">
-    <value>You forgot to choose donation.</value>
+  <data name="18_donation_list_header" xml:space="preserve">
+    <value>Families supporting our Church at least $90/month:</value>
   </data>
   <data name="19_donation_notvalid" xml:space="preserve">
     <value>That is not a valid amount.</value>
@@ -803,6 +803,11 @@
   </data>
   <data name="50_photospage_text" xml:space="preserve">
     <value>&lt;h4&gt;
+    2015&lt;ul&gt;
+              &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2015/RummageSale.htm')"&gt;Church Rummage Sale - Nov 7th&lt;/a&gt; &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
     2014&lt;ul&gt;
               &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2014/StLukeSlava.htm')"&gt;Bishop Mitrofan blesses Kolac for St. Luke's Slava&lt;/a&gt; &lt;/li&gt;
               &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2014/CrossBlessing.htm')"&gt;Bishop Mitrofan blesses the Cross&lt;/a&gt; &lt;/li&gt;

@@ -132,7 +132,7 @@
     <value>Crkva Sv Luke</value>
   </data>
   <data name="4_home" xml:space="preserve">
-    <value>Kampanja za Crkvu</value>
+    <value>Kampanja $90 mjesečno</value>
   </data>
   <data name="5_whatsnew" xml:space="preserve">
     <value>Novosti</value>
@@ -173,7 +173,7 @@
 
 &lt;h3&gt;Šta se traži od Vas&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Prijavite se da donirate $90 mjesečno; napravili smo &lt;a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank&gt;vrlo jednostavnu stranicu&lt;/a&gt; za ovu kampanju; na toj stranici, možete se prijaviti za mjesečne donacije preko kreditne kartice ili bankovnog računa&lt;/li&gt;
+&lt;li&gt;Prijavite se da donirate $90 mjesečno; napravili smo &lt;a href='https://secure.etransfer.com/SLSOC/Campaign.cfm' target=_blank&gt;vrlo jednostavnu stranicu&lt;/a&gt; za ovu kampanju; na toj stranici, možete se prijaviti za mjesečne donacije preko kreditne kartice ili bankovnog računa. Ako ne možete da priuštite $90/mjesečno, zahvalni smo vam koliko god možete da odvojite.&lt;/li&gt;
 &lt;li&gt;Možda još važnije: molimo vas da pozovete prijatelje/kumove/poznanike koji nisu na listi ispod i da ih ubijedite (bar dvoje) da urade isto što i vi.&lt;/li&gt;
 &lt;/ol&gt;</value>
   </data>
@@ -200,8 +200,8 @@
 
 &lt;p&gt;Ako svi zajedno pomažemo crkvu, a ne uzdamo se da će neko drugi to da radi za nas, održaćemo srpsku pravoslavnu crkvu u našem gradu. Imaćemo gdje da se družimo, krstimo, vjenčavamo našu djecu, sahranjujemo najmilije, služimo parastose. Imaćemo našu crkvu za sve duhovne potrebe.&lt;/p&gt;</value>
   </data>
-  <data name="18_donation_missing" xml:space="preserve">
-    <value>Zaboravili ste da uneste  prilog</value>
+  <data name="18_donation_list_header" xml:space="preserve">
+    <value>Porodice koje podržavaju crkvu sa $90 mjesečno i više:</value>
   </data>
   <data name="19_donation_notvalid" xml:space="preserve">
     <value>Niste unijeli dobar broj.</value>
@@ -757,6 +757,11 @@
   </data>
   <data name="50_photospage_text" xml:space="preserve">
     <value>&lt;h4&gt;
+2015&lt;ul&gt;
+&lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2015/RummageSale.htm')"&gt;Prva buvlja pijaca - nov. 7.&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/h4&gt;
+&lt;h4&gt;
 2014&lt;ul&gt;
 &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2014/StLukeSlava.htm')"&gt;Vladika Mitrofan blagosilja slavksi kolač za Slavu Sv. Luke&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;&lt;a href="javascript:void(0)" onclick="myOpen('2014/CrossBlessing.htm')"&gt;Vladika Mitrofan blagosilja crkveni krst&lt;/a&gt; &lt;/li&gt;

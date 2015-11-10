@@ -54,7 +54,12 @@ namespace SvLuka.Donations
                 //else {
                 //    backgroundColor = "";
                 //}
-                this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold" + backgroundColor + "'>" + row["LastName"] + ", " + row["FirstName"] + "</div>";
+                this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold" + backgroundColor + "'>" + row["LastName"] + ", " + row["FirstName"];
+                if (row["SpouseName"] != System.DBNull.Value)
+                {
+                    this.lblList.Text = this.lblList.Text + " and " + row["SpouseName"];
+                }
+                    this.lblList.Text = this.lblList.Text + "</div>";
                 total = total + Convert.ToInt32(row["Amount"]);
 
             }
