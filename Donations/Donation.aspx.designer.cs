@@ -31,49 +31,13 @@ namespace SvLuka.Donations {
         protected global::SvLuka.controls.MainNavBar MainNavBar1;
         
         /// <summary>
-        /// lblInstuctions control.
+        /// Month control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblInstuctions;
-        
-        /// <summary>
-        /// lblProgress control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblProgress;
-        
-        /// <summary>
-        /// lblListHeader control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblListHeader;
-        
-        /// <summary>
-        /// lblList control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblList;
-        
-        /// <summary>
-        /// lblMoreInfo control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblMoreInfo;
+        protected global::SvLuka.Donations._90Month._90Month Month;
         
         /// <summary>
         /// Footer1 control.

@@ -4,6 +4,8 @@
 <%@ Register TagPrefix="uc1" TagName="Footer" Src="../controls/Footer.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="Right" Src="../controls/Right.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="MainNavBar" Src="../controls/MainNavBar.ascx" %>
+<%@ Register Src="~/Donations/90Month/90Month.ascx" TagPrefix="uc1" TagName="Month" %>
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 <html>
 <head>
@@ -12,91 +14,6 @@
     <meta content="C#" name="CODE_LANGUAGE">
     <meta content="JavaScript" name="vs_defaultClientScript">
     <meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
-    <style type="text/css">
-        .newspaper {
-            -webkit-column-count: 4; /* Chrome, Safari, Opera */
-            -moz-column-count: 4; /* Firefox */
-            column-count: 4;
-        }
-    </style>
-    <style type="text/css">
-        .donation-meter {
-            margin-left: 30px;
-            width: 100px;
-            color:black;
-            text-decoration:none;
-        }
-
-        .glass {
-            background: #e5e5e5;
-            border-radius: 100px 100px 0 0;
-            display: block;
-            height: 300px;
-            margin: 0 35px 10px;
-            padding: 5px;
-            position: relative;
-            width: 20px;
-        }
-
-
-        .amount {
-            background: #f34e54;
-            border-radius: 100px;
-            display: block;
-            width: 20px;
-            position: absolute;
-            bottom: 5px;
-        }
-
-        strong {
-            display: block;
-            text-align: center;
-        }
-
-        .goal {
-            font-size: 30px;
-        }
-
-        .total {
-            font-size: 16px;
-            position: absolute;
-            right: 35px;
-        }
-
-
-        .bulb {
-            background: #e5e5e5;
-            border-radius: 100px;
-            display: block;
-            height: 50px;
-            margin: 0 35px 10px;
-            padding: 5px;
-            position: relative;
-            top: -20px;
-            right: 15px;
-            width: 50px;
-        }
-
-        .red-circle {
-            background: #f34e54;
-            border-radius: 100px;
-            display: block;
-            height: 50px;
-            width: 50px;
-        }
-
-        .filler {
-            background: #f34e54;
-            border-radius: 100px 100px 0 0;
-            display: block;
-            height: 30px;
-            width: 20px;
-            position: relative;
-            top: -65px;
-            right: -15px;
-            z-index: 30;
-        }
-    </style>
 
 </head>
 <body>
@@ -118,24 +35,7 @@
             <tr>
                 <td valign="top"></td>
                 <td valign="top">
-                    <p align="left">
-                        <asp:Label ID="lblInstuctions" runat="server">Insturctions</asp:Label>
-                    </p>
-                    <br />
-                    <br />
-                    <table border="0" width="100%">
-                        <tr>
-                            <td valign="top" width="250px" align="">
-                                <asp:Label ID="lblProgress" runat="server" Text=""></asp:Label></td>
-                            <td valign="top">
-                                <h3><asp:Label ID="lblListHeader" runat="server" Text="<%$ Resources:Strings, 18_donation_list_header %>"></asp:Label></h3>
-                                <asp:Label ID="lblList" runat="server" Text="List of Families" ></asp:Label>
-                            </td>
-                        </tr>
-
-                    </table>
-                    <p>&nbsp;</p>
-                    <p><asp:Label ID="lblMoreInfo" runat="server" Text=""></asp:Label></p>
+                    <uc1:Month runat="server" ID="Month" />
                     <p>&nbsp;</p>
                     <p>&nbsp;</p>
                 </td>

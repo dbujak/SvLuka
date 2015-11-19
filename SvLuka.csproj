@@ -201,6 +201,20 @@
     <Compile Include="Directions\default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Donations\90Month\90Month.ascx.cs">
+      <DependentUpon>90Month.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\90Month\90Month.ascx.designer.cs">
+      <DependentUpon>90Month.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\90Month\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\90Month\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Donations\default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -485,6 +499,8 @@
     <Content Include="Directions\default.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Donations\90Month\90Month.ascx" />
+    <Content Include="Donations\90Month\default.aspx" />
     <Content Include="Donations\default.aspx">
       <SubType>Form</SubType>
     </Content>
