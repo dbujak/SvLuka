@@ -5,9 +5,9 @@
 <%@ Register Src="controls/Footer.ascx" TagName="Footer" TagPrefix="uc3" %>
 <%@ Register Src="controls/Right.ascx" TagName="Right" TagPrefix="uc4" %>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
 
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<html>
 <head runat="server">
     <title>Sv Luka</title>
 </head>

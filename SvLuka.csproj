@@ -44,6 +44,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <TargetFrameworkProfile />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>bin\</OutputPath>
@@ -235,6 +236,13 @@
     </Compile>
     <Compile Include="Donations\Money.aspx.designer.cs">
       <DependentUpon>Money.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\NewLoan2018.aspx.cs">
+      <DependentUpon>NewLoan2018.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\NewLoan2018.aspx.designer.cs">
+      <DependentUpon>NewLoan2018.aspx</DependentUpon>
     </Compile>
     <Compile Include="Donations\NewLoan\default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
@@ -524,6 +532,7 @@
     <Content Include="Donations\Money.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Donations\NewLoan2018.aspx" />
     <Content Include="Donations\NewLoan\default.aspx" />
     <Content Include="Donations\NewLoan\NewLoan.ascx" />
     <Content Include="Donations\Prayer.aspx">
@@ -832,6 +841,7 @@
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\June2006.pdf" />
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\Mart 2007.pdf" />
     <None Include="Newsletter\Newsletters\ChurchNewsletter\PDFs\November2005.pdf" />
+    <None Include="SvLuka_Prod.pubxml" />
     <None Include="WhatsNew\SvLukaSchedules.mdb" />
   </ItemGroup>
   <ItemGroup>

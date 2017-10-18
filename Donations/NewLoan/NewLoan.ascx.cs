@@ -155,15 +155,14 @@ namespace SvLuka.Donations.NewLoan
                 </div>
                 </a>";
 
-            this.lblHeader.Text = HttpContext.GetGlobalResourceObject("Strings", "16_donation_header").ToString();
+            this.lblHeader.Text = HttpContext.GetGlobalResourceObject("Strings", "16_NewLoan_header").ToString();
 
-            this.lblWhatIsBeingAsked.Text = HttpContext.GetGlobalResourceObject("Strings", "16a_donation_what_is_being_asked").ToString();
+            this.lblWhatIsBeingAsked.Text = HttpContext.GetGlobalResourceObject("Strings", "16_NewLoan_what_is_being_asked").ToString();
 
-            this.lblBackground.Text = HttpContext.GetGlobalResourceObject("Strings", "17_donation_background").ToString().Replace("dbTotalAMonth", total.ToString("$###,###"));
+            this.lblListHeader.Text = HttpContext.GetGlobalResourceObject("Strings", "16_NewLoan_ListHeader").ToString();
 
-            this.lblGoal.Text = HttpContext.GetGlobalResourceObject("Strings", "17a_donation_goal").ToString();
+            this.lblBackground.Text = HttpContext.GetGlobalResourceObject("Strings", "16_NewLoan_BodyText").ToString();
 
-            this.lblWhereIsYourHeart.Text = HttpContext.GetGlobalResourceObject("Strings", "17b_donation_heart").ToString();
 
         }
     }

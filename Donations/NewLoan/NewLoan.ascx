@@ -111,7 +111,7 @@
 
             <div style="display: <%=this.listDisplay%>">
                 <h3>
-                    <asp:Label ID="lblListHeader" runat="server" Text="<%$ Resources:Strings, 18_donation_list_header %>"></asp:Label></h3>
+                    <asp:Label ID="lblListHeader" runat="server" Text="<%$ Resources:Strings, 16_NewLoan_ListHeader %>"></asp:Label></h3>
                 <asp:Label ID="lblList" runat="server" Text="List of Families"></asp:Label>
             </div>
         </td>
@@ -123,10 +123,4 @@
     <asp:Label ID="lblBackground" runat="server" Text=""></asp:Label>
 </div>
 
-<div style="display: <%=this.goalDisplay%>">
-    <asp:Label ID="lblGoal" runat="server" Text=""></asp:Label>
-</div>
 
-<div style="display: <%=this.whereIsYourHeartDisplay%>">
-    <asp:Label ID="lblWhereIsYourHeart" runat="server" Text=""></asp:Label>
-</div>
