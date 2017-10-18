@@ -236,6 +236,20 @@
     <Compile Include="Donations\Money.aspx.designer.cs">
       <DependentUpon>Money.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Donations\NewLoan\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\NewLoan\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Donations\NewLoan\NewLoan.ascx.cs">
+      <DependentUpon>NewLoan.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Donations\NewLoan\NewLoan.ascx.designer.cs">
+      <DependentUpon>NewLoan.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Donations\Prayer.aspx.cs">
       <DependentUpon>Prayer.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -510,6 +524,8 @@
     <Content Include="Donations\Money.aspx">
       <SubType>Form</SubType>
     </Content>
+    <Content Include="Donations\NewLoan\default.aspx" />
+    <Content Include="Donations\NewLoan\NewLoan.ascx" />
     <Content Include="Donations\Prayer.aspx">
       <SubType>Form</SubType>
     </Content>
