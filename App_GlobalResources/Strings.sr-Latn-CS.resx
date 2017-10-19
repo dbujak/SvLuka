@@ -1990,7 +1990,7 @@ While our income is nothing to sneeze at (averages $25,000 / month), our monthly
 
 &lt;h3&gt;Money Facts&lt;/h3&gt;
 
-&lt;table border=1&gt;
+&lt;table border=1 cellpadding=5 cellspacing=0&gt;
 &lt;tr&gt;&lt;th colspan=2 align=left&gt;General Info&lt;/th&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;th&gt;Description	&lt;/th&gt;&lt;th&gt;Amount&lt;/th&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Old House purchase price&lt;/td&gt;&lt;td align=right&gt;$1,200,000&lt;/td&gt;&lt;/tr&gt;
@@ -1998,19 +1998,21 @@ While our income is nothing to sneeze at (averages $25,000 / month), our monthly
 &lt;tr&gt;&lt;td&gt;Construction Cost to build new church/hall/kitchen etc&lt;/td&gt;&lt;td align=right&gt;$1,953,000&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;New Loan amount&lt;/td&gt;&lt;td align=right&gt;$2,212,000&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;New Loan interest rate&lt;/td&gt;&lt;td align=right&gt;5.50%&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;
 
+&lt;table border=1 cellpadding=5 cellspacing=0&gt;
 &lt;tr&gt;&lt;th colspan=2 align=left&gt;Monthly expenses&lt;/th&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;th&gt;Description	&lt;/th&gt;&lt;th&gt;Amount&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Mortgage&lt;/td&gt;&lt;td align=right$13,519&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Mortgage&lt;/td&gt;&lt;td align=right&gt;$13,519&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Priest and his office&lt;/td&gt;&lt;td align=right&gt;$5,806&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Utilities&lt;/td&gt;&lt;td align=right&gt;$2,400&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Janitor, Property Insurance, Diocesan Assessment&lt;/td&gt;&lt;td align=right&gt;$3,000&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Misc Expences (Donation Envelopes, Altar, Storage Containers, Religeous Ed)&lt;/td&gt;&lt;td align=right&gt;$2,250&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th&gt;Sub-total:&lt;/th&gt;&lt;th align=right&gt;$26,975&lt;/th&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Miscellaneous items (disposables &amp; consumables in kitchen); unforeseen items like repairs&lt;/td&gt;&lt;td align=right&gt;$1,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th align=right&gt;Total:&lt;/th&gt;&lt;th align=right&gt;$27,975&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Cash Reserve Goal:&lt;/td&gt;&lt;td align=right&gt;$12,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th align=right&gt;Total:&lt;/th&gt;&lt;th align=right&gt;$39,975&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th align=right&gt;Total Expenses:&lt;/th&gt;&lt;th align=right&gt;$27,975&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Cash Reserve Goal:&lt;/td&gt;&lt;td align=right&gt;$12,500&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th align=right&gt;Total Monthly Income:&lt;/th&gt;&lt;th align=right&gt;$40,475&lt;/th&gt;&lt;/tr&gt;
 &lt;/table&gt;</value>
   </data>
   <data name="16_NewLoan_header" xml:space="preserve">
@@ -2025,22 +2027,22 @@ While our income is nothing to sneeze at (averages $25,000 / month), our monthly
   </data>
   <data name="16_NewLoan_what_is_being_asked" xml:space="preserve">
     <value>&lt;h3&gt;What Is Being Asked of You &amp; Your Family&lt;/h3&gt;
-&lt;p&gt;The Church needs &lt;b&gt;more donations and those donations to be recurring online monthly donations&lt;/b&gt;. You can do this &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Church needs &lt;b&gt;more donations and those donations to be recurring online monthly donations&lt;/b&gt;. You can do this by &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;So, if you:&lt;br/&gt;
-&lt;ul&gt;
-&lt;li&gt;Donate regularly with cash or check:&lt;/li&gt;
+&lt;ul style="padding&gt;
+&lt;li style="margin-top: 10px;"&gt;Donate regularly with cash or check:&lt;/li&gt;
     &lt;ol&gt;
     &lt;li&gt;Please consider increasing your donation by at least 30% &lt;/li&gt;
-    &lt;li&gt;Sign up online to donate (if you’re not sure what your monthly donations are please contact Dejan Bujak)&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;Sign up online&lt;/a&gt; to donate (if you’re not sure what your monthly donations are please contact &lt;a href="mailto:dejanbujak@gmail.com"&gt;Dejan Bujak&lt;/a&gt;)&lt;/li&gt;
     &lt;/ol&gt;
-&lt;li&gt;Already have recurring donation:&lt;/li&gt;
+&lt;li style="margin-top: 10px;"&gt;Already have recurring donation:&lt;/li&gt;
     &lt;ul&gt;
-    &lt;li&gt;Please consider increasing your donation by at least 30% &lt;/li&gt;
+    &lt;li&gt;Please &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;consider increasing&lt;/a&gt; your donation by at least 30% &lt;/li&gt;
     &lt;/ul&gt;
-&lt;li&gt;Donate infrequently or do not donate:&lt;/li&gt;
+&lt;li style="margin-top: 10px;"&gt;Donate infrequently or do not donate:&lt;/li&gt;
     &lt;ul&gt;
-    &lt;li&gt;Please consider starting a regular online donation&lt;/li&gt;
+    &lt;li&gt;Please consider starting a &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;regular online donation&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/ul&gt;</value>
   </data>
