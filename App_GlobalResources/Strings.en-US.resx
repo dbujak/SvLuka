@@ -132,7 +132,7 @@
     <value>St Luke Church</value>
   </data>
   <data name="4_home" xml:space="preserve">
-    <value>$90 / Month Campaign</value>
+    <value>Refinancing Campaign</value>
   </data>
   <data name="5_whatsnew" xml:space="preserve">
     <value>What's New</value>
@@ -2057,7 +2057,7 @@ While our income is nothing to sneeze at (averages $25,000 / month), our monthly
 &lt;em&gt;“For where your treasure is, there your heart will be also.” [Luke 12:34]&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;</value>
   </data>
   <data name="16_NewLoan_ListHeader" xml:space="preserve">
-    <value>Families supporting our Church with monthly on-line donations (sorted by monthly donations)</value>
+    <value>Families supporting our Church with monthly on-line donations</value>
   </data>
   <data name="16_NewLoan_PageTitle" xml:space="preserve">
     <value>Refinancing Campaign</value>

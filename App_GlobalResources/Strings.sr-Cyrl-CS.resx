@@ -132,7 +132,7 @@
     <value>Црква Св Лукe</value>
   </data>
   <data name="4_home" xml:space="preserve">
-    <value>Кампања $90 мјесечно</value>
+    <value>Кампања за нови зајам</value>
   </data>
   <data name="5_whatsnew" xml:space="preserve">
     <value>Новости</value>
@@ -1965,81 +1965,83 @@ href="/SvLuka/Files/Bogojavljenje 2006Hi.wmv"&gt;већа резолуција (
 &lt;p&gt;Ако сви заједно помажемо цркву, а не уздамо се да ће неко други то да ради за нас, одржаћемо српску православну цркву у нашем граду. Имаћемо гдје да се дружимо, крстимо, вјенчавамо нашу дјецу, сахрањујемо најмилије, служимо парастосе. Имаћемо нашу цркву за све духовне потребе.&lt;/p&gt;</value>
   </data>
   <data name="16_NewLoan_BodyText" xml:space="preserve">
-    <value>&lt;h3&gt;What is the Refinancing Campaign about?&lt;/h3&gt;
-&lt;p&gt;Our mortgage is amortized over 30 years, but a balloon payment is due at the end of 5 years (which is in December of 2018). We have to refinance the existing loan by then in order to service money borrowed for the purchase of the land and construction of the new Church.&lt;/p&gt;
+    <value>&lt;h3&gt;Шта је кампања за нови зајам?&lt;/h3&gt;
+&lt;p&gt;За разлику од обичних кућних зајмова који трају по 30 година, црквени зајмови се третирају као комерцијални и они трају 5 година (мјесечна рата комерцијалног зајма се обрачунава као да је отплата на 30 година, али сам зајам је на 5 година). У децембру 2018 нам истиче зајам и морамо га обновити.&lt;/p&gt;
 
-&lt;h3&gt;What Seems to be the Problem?&lt;/h3&gt;
+&lt;h3&gt;У чему је проблем?&lt;/h3&gt;
 &lt;p&gt;
-While our income is nothing to sneeze at (averages $25,000 / month), our monthly expenses are just under $30,000 / month. This gap caused us to spend all the cash in reserve and now we are late with Mortgage payments. &lt;/p&gt;
+Мало која црква као наша може да се похвали мјесечним прилозима својих парохијана у просјечном износу од $25,000 долара. Ипак, због мјесечних трошкова који износе у просјеку $30,000 долара, црква већ један мјесец касни са отплатом кредита. Новац прикупљен током српских фестивала и слично, потроши се за намиривање недостајећих 5,000 долара на мјесечном нивоу. Иначе су током љетњих мјесеци значајно умањени прилози нашој цркви.
+&lt;/p&gt;
 
-&lt;p&gt;Furthermore, no bank in the world would lend us money with financial circumstances like these. &lt;/p&gt;
+&lt;p&gt;Због свега овога, и ако ситуација остане не промјењена, ни једна банка нам не би дала нови зајам.
+&lt;/p&gt;
 
-&lt;h3&gt;What Went Wrong?&lt;/h3&gt;
-&lt;p&gt;When we applied for the current loan we had healthy cash reserves and pledges for our Capital Campaign from Parishioners in the amount of over $200,000/year. The pledges didn’t materialize 100% and we had to use all our cash reserves to keep up with mortgage payments and other expenses.&lt;/p&gt;
+&lt;h3&gt;Како смо дошли у ову ситуацију?&lt;/h3&gt;
+&lt;p&gt;Када смо добили трентуни зајам имали смо пристојне резерве готовине и обећања парохијана од Капитален кампање у вриједностима од $200,000 годишње. Ова обећања се нису обистинила 100% и морали смо да употријебимо резерве готовине да би плаћали мјесечну рату и друге трошкове.&lt;/p&gt;
 
-&lt;h3&gt;What Do We Need to Do to Get a New Loan?&lt;/h3&gt;
-&lt;p&gt;We need 2 things in order to be able to refinance our loan: (1) we need to show steady income which is sufficient to service the loan AND (2) we need to show that we have cash reserves. Our income has to not only match our expenses, but has to show healthy overage so the bank is willing to take the risk and lend us the money. In order to meet these 2 requirements, our income needs to be at least $40,000 / month.&lt;/p&gt;
+&lt;h3&gt;Шта мора да се ради да би добили нови зајам?&lt;/h3&gt;
+&lt;p&gt;Морамо да урадимо 2 ствари да би добили нови зајам: (1) морамо да покажемо регуларне приходе који могу да подрже наше трошкове и (2) морамо да имамо уштеђевину у готовом новцу. Значи, наши приходи морају не само да покрију тренутне расходе, него и да имамо пристојну суму преко тога да би банка хтјла да нам позајми нови зајам. Да би испунили ове 2 ствари приходи морају да нам буду око $40,000 долара мјесечно.&lt;/p&gt;
 
-&lt;h3&gt;For Years We Heard Church Needs More Money… How Serious Is the Situation? &lt;/h3&gt;
-&lt;p&gt;As serious as it gets...&lt;/p&gt;
+&lt;h3&gt;Годинама чујемо како Црква нема пара... Шта је сада друкчије? Колико је ситуација озбиљна?&lt;/h3&gt;
+&lt;p&gt;Ситуација је врло озбиљна.&lt;/p&gt;
 
-&lt;p&gt;The refinance process typically starts 6-9 months before the loan due date, so if we don’t collect close to $40,000 in monthly online donations by the end of April, 2018, we will have to put the Church up for sale and see what God has planned for us.&lt;/p&gt;
+&lt;p&gt;Папирологија за добијње комерцијалног зајма почиње по 6 до 9 мјесеци унапријед. То значи, да ако не скупимо око $40,000 долара мјесечно до априла 2018., мораћемо да понудимо Цркву на продају па да нам буде како нам Бог одреди.&lt;/p&gt;
 
-&lt;h3&gt;Money Facts&lt;/h3&gt;
+&lt;h3&gt;Наши финасијски подаци&lt;/h3&gt;
 
 &lt;table border=1 cellpadding=5 cellspacing=0&gt;
-&lt;tr&gt;&lt;th colspan=2 align=left&gt;General Info&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th&gt;Description	&lt;/th&gt;&lt;th&gt;Amount&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Old House purchase price&lt;/td&gt;&lt;td align=right&gt;$1,200,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Old House old mortgage&lt;/td&gt;&lt;td align=right&gt;$481,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Construction Cost to build new church/hall/kitchen etc&lt;/td&gt;&lt;td align=right&gt;$1,953,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;New Loan amount&lt;/td&gt;&lt;td align=right&gt;$2,212,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;New Loan interest rate&lt;/td&gt;&lt;td align=right&gt;5.50%&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th colspan=2 align=left&gt;Подаци о задуживањима&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Опис&lt;/th&gt;&lt;th&gt;Паре&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Цијена старе црквене куће&lt;/td&gt;&lt;td align=right&gt;$1,200,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Зајам за стару кућу&lt;/td&gt;&lt;td align=right&gt;$481,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Трошкови конструкције за нову Цркву, салу, кухињу итд&lt;/td&gt;&lt;td align=right&gt;$1,953,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Тренутни зајам&lt;/td&gt;&lt;td align=right&gt;$2,212,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Камата тренутног зајма&lt;/td&gt;&lt;td align=right&gt;5.50%&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;br/&gt;&lt;br/&gt;
 
 &lt;table border=1 cellpadding=5 cellspacing=0&gt;
-&lt;tr&gt;&lt;th colspan=2 align=left&gt;Monthly expenses&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th&gt;Description	&lt;/th&gt;&lt;th&gt;Amount&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Mortgage&lt;/td&gt;&lt;td align=right&gt;$13,519&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Priest and his office&lt;/td&gt;&lt;td align=right&gt;$5,806&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Utilities&lt;/td&gt;&lt;td align=right&gt;$2,400&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Janitor, Property Insurance, Diocesan Assessment&lt;/td&gt;&lt;td align=right&gt;$3,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Misc Expences (Donation Envelopes, Altar, Storage Containers, Religeous Ed)&lt;/td&gt;&lt;td align=right&gt;$2,250&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Miscellaneous items (disposables &amp; consumables in kitchen); unforeseen items like repairs&lt;/td&gt;&lt;td align=right&gt;$1,000&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th align=right&gt;Total Expenses:&lt;/th&gt;&lt;th align=right&gt;$27,975&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;Cash Reserve Goal:&lt;/td&gt;&lt;td align=right&gt;$12,500&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;th align=right&gt;Total Monthly Income:&lt;/th&gt;&lt;th align=right&gt;$40,475&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th colspan=2 align=left&gt;Мјесечни трошкови&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Опис&lt;/th&gt;&lt;th&gt;Паре&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Зајам&lt;/td&gt;&lt;td align=right&gt;$13,519&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Свештеник&lt;/td&gt;&lt;td align=right&gt;$5,806&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Даџбине (струја, гријање...)&lt;/td&gt;&lt;td align=right&gt;$2,400&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Чишћење, осигурање, таксе епархији&lt;/td&gt;&lt;td align=right&gt;$3,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Остали трошкови (коверте за донације, црквене потребе, изнамљивање контерјенра итд)&lt;/td&gt;&lt;td align=right&gt;$2,250&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Трошкови који искрсну (потрепштине за кухињу, поправке итд)&lt;/td&gt;&lt;td align=right&gt;$1,000&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th align=right&gt;Укупни трошкови:&lt;/th&gt;&lt;th align=right&gt;$27,975&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Додатна резерва за штедњу:&lt;/td&gt;&lt;td align=right&gt;$12,500&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th align=right&gt;Укупни циљ мјесечних доанција:&lt;/th&gt;&lt;th align=right&gt;$40,475&lt;/th&gt;&lt;/tr&gt;
 &lt;/table&gt;</value>
   </data>
   <data name="16_NewLoan_header" xml:space="preserve">
-    <value>&lt;h2&gt;St. Luke Serbian Orthodox Church - Refinancing Campaign&lt;/h2&gt;
-&lt;em&gt;“For where your treasure is, there your heart will be also.” [Luke 12:34]&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;</value>
+    <value>&lt;h2&gt;Кампања за нови зајам цркве светог Луке&lt;/h2&gt;
+&lt;em&gt;“Јер гдје је ваше благо, онде ће бити и ваше срце“. [Лука 12:35]&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;</value>
   </data>
   <data name="16_NewLoan_ListHeader" xml:space="preserve">
-    <value>Families supporting our Church with monthly on-line donations (sorted by monthly donations)</value>
+    <value>Породице које помажу Цркву редовним електроским мјесечним донацијама</value>
   </data>
   <data name="16_NewLoan_PageTitle" xml:space="preserve">
-    <value>Refinancing Campaign</value>
+    <value>Кампања за нови зајам</value>
   </data>
   <data name="16_NewLoan_what_is_being_asked" xml:space="preserve">
-    <value>&lt;h3&gt;What Is Being Asked of You &amp; Your Family&lt;/h3&gt;
-&lt;p&gt;The Church needs &lt;b&gt;more donations and those donations to be recurring online monthly donations&lt;/b&gt;. You can do this by &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;clicking here&lt;/a&gt;.&lt;/p&gt;
+    <value>&lt;h3&gt;Шта се тражи од вас и ваше породице&lt;/h3&gt;
+&lt;p&gt;Цркви је потребно &lt;b&gt;више донација и то регуларних електроских донација&lt;/b&gt;. Можете одмах да почнете тако што ћете &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;кликнути овдје&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;So, if you:&lt;br/&gt;
+&lt;p&gt;Дакле, ако:&lt;br/&gt;
 &lt;ul style="padding&gt;
-&lt;li style="margin-top: 10px;"&gt;Donate regularly with cash or check:&lt;/li&gt;
+&lt;li style="margin-top: 10px;"&gt;помажете редовну Цркву путем готовине или чека:&lt;/li&gt;
     &lt;ol&gt;
-    &lt;li&gt;Please consider increasing your donation by at least 30% &lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;Sign up online&lt;/a&gt; to donate (if you’re not sure what your monthly donations are please contact &lt;a href="mailto:dejanbujak@gmail.com"&gt;Dejan Bujak&lt;/a&gt;)&lt;/li&gt;
+    &lt;li&gt;Молимо вас да повећета ваше донације за 30% (ако можете)&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;Почнете са електроским донацијама&lt;/a&gt; (ако нисте сигурни колико донирате на мјесечном нивоу обратите се &lt;a href="mailto:dejanbujak@gmail.com"&gt;Дејану Бујаку&lt;/a&gt;)&lt;/li&gt;
     &lt;/ol&gt;
-&lt;li style="margin-top: 10px;"&gt;Already have recurring donation:&lt;/li&gt;
+&lt;li style="margin-top: 10px;"&gt;Већ донирате електроски:&lt;/li&gt;
     &lt;ul&gt;
-    &lt;li&gt;Please &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;consider increasing&lt;/a&gt; your donation by at least 30% &lt;/li&gt;
+    &lt;li&gt;Молимо вас да &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;повећате&lt;/a&gt; вашу донацију за 30% (ако можете)&lt;/li&gt;
     &lt;/ul&gt;
-&lt;li style="margin-top: 10px;"&gt;Donate infrequently or do not donate:&lt;/li&gt;
+&lt;li style="margin-top: 10px;"&gt;Помажете Цркву нередовно или скоро никако:&lt;/li&gt;
     &lt;ul&gt;
-    &lt;li&gt;Please consider starting a &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;regular online donation&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Молимо вас да почнете &lt;a href="https://secure.etransfer.com/EFT/Custom/SLSOC/Donation480/donation1.cfm?d2org=SLSOC&amp;d2tool=Campaign" target=_blank&gt;са регуларним електроским донацијама&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 &lt;/ul&gt;</value>
   </data>

@@ -94,7 +94,7 @@ namespace SvLuka.Donations.NewLoan
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            string strSQL = "Select * From tblDonationsNewLoan Order By Amount Desc, LastName + FirstName";
+            string strSQL = "Select * From tblDonationsNewLoan Order By LastName, FirstName";
 
             SvLuka.ConnString Conn = new ConnString();
 
@@ -114,25 +114,33 @@ namespace SvLuka.Donations.NewLoan
             foreach (System.Data.DataRow row in DT.Rows)
             {
                 counter = counter + 1;
-                if (amount != Convert.ToDouble(row["Amount"]))
+                if (row["LastName"].ToString().ToLower() != "anonymous")
                 {
-                    adjustedCounter = adjustedCounter + 1;
-                    amount = Convert.ToDouble(row["Amount"]);
+                    this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold" + backgroundColor + "'>- " + row["LastName"] + ", " + row["FirstName"];
+                    this.lblList.Text = this.lblList.Text + "</div>";
                 }
-                if (adjustedCounter % 2 == 0)
-                {
-                    backgroundColor = "-webkit-text-fill-color: #5B393C;";
-                }
-                else
-                {
-                    backgroundColor = "";
-                }
-                this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold; " + backgroundColor + "'>" + adjustedCounter.ToString() + " " + row["LastName"] + ", " + row["FirstName"];
-               
-                this.lblList.Text = this.lblList.Text + "</div>";
                 total = total + Convert.ToInt32(row["Amount"]);
+                //counter = counter + 1;
+                //if (amount != Convert.ToDouble(row["Amount"]))
+                //{
+                //    adjustedCounter = adjustedCounter + 1;
+                //    amount = Convert.ToDouble(row["Amount"]);
+                //}
+                //if (adjustedCounter % 2 == 0)
+                //{
+                //    backgroundColor = "-webkit-text-fill-color: #5B393C;";
+                //}
+                //else
+                //{
+                //    backgroundColor = "";
+                //}
+                //this.lblList.Text = this.lblList.Text + "<div counter=" + counter + " style='padding-top:10px; font-weight: bold; " + backgroundColor + "'>" + adjustedCounter.ToString() + " " + row["LastName"] + ", " + row["FirstName"];
+               
+                //this.lblList.Text = this.lblList.Text + "</div>";
+                //total = total + Convert.ToInt32(row["Amount"]);
 
             }
+            this.lblList.Text = this.lblList.Text + "<div style='padding-top:10px; font-weight: bold'>- Anonymous</div>";
 
             this.lblList.Text = this.lblList.Text + "</div>";
 
